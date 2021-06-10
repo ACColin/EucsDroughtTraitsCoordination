@@ -10,6 +10,16 @@ output:
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(devtools)
+library(readr)
+library(sp)
+library(raster)
+library(stats)
+library(nycflights13)
+library(plyr)
+library(readxl)
+
+setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDroughtTraitsCoordination")
+
 ```
 
 ## Combining delta(13)C with the big species dataset
@@ -19,17 +29,21 @@ the two datasets are combined according to the unique RowTree ID
 then the dataset is filtered by unique RowTree# just in case.
 
 ```{r combine datasets}
-d13C_data <- read.csv2("data/d13C_data.csv", header = TRUE)
+d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE)
+nrow(d13C_data)
+colnames(d13C_data)[1]<-"RowTree"
 view(d13C_data)
 
-species_dataset <- read.csv("data/species_dataset.csv", header = TRUE)
+species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
 view(species_dataset)
+nrow(species_dataset)
 
 full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
 view(full.df)
 
 u_full.df<-
   full.df %>% distinct(RowTree, .keep_all = T)
+view(u_full.df)
 
 write.csv(u_full.df, "outputs/species_functional_traits.csv")
 
@@ -53,7 +67,7 @@ view(cca_filtered)
 Then we can plot traits against each other:
 ``` {plotting d13C against MAP}
 
-plot.map.d13c <- ggplot(data = cca_filtered, mapping = aes(x = BIO1, y = d13C)) + 
+plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = BIO1, y = d13C)) + 
   geom_point(mapping = aes(color = sections))+
   facet_grid(Section ~ .)
 
