@@ -12,15 +12,49 @@ library(tidyverse)
 library(devtools)
 ```
 
-## Combining delta(13)C with 
+## Combining delta(13)C with the big species dataset
 
 script to combine the previous dataset with species functional traits to the d13C dataset
 the two datasets are combined according to the unique RowTree ID
+then the dataset is filtered by unique RowTree# just in case.
 
-```{r cars}
-summary(cars)
+```{r combine datasets}
+d13C_data <- read.csv("data/d13C_data.csv", header = TRUE)
+view(d13C_data)
+
+species_dataset <- read.csv("data/species_dataset.csv", header = TRUE)
+view(species_dataset)
+
+full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
+view(full.df)
+
+u_full.df<-
+  full.df %>% distinct(RowTree, .keep_all = T)
+
+write.csv(u_full.df, "outputs/species_functional_traits.csv")
+
 ```
 
-## Including Plots
+## Selecting/filtering the dataset for specific species/year
 
+Because the whole d13C dataset contains also Victoria's species I refine here to exclude other species in Maidenaria or Eucalyptus sections.
 
+``` {refine species selection}
+
+cca_filtered <- 
+  u_full.df %>% 
+  filter(Section %in% c("Exsertaria", "Adnataria"),
+         between(year, 1994, 2001))
+view(cca_filtered)
+```
+
+Then we can plot traits against each other:
+``` {plotting species trait data}
+
+plot.mean.section<-ggplot(data = cca_filtered, mapping = aes(x = BIO1, y = BIO12)) + 
+  geom_point(mapping = aes(color = Section))+
+  facet_grid(Section ~ .)
+
+print(plot.mean.section)
+dev.print(pdf, 'figs/plot_bioclim_mean_CCA_sections.pdf')
+```
