@@ -29,6 +29,7 @@ Environmental/biome variables:
 Trait association to test and plot:
  * d13C against latitude/MAP/MAT/AI/rainfall
  * d13C against SLA/WD/totalC/totalN
+ * d13C against rainfall of warmest month/temp of driest month
 
 PCA and see if species regroup by taxonomic relationship/drought incicence in the environment
 

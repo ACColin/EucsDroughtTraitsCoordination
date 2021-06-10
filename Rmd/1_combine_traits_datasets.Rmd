@@ -1,0 +1,26 @@
+---
+title: "CCA phyloGWAS Eucalyptus species traits coordination"
+author: "Anne-Cecile Colin"
+date: "10/06/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(devtools)
+```
+
+## Combining delta(13)C with 
+
+script to combine the previous dataset with species functional traits to the d13C dataset
+the two datasets are combined according to the unique RowTree ID
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+
