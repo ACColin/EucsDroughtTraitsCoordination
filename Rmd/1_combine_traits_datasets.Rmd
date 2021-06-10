@@ -16,6 +16,7 @@ library(raster)
 library(stats)
 library(plyr)
 library(readxl)
+library(ggplot2)
 
 setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDroughtTraitsCoordination")
 
@@ -66,7 +67,7 @@ view(cca_filtered)
 Then we can plot traits against each other:
 ``` {plotting d13C against MAP}
 
-plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = BIO1, y = d13C)) + 
+plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = latitude, y = d13C)) + 
   geom_point(mapping = aes(color = sections))+
   facet_grid(Section ~ .)
 
