@@ -14,7 +14,6 @@ library(readr)
 library(sp)
 library(raster)
 library(stats)
-library(nycflights13)
 library(plyr)
 library(readxl)
 
