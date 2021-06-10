@@ -26,3 +26,10 @@ ggbiplot(eucstraits.pca,
   theme(legend.position = "bottom")
 
 
+# Adding other samples in
+additionalsample <- c(#string of data listed according to variables in dataset for this sample)
+
+eucstraitsplus <- rbind(eucstraits, additionalsample)
+
+eucstraitsplus.pca <- prcomp(eucstraitsplus[,c(1:7)], center = TRUE, scale. = TRUE)
+# then plot like above but using eucstraitsplus.pca for dataset 
