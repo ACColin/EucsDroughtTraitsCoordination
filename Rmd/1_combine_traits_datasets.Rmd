@@ -25,14 +25,14 @@ setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDrou
 
 ## Combining delta(13)C with the big species dataset with other traits
 
-script to combine the previous dataset with species functional traits to the d13C dataset
+script to combine the previous dataset with species functional traits to the d13C dataset (to update once the last sample run is sent...)
 the two datasets are combined according to the unique RowTree ID
 then the dataset is filtered by unique RowTree# just in case.
 
 ```{r combine datasets part1}
-d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE)
+d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) +
+  colnames(d13C_data)[1]<-"RowTree"
 nrow(d13C_data)
-colnames(d13C_data)[1]<-"RowTree"
 view(d13C_data)
 
 species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
@@ -48,31 +48,37 @@ u_full.df<-
 nrow(u_full.df)
 view(u_full.df)
 
-write.csv(u_full.df, "outputs/species_functional_traits.csv")
+write.csv(u_full.df, "../outputs/species_functional_traits.csv")
 
 ```
 
 ## Combining the resulting dataset with information from Worldclim and floral descriptions
 
-```{r combine datasets part2}
-u_full.df <- read.csv("../data/species_functional_traits.csv", header = TRUE)
-nrow(u_full.df)
-view(u_full.df)
+```{r combine datasets part2, echo = FALSE}
+trait_dataset <- read.csv("../outputs/species_functional_traits.csv", header = TRUE)
+nrow(trait_dataset)
+view(trait_dataset)
 
-species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
-view(species_dataset)
-nrow(species_dataset)
+# first adding the climate variables
+climate_dataset <- read.csv("../data/AC_species_list_drought_data.csv", header = TRUE)
+str(climate_dataset)
+view(climate_dataset)
+nrow(climate_dataset)
 
-full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
+full.df <- left_join(trait_dataset, climate_dataset, by = c("RowTree")) %>%
+  #select(-one_of("Threatened.NSW","Yearplanted.x")) %>% # indicate list of variables to remove from database
+  distinct(RowTree, .keep_all = T) %>%
+  select(-one_of('Note.Gbif', 'Recovery2019.2020','Regrowth','RegrowthLocation','RegrowthAge','Regrowthdieback','Timesincedeath.June2019.','MaturityMar2020','Maturity.atJune.2019'))
+  # remove NAs
+  #na.omit(as.data.frame(full.df))
+#full.df <- na.omit(full.df, col = "UniqueID")
+
+
+str(full.df)
 nrow(full.df)
 view(full.df)
 
-u_full.df<-
-  full.df %>% distinct(RowTree, .keep_all = T)
-nrow(u_full.df)
-view(u_full.df)
-
-write.csv(u_full.df, "outputs/species_functional_traits.csv")
+write.csv(full.df, "../outputs/species_concatenated_data.csv")
 
 ```
 
