@@ -30,7 +30,7 @@ the two datasets are combined according to the unique RowTree ID
 then the dataset is filtered by unique RowTree# just in case.
 
 ```{r combine datasets part1}
-d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) +
+d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) #+
   colnames(d13C_data)[1]<-"RowTree"
 nrow(d13C_data)
 view(d13C_data)
@@ -67,7 +67,7 @@ nrow(climate_dataset)
 
 full.df <- left_join(trait_dataset, climate_dataset, by = c("RowTree")) %>%
   #select(-one_of("Threatened.NSW","Yearplanted.x")) %>% # indicate list of variables to remove from database
-  distinct(RowTree, .keep_all = T) %>%
+  distinct(RowTree, .keep_all = T) # %>%
   select(-one_of('Note.Gbif', 'Recovery2019.2020','Regrowth','RegrowthLocation','RegrowthAge','Regrowthdieback','Timesincedeath.June2019.','MaturityMar2020','Maturity.atJune.2019'))
   # remove NAs
   #na.omit(as.data.frame(full.df))

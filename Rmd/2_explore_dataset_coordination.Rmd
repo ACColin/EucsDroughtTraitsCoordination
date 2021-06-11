@@ -40,7 +40,7 @@ To answer that question we can use a GLMM an control for the year (block design)
 Then we can plot traits against each other to explore the data a little bit:
 ``` {r d13C against MAP}
 
-plot.map.d13c <- ggplot(data = cca_filtered, mapping = aes(x = latitude, y = d13C)) + 
+plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = latitude, y = d13C)) + 
   geom_point(mapping = aes(color = Section))+
   facet_grid(Section ~ .)
 
@@ -50,7 +50,7 @@ dev.print(pdf, 'plots/plot_d13C_MAP_sections.pdf')
 
 
 ``` {r d13C against latitude of tree's homesite}
-plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = latitude, y = d13C)) + 
+plot.map.latitude <- ggplot(data = u_full.df, mapping = aes(x = latitude, y = d13C)) + 
   geom_point(mapping = aes(color = Section)) +
   facet_grid(Section ~ .)
 
@@ -60,9 +60,9 @@ dev.print(pdf, 'plots/plot_d13C_latitude_sections.pdf')
 ```
 
 ``` {r d13C against AI}
-plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = AI, y = d13C)) + 
-  geom_point(mapping = aes(color = sections))+
-  facet_grid(Section ~ .)
+plot.map.AI <- ggplot(data = full.df, mapping = aes(x = AICorrected.y, y = d13C)) + 
+  geom_point(mapping = aes(color = Section.x))+
+  facet_grid(Section.x ~ .)
 
 print(plot.map.AI)
 dev.print(pdf, 'plots/plot_d13C_aridityindex_sections.pdf')
