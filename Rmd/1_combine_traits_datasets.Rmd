@@ -1,5 +1,5 @@
 ---
-title: "CCA phyloGWAS Eucalyptus species traits coordination"
+title: "Constructing CCA phyloGWAS Eucalyptus dataset"
 author: "Anne-Cecile Colin"
 date: "10/06/2021"
 output:
@@ -15,6 +15,7 @@ library(sp)
 library(raster)
 library(stats)
 library(plyr)
+library(dplyr)
 library(readxl)
 library(ggplot2)
 
@@ -22,13 +23,13 @@ setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDrou
 
 ```
 
-## Combining delta(13)C with the big species dataset
+## Combining delta(13)C with the big species dataset with other traits
 
 script to combine the previous dataset with species functional traits to the d13C dataset
 the two datasets are combined according to the unique RowTree ID
 then the dataset is filtered by unique RowTree# just in case.
 
-```{r combine datasets}
+```{r combine datasets part1}
 d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE)
 nrow(d13C_data)
 colnames(d13C_data)[1]<-"RowTree"
@@ -39,58 +40,56 @@ view(species_dataset)
 nrow(species_dataset)
 
 full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
+nrow(full.df)
 view(full.df)
 
 u_full.df<-
   full.df %>% distinct(RowTree, .keep_all = T)
+nrow(u_full.df)
 view(u_full.df)
 
 write.csv(u_full.df, "outputs/species_functional_traits.csv")
 
 ```
 
+## Combining the resulting dataset with information from Worldclim and floral descriptions
+
+```{r combine datasets part2}
+u_full.df <- read.csv("../data/species_functional_traits.csv", header = TRUE)
+nrow(u_full.df)
+view(u_full.df)
+
+species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
+view(species_dataset)
+nrow(species_dataset)
+
+full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
+nrow(full.df)
+view(full.df)
+
+u_full.df<-
+  full.df %>% distinct(RowTree, .keep_all = T)
+nrow(u_full.df)
+view(u_full.df)
+
+write.csv(u_full.df, "outputs/species_functional_traits.csv")
+
+```
+
+
 ## Selecting/filtering the dataset for specific species/year
 
 Because the whole d13C dataset contains also Victoria's species I refine here to exclude other species in Maidenaria or Eucalyptus sections.
 
-``` {refine species selection}
+``` {r filter dataset}
 
 cca_filtered <- 
   u_full.df %>% 
-  filter(Section %in% c("Exsertaria", "Adnataria"),
-         between(year, 1994, 2001))
+  filter(Section %in% c("Exsertaria", "Adnataria"))
+         
+         # between(year, 1994, 2001))
 view(cca_filtered)
+str(cca_filtered)
 ```
 
-## Plotting species trait data
-
-Then we can plot traits against each other:
-``` {plotting d13C against MAP}
-
-plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = latitude, y = d13C)) + 
-  geom_point(mapping = aes(color = sections))+
-  facet_grid(Section ~ .)
-
-print(plot.map.d13c)
-dev.print(pdf, 'plots/plot_d13C_MAP_sections.pdf')
-```
-
-
-``` {plotting d13C against latitude of tree's homesite}
-plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = latitude, y = d13C)) + 
-  geom_point(mapping = aes(color = sections))+
-  facet_grid(Section ~ .)
-
-print(plot.map.latitude)
-dev.print(pdf, 'plots/plot_d13C_latitude_sections.pdf')
-
-```
-
-``` {plotting d13C against AI}
-plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = AI, y = d13C)) + 
-  geom_point(mapping = aes(color = sections))+
-  facet_grid(Section ~ .)
-
-print(plot.map.AI)
-dev.print(pdf, 'plots/plot_d13C_aridityindex_sections.pdf')
 ```

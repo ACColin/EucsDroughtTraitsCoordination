@@ -1,0 +1,121 @@
+---
+title: "Explore species traits coordination"
+author: "Anne-Cecile Colin"
+date: "11/06/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(devtools)
+library(readr)
+library(sp)
+library(raster)
+library(stats)
+library(plyr)
+library(dplyr)
+library(readxl)
+library(ggplot2)
+
+setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDroughtTraitsCoordination")
+```
+
+
+## Exploring the data and asking questions...
+
+d13C is a predictor of drought tolerance in Eucalyptus species, same for other traits related to water transport/storage efficiency such as WD, SLA, totalC and N; and life-history traits conserved related to the species biological niche such as maximum height,
+
+
+ * Is the d13C correlated with the impact of drought on species at the CCA?
+To answer that question we can use a GLMM an control for the year (block design).
+
+```{r}
+
+```
+
+## Plotting species trait data
+
+Then we can plot traits against each other to explore the data a little bit:
+``` {r d13C against MAP}
+
+plot.map.d13c <- ggplot(data = cca_filtered, mapping = aes(x = latitude, y = d13C)) + 
+  geom_point(mapping = aes(color = Section))+
+  facet_grid(Section ~ .)
+
+print(plot.map.d13c)
+dev.print(pdf, 'plots/plot_d13C_MAP_sections.pdf')
+```
+
+
+``` {r d13C against latitude of tree's homesite}
+plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = latitude, y = d13C)) + 
+  geom_point(mapping = aes(color = Section)) +
+  facet_grid(Section ~ .)
+
+print(plot.map.latitude)
+dev.print(pdf, 'plots/plot_d13C_latitude_sections.pdf')
+
+```
+
+``` {r d13C against AI}
+plot.map.latitude <- ggplot(data = cca_filtered, mapping = aes(x = AI, y = d13C)) + 
+  geom_point(mapping = aes(color = sections))+
+  facet_grid(Section ~ .)
+
+print(plot.map.AI)
+dev.print(pdf, 'plots/plot_d13C_aridityindex_sections.pdf')
+```
+
+``` {r d13C against maximum height}
+plot.d13C.MH <- ggplot(data = cca_filtered, mapping = aes(x = maximumheight, y = d13C)) + 
+  geom_point(mapping = aes(color = Section))+
+  facet_grid(Section ~ .)
+
+print(plot.map.AI)
+dev.print(pdf, 'plots/plot_d13C_aridityindex_sections.pdf')
+```
+
+## PCA analysis of functional and life-history traits related to drought
+
+Functional and life-history traits related to drought are coordinated in drought response in different trade-offs and vary according to the climates of origin.
+Here we explore what explains the variance and how much.
+
+```{r PCA analysis}
+#Doing the PCA
+eucstraits <- read.csv2()
+
+eucstraits.pca <- prcomp(eucstraits[,c(1:7)],center = TRUE, scale. = TRUE) ## taking all rows of column 1 to 7
+
+summary(eucstraits.pca)
+
+str(eucstraits.pca)
+# Plotting the PCA
+library(devtools)
+install_github("vqv/ggbiplot")
+
+library(ggbiplot)
+ggbiplot(eucstraits.pca,
+         ellipse = FALSE,#look at other PCs (here PC1 and PC2 specified in choices) 
+         choices = c(1,2),
+         circle = FALSE, # put circle around center to see variability of samples
+         obs.scale = 1, #scaling samples
+         var.scale = 1, #scaling variables
+         labels = species(eucstraits), #sample lables
+         var.axes= TRUE, # showing variables arrows on plot
+         groups = series) + # series for grouping samples
+  scale_colour_manual(name="Origin", values= c("forest green", "red3", "dark blue")) +
+  ggtitle("PCA of ...") +
+  theme_minimal()+
+  theme(legend.position = "bottom")
+
+
+# Adding other samples in
+additionalsample <- c(#string of data listed according to variables in dataset for this sample)
+
+eucstraitsplus <- rbind(eucstraits, additionalsample)
+
+eucstraitsplus.pca <- prcomp(eucstraitsplus[,c(1:7)], center = TRUE, scale. = TRUE)
+# then plot like above but using eucstraitsplus.pca for dataset 
+```
