@@ -30,8 +30,10 @@ d13C is a predictor of drought tolerance in Eucalyptus species, same for other t
 
  * Is the d13C correlated with the impact of drought on species at the CCA?
 To answer that question we can use a GLMM an control for the year (block design).
+Null hypothesis: d13C is not correlated with species' x variable (drought variable in climate of origin)
+Statistical test: GLMM d13C ~ +(1|year)
 
-```{r}
+```{r testing for }
 
 ```
 
