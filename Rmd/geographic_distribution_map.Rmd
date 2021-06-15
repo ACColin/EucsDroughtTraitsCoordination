@@ -1,0 +1,33 @@
+---
+title: "Creating a map of the geographical distribution of the Eucalyptus phyloGWAS dataset (Adna and Exs)"
+author: "Anne-Cecile Colin"
+date: "15/06/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library('tidyverse')
+library('ggrepel')
+library('leaflet')
+library('sf')
+library('raster')
+library('rgdal')
+library('ggmap')
+geom_points <- read.csv()
+
+```
+
+```{r dataset, echo=FALSE}
+summary(geom_points)
+str(geom_points)
+```
+
+```{r}
+m1 <- get_stamenmap( bbox = c(left = 110, bottom = -45, right = 160, top = -10),
+zoom = 4, maptype = "terrain-background")
+ggmap(m1)
+```
