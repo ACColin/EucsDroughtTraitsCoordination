@@ -17,17 +17,54 @@ library('sf')
 library('raster')
 library('rgdal')
 library('ggmap')
-geom_points <- read.csv()
-
+sites <- read.csv("../data/AC_species_functional_traits_latlongs_climate.csv")
 ```
 
 ```{r dataset, echo=FALSE}
-summary(geom_points)
-str(geom_points)
+summary(sites)
+str(sites)
 ```
 
 ```{r}
 m1 <- get_stamenmap( bbox = c(left = 110, bottom = -45, right = 160, top = -10),
 zoom = 4, maptype = "terrain-background")
-ggmap(m1)
+ggmap(m1) +
+  geom_point(data = sites, aes(x=longitude,y=latitude,col=depth))
+```
+``` {r zoom on specific site}
+xmin <- # long minus
+xmax <- # long plus
+ymin <- # lat minus
+ymax <- # lat plus
+
+m2 <- get_stamenmap(bbox = c(left = xmin,
+                             bottom = ymin,
+                             right = xmax,
+                             top = ymax),
+                    zoom = 8, maptype = "terrain")
+ggmap(m2) +
+  geom_point(data = sites,
+             aes(x=longitude,y=latitude,col=series))
+```
+
+``` {r cleaner way to select sites}
+xmin2 <- 149.07
+xmax2 <- 149.18
+ymin2 <- -35.31
+ymax2 <- -35.25
+
+sitesClose <- sites %>% dplyr::filter(longitude > xmin2,
+                                      longitude < xmax2,
+                                      latitude > ymin2,
+                                      latitude < ymax2)
+library(ggrepel)
+
+ggmap(m4) +
+  geom_point(data = sitesClose, aes(x=longitude,y=latitude,col=depth)) +
+  geom_label_repel(data = sitesClose,
+                   aes(x=longitude,
+                       y=latitude,
+                       col=depth,
+                       label=species_name),
+                   box.padding = 0.9)
 ```
