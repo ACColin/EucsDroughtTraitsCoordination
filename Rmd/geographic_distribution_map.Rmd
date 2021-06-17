@@ -25,12 +25,67 @@ summary(sites)
 str(sites)
 ```
 
-```{r}
+```{r Aus map}
 m1 <- get_stamenmap( bbox = c(left = 110, bottom = -45, right = 160, top = -10),
 zoom = 4, maptype = "terrain-background")
 ggmap(m1) +
   geom_point(data = sites, aes(x=longitude,y=latitude,col=depth))
 ```
+
+## Plotting species sampling points onto Australia's climate zones from the Aus' Bureau of Meteorology:
+
+First, reading data and converting as a raster:
+``` {r straya climate zones raster}
+infile <- "../data/kpn/kpnall.txt"
+data <- as.matrix(read.table(infile, skip = 6)) 
+data[data == -9999] = NA
+rr <- raster(data, crs = "+init=epsg:4326")
+extent(rr) = c(112, 112+0.025*1681, -44, -44+0.025*1361)
+
+rr
+```
+
+Then plotting the data:
+``` {r plotting climate zones}
+adm <- getData("GADM", country="AUS", level=1)
+rr = mask(rr, adm)
+plot(rr)
+## come back to this stage and learn how to plot raster and points together with ggplot2 (look at thread in last tab)
+gg
+```
+
+``` {r plotting sampling points}
+library(raster)
+library(rgeos)
+library(ggplot2)
+library(ggthemes)
+
+straya <- gSimplify(getData("GADM", country= "AUS", level=1), tol=0.001, TRUE)
+straya <- fortify(straya)
+
+st <- read.csv("../data/species_coordinates.csv")
+st$color <- "red"
+st[st$section %in% c('Exsertaria'),]$color <- "blue" 
+view(st)
+summary(st)
+
+gg <- ggplot() +
+  geom_map(data=straya, map=straya, map_id = 1) + 
+                    #aes(x=long, y=lat, map_id=id, group=group),
+                    #fill=NA, color="black") +
+  geom_point(data=st, aes(x=longitude, y=latitude, color = color), 
+                      alpha=1, na.rm=TRUE) +
+  scale_size(range=c(2,7)) +
+  scale_color_identity() +
+  labs(title= "Coordinate data of species sampling points across Australia's climate zones", 
+                x="Longitude", y= "Latitude") +
+  coord_map() +
+  theme_map() +
+  theme(title= element_text(hjust = 0.5, vjust=1, face="bold"))
+gg
+
+```
+
 ``` {r zoom on specific site}
 xmin <- # long minus
 xmax <- # long plus
