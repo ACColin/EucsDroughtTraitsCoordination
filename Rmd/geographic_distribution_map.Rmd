@@ -79,12 +79,12 @@ testplot <- ggplot() +
 
 testplot
 gg <- ggplot() +
-  geom_map(data=straya, map=straya, map_id = 1) + 
-  geom_raster(data=test_rr, aes(x=x, y=y, fill=layer)) +
+  #geom_map(data=straya, map=straya, map_id = 1) + 
+  geom_tile(data=test_rr, aes(x=x, y=y, fill=layer)) +
                     #aes(x=long, y=lat, map_id=id, group=group),
                     #fill=NA, color="black") +
-  geom_point(data=st, aes(x=longitude, y=latitude, color = color), 
-                      alpha=1, na.rm=TRUE) +
+  #geom_point(data=st, aes(x=longitude, y=latitude, color = color), 
+                      #alpha=1, na.rm=TRUE) +
   scale_size(range=c(2,7)) +
   scale_color_identity() +
   labs(title= "Coordinate data of species sampling points across Australia's climate zones", 
@@ -132,4 +132,55 @@ ggmap(m4) +
                        col=depth,
                        label=species_name),
                    box.padding = 0.9)
+```
+
+## Climate envelope of selected species:
+
+BIOCLIM are the Worldclim bioclimatic variables.
+ BIOCLIM Variables:
+*BIO1 = Annual Mean Temperature*
+BIO2 = Mean Diurnal Range (Mean of monthly (max temp - min temp))
+BIO3 = Isothermality (BIO2/BIO7) (* 100)
+BIO4 = Temperature Seasonality (standard deviation *100)
+*BIO5 = Max Temperature of Warmest Month*
+BIO6 = Min Temperature of Coldest Month
+BIO7 = Temperature Annual Range (BIO5-BIO6)
+BIO8 = Mean Temperature of Wettest Quarter
+BIO9 = Mean Temperature of Driest Quarter
+BIO10 = Mean Temperature of Warmest Quarter
+BIO11 = Mean Temperature of Coldest Quarter
+*BIO12 = Annual Precipitation*
+BIO13 = Precipitation of Wettest Month
+*BIO14 = Precipitation of Driest Month*
+BIO15 = Precipitation Seasonality (Coefficient of Variation)
+BIO16 = Precipitation of Wettest Quarter
+BIO17 = Precipitation of Driest Quarter
+BIO18 = Precipitation of Warmest Quarter
+BIO19 = Precipitation of Coldest Quarter
+
+``` {r showing climate enveloppe}
+library(raster)
+library(sp)
+library(knitr)
+
+r <- getData("worldclim",var="bio",res=2.5)
+?getData
+r <- r[[c(1:19)]]
+names(r) <- c("BIO1","BIO2","BIO3","BIO4","BIO5","BIO6",
+              "BIO7","BIO8","BIO9","BIO10","BIO11","BIO12",
+              "BIO13","BIO14","BIO15","BIO16","BIO17","BIO18","BIO19")
+#extract raster points
+values <- raster::extract(r, st)
+
+#project the samples
+points <- SpatialPoints(unique(st), proj4string = r@crs)
+plot(points)
+head(points)
+
+```
+
+```{r Plotting trees sample location by climate vaiables}
+
+with(final.df, plot(BIO5, BIO14, cex=1, pch=16, col="grey46"))
+with(final.df, plot(BIO1, BIO12, cex=1, pch=16, col="grey46"))
 ```
