@@ -52,6 +52,10 @@ rr = mask(rr, adm)
 plot(rr)
 ## come back to this stage and learn how to plot raster and points together with ggplot2 (look at thread in last tab)
 gg
+
+test_rr <- as(rr, "SpatialPixelsDataFrame")
+test_rr <- as.data.frame(test_rr)
+colnames(test_rr) <- c("value", "x", "y")
 ```
 
 ``` {r plotting sampling points}
@@ -64,13 +68,14 @@ straya <- gSimplify(getData("GADM", country= "AUS", level=1), tol=0.001, TRUE)
 straya <- fortify(straya)
 
 st <- read.csv("../data/species_coordinates.csv")
-st$color <- "red"
-st[st$section %in% c('Exsertaria'),]$color <- "blue" 
+st$color <- "violetred3"
+st[st$section %in% c('Exsertaria'),]$color <- "skyblue4" 
 view(st)
 summary(st)
 
 gg <- ggplot() +
   geom_map(data=straya, map=straya, map_id = 1) + 
+  geom_tile(data=test_rr, aes(x=x, y=y, fill=value)) +
                     #aes(x=long, y=lat, map_id=id, group=group),
                     #fill=NA, color="black") +
   geom_point(data=st, aes(x=longitude, y=latitude, color = color), 
