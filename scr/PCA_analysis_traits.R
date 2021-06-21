@@ -1,11 +1,20 @@
-#Doing the PCA
+# Loading dataset and libraries
+eucstraits <- read.csv(...)
+## the data consist of xx environmental and physiological variables related to drought tolerance in xx closely-related species of Eucalyptus with contrasting distributions and climate zones.
+
+# Comparing variables with pairwise interactions:
+pairs(eucstraits[,-1], col = wineClasses, upper.panel = NULL, pch = 16, cex = 0.5) # [-1] takes all variables
+legend("topright", bty = "n", legend = c("Exsertaria","Adnataria"), pch = 16, col = c("black","red"),xpd = T, cex = 2, y.intersp = 0.5) # legend can also regroup samples by AI, or series, or else
+
+#Perfom PCA
 eucstraits <- read.csv2()
 
-eucstraits.pca <- prcomp(eucstraits[,c(1:7)],center = TRUE, scale. = TRUE) ## taking all rows of column 1 to 7
+eucstraits.pca <- prcomp(eucstraits[,-1],center = TRUE, scale. = TRUE) ## taking all rows of column 1 to 7
 
 summary(eucstraits.pca)
 
 str(eucstraits.pca)
+
 # Plotting the PCA
 library(devtools)
 install_github("vqv/ggbiplot")
