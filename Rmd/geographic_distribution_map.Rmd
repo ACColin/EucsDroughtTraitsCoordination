@@ -23,13 +23,21 @@ sites <- read.csv("../data/AC_species_functional_traits_latlongs_climate.csv")
 ```{r dataset, echo=FALSE}
 summary(sites)
 str(sites)
+view(sites)
 ```
 
 ```{r Aus map}
 m1 <- get_stamenmap( bbox = c(left = 110, bottom = -45, right = 160, top = -10),
 zoom = 4, maptype = "terrain-background")
-ggmap(m1) +
-  geom_point(data = sites, aes(x=longitude,y=latitude,col=depth))
+m1map <- ggmap(m1) +
+  geom_point(data = sites, aes(x=longitude,y=latitude,col=Section)) +
+  labs(title= "Coordinate data of species sampling points across Australia", 
+                x="Longitude", y= "Latitude")
+
+
+pdf("../plots/sp_sampling_sites.pdf")
+plot(m1map)
+dev.off()
 ```
 
 ## Plotting species sampling points onto Australia's climate zones from the Aus' Bureau of Meteorology:
@@ -45,11 +53,36 @@ extent(rr) = c(112, 112+0.025*1681, -44, -44+0.025*1361)
 rr
 ```
 
+``` {r converting raster values as tibble}
+adm <- getData("GADM", country="AUS", level=1)
+rr = mask(rr, adm)
+
+gplot_data <- function(x, maxpixels = 50000)  {
+  x <- raster::sampleRegular(x, maxpixels, asRaster = TRUE)
+  coords <- raster::xyFromCell(x, seq_len(raster::ncell(x)))
+  ## Extract values
+  dat <- utils::stack(as.data.frame(raster::getValues(x))) 
+  names(dat) <- c('value', 'variable')
+
+  dat <- dplyr::as.tbl(data.frame(coords, dat))
+
+  if (!is.null(levels(x))) {
+    dat <- dplyr::left_join(dat, levels(x)[[1]], 
+                            by = c("value" = "ID"))
+  }
+  dat
+}
+gplot_data(rr)
+```
 Then plotting the data:
 ``` {r plotting climate zones}
 adm <- getData("GADM", country="AUS", level=1)
 rr = mask(rr, adm)
-plot(rr)
+rr <- as.data.frame(rr)
+fortify(rr)
+ggplot(rr) +
+  labs(title= "Australia's climate zones",
+       x="Longitude", y= "Latitude")
 ## come back to this stage and learn how to plot raster and points together with ggplot2 (look at thread in last tab)
 gg
 

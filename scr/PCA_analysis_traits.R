@@ -9,7 +9,7 @@ legend("topright", bty = "n", legend = c("Exsertaria","Adnataria"), pch = 16, co
 #Perfom PCA
 eucstraits <- read.csv2()
 
-eucstraits.pca <- prcomp(eucstraits[,-1],center = TRUE, scale. = TRUE) ## taking all rows of column 1 to 7
+eucstraits.pca <- prcomp(eucstraits[,-1],center = TRUE, scale. = TRUE) ## taking all rows of all columns
 
 summary(eucstraits.pca)
 
