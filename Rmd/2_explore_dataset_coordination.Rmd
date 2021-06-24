@@ -79,6 +79,27 @@ print(plot.map.AI)
 dev.print(pdf, 'plots/plot_d13C_aridityindex_sections.pdf')
 ```
 
+## Visualize traits and environmental coordination with pairwise interaction:
+
+```{r pairwise environemtnal variables interactions}
+eucstraits <-read.csv("../data/species_dataset.csv")
+view(eucstraits)
+Section <- factor(eucstraits$Section)
+pairs(eucstraits[,c(24:44)], col = Section, upper.panel = NULL, pch = 16, cex = 0.5) # [-1] takes all variables
+
+with(eucstraits, plot(TWQ, PDM, cex=1, pch=16, col= "violetred3"))
+str(eucstraits)
+plot.TWQ.PDM <- ggplot(data = eucstraits, mapping = aes(x = TWQ, y = PDM)) + 
+  geom_point(mapping = aes(color = Section)) #+
+  facet_grid(Section ~ .)
+
+print(plot.TWQ.PDM)
+
+plot.WD.MAP <- ggplot(data = eucstraits, mapping = aes(x = MAT, y = MAP)) + 
+  geom_point(mapping = aes(color = Section)) #+
+  facet_grid(Section ~ .)
+print(plot.WD.MAP)
+```
 ## PCA analysis of functional and life-history traits related to drought
 
 Functional and life-history traits related to drought are coordinated in drought response in different trade-offs and vary according to the climates of origin.
