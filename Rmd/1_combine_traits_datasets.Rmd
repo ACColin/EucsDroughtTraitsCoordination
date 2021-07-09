@@ -39,7 +39,7 @@ species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
 view(species_dataset)
 nrow(species_dataset)
 
-full.df <- left_join(d13C_data, species_dataset, by = c("RowTree"))
+full.df <- left_join(species_dataset, d13C_data, by = c("RowTree"))
 nrow(full.df)
 view(full.df)
 

@@ -42,7 +42,7 @@ Statistical test: GLMM d13C ~ +(1|year)
 Then we can plot traits against each other to explore the data a little bit:
 ``` {r d13C against MAP}
 
-plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = latitude, y = d13C)) + 
+plot.map.d13c <- ggplot(data = u_full.df, mapping = aes(x = MAP, y = d13C)) + 
   geom_point(mapping = aes(color = Section))+
   facet_grid(Section ~ .)
 
