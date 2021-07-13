@@ -28,9 +28,9 @@ view(sites)
 
 ```{r Aus map}
 m1 <- get_stamenmap( bbox = c(left = 110, bottom = -45, right = 160, top = -10),
-zoom = 4, maptype = "terrain-background")
+zoom = 4, maptype = "toner-background")
 m1map <- ggmap(m1) +
-  geom_point(data = sites, aes(x=longitude,y=latitude,col=Section)) +
+  geom_point(data = sites, aes(x=longitude,y=latitude,col=PrecDeficit)) +
   labs(title= "Coordinate data of species sampling points across Australia", 
                 x="Longitude", y= "Latitude")
 
