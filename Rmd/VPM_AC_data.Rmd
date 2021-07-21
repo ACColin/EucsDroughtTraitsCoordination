@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Combine d13C data and CCATreesCleaned to obtain CCA# + DNNumber and d13C
 
 ``` {r combine data for CCA# and provenance}
-d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) #+
+d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE)
 nrow(d13C_data)
 view(d13C_data)
 
