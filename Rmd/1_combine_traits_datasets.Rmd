@@ -35,6 +35,8 @@ d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) #+
 nrow(d13C_data)
 view(d13C_data)
 
+CCAdata <- read.csv("../data/CCATreesCleaned.csv", header = TRUE)
+
 species_dataset <- read.csv("../data/species_dataset.csv", header = TRUE)
 view(species_dataset)
 nrow(species_dataset)

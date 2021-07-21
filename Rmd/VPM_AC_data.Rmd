@@ -1,0 +1,58 @@
+---
+title: "VPM and AC database"
+author: "Anne-Cecile Colin"
+date: "21/07/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+Combine functional trait data, species descriptions and CCA number for Victoria and Anne-Cecile's whole CCA dataset
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(devtools)
+library(readr)
+library(sp)
+library(raster)
+library(stats)
+library(plyr)
+library(dplyr)
+library(readxl)
+library(ggplot2)
+
+setwd("C:/ACFolder/Research projects/phyloGWAS CurrencyCreek/R projects/EucsDroughtTraitsCoordination")
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+``` {r combine data}
+d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) #+
+colnames(d13C_data)[1]<-"RowTree"
+nrow(d13C_data)
+view(d13C_data)
+
+CCAdata <- read.csv("../data/CCATreesCleaned.csv", header = TRUE)
+
+species_dataset <- read.csv("../data/{}", header = TRUE)
+view(species_dataset)
+nrow(species_dataset)
+
+full.df <- left_join(species_dataset, d13C_data, by = c("RowTree"))
+nrow(full.df)
+view(full.df)
+
+u_full.df<-
+  full.df %>% distinct(RowTree, .keep_all = T)
+nrow(u_full.df)
+view(u_full.df)
+
+write.csv(u_full.df, "../outputs/species_functional_traits.csv")
+```
+
+``` {r add species description/taxonomy to previous dataset}
+
+
+```
+
+``` {r adding life-history trait to previous dataset}
