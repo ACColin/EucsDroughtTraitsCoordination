@@ -1,0 +1,893 @@
+UniqueID,Yearplanted,RowTree,Collector,Population,Status,Current.name,FieldID,Status.1,Observations,TaxonoriginalDN,Section,Regeneration.Strategy,AICorrected,MAT,MAP,Drought2019Scale.mean,Drought2019Scale.sd,Drought2019Scale.l,Drought2020Scale.mean,Drought2020Scale.sd,Drought2020Scale.l,AridityClass,Victoria ,Anne,Sampled.ANU,Threatened NSW,Final
+9999,1993,R029/T06,-,"Devils Peak, SA",Alive,Eucalyptus flindersii,,,,Eucalyptus flindersii,Exsertaria,Lignotuber,0.1907,16.23333,432,0,,,0.5,,,Arid,,x,,,x
+9999,1993,R029/T07,-,"Devils Peak, SA",Alive,Eucalyptus flindersii,,,,Eucalyptus flindersii,Exsertaria,Lignotuber,0.1907,16.23333,432,0,,,0.5,,,Arid,,x,,,x
+9999,1993,R029/T09,-,"Devils Peak, SA",Alive,Eucalyptus flindersii,,,,Eucalyptus flindersii,Exsertaria,Lignotuber,0.1907,16.23333,432,0,,,0.5,,,Arid,,x,,,x
+143,1993,R11/T27,,"Lake Gilmore, WA",,Eucalyptus melanoxylon,,,,Eucalyptus melanoxylon,Dumaria,Combination,0.1477,17.03750038,290,0,,,0,,,Arid,X,,,,x
+143,1993,R11/T28,,"Lake Gilmore, WA",,Eucalyptus melanoxylon,,,,Eucalyptus melanoxylon,Dumaria,Combination,0.1477,17.03750038,290,0,,,0,,,Arid,X,,,,x
+143,1993,R11/T29,,"Lake Gilmore, WA",,Eucalyptus melanoxylon,,,,Eucalyptus melanoxylon,Dumaria,Combination,0.1477,17.03750038,290,0,,,0,,,Arid,X,,,,x
+616,1994,R016/T41,,"Wingello, NSW",,Eucalyptus aquatica,,,,Eucalyptus aquatica,Maidenaria,Combination,0.673,13.20417,929,2.333333333,,,2.333333333,,,Humid,X,,,X,x
+616,1994,R016/T42,,"Wingello, NSW",,Eucalyptus aquatica,,,,Eucalyptus aquatica,Maidenaria,Combination,0.673,13.20417,929,2.333333333,,,2.333333333,,,Humid,X,,,X,x
+616,1994,R016/T43,,"Wingello, NSW",,Eucalyptus aquatica,,,,Eucalyptus aquatica,Maidenaria,Combination,0.673,13.20417,929,2.333333333,,,2.333333333,,,Humid,X,,,X,x
+545,1994,R039/T09,D.Nicolle,"Wiluna, WA",Alive,Eucalyptus lucasii,CCA0499,OK,,Eucalyptus lucasii,Adnataria,Lignotuber,0.0911,21.86667,275,0,0,4,0,0,4,Arid,X,x,,,x
+545,1994,R039/T10,D.Nicolle,"Wiluna, WA",Alive,Eucalyptus lucasii,CCA0500,OK,,Eucalyptus lucasii,Adnataria,Lignotuber,0.0911,21.86667,275,0,0,4,0,0,4,Arid,X,x,,,x
+545,1994,R039/T11,D.Nicolle,"Wiluna, WA",Alive,Eucalyptus lucasii,CCA0501,OK,,Eucalyptus lucasii,Adnataria,Lignotuber,0.0911,21.86667,275,0,0,4,0,0,4,Arid,X,x,,,x
+545,1994,R039/T12,D.Nicolle,"Wiluna, WA",Alive,Eucalyptus lucasii,CCA0502,OK,,Eucalyptus lucasii,Adnataria,Lignotuber,0.0911,21.86667,275,0,0,4,0,0,4,Arid,X,x,,,x
+482,1994,R040/T12,D.Nicolle,"Mt Wudinna, SA",Alive,Eucalyptus porosa,CCA0525,Only genomics,,Eucalyptus porosa,Adnataria,Combination,0.1605,16.8875,334,0,0,4,0,0,4,Arid,X,x,,,x
+482,1994,R040/T12,D.Nicolle,"Mt Wudinna, SA",Alive,Eucalyptus porosa,CCA0525,OK,,Eucalyptus porosa,Adnataria,Combination,0.1605,16.8875,334,0,0,4,0,0,4,Arid,X,x,x,,x
+482,1994,R040/T13,D.Nicolle,"Mt Wudinna, SA",Alive,Eucalyptus porosa,CCA0526,OK,,Eucalyptus porosa,Adnataria,Combination,0.1605,16.8875,334,0,0,4,0,0,4,Arid,X,x,,,x
+482,1994,R040/T14,D.Nicolle,"Mt Wudinna, SA",Alive,Eucalyptus porosa,CCA0527,OK,,Eucalyptus porosa,Adnataria,Combination,0.1605,16.8875,334,0,0,4,0,0,4,Arid,X,x,,,x
+482,1994,R040/T15,D.Nicolle,"Mt Wudinna, SA",Alive,Eucalyptus porosa,CCA0528,OK,,Eucalyptus porosa,Adnataria,Combination,0.1605,16.8875,334,0,0,4,0,0,4,Arid,X,x,,,x
+181,1994,R041/T32,,"Jerdacuttup, WA",,Eucalyptus stoatei,,,,Eucalyptus stoatei,Dumaria,Seeder,0.2403,16.83749962,447,0,0,,0,0,,Semiarid,X,,,,x
+181,1994,R041/T33,,"Jerdacuttup, WA",,Eucalyptus stoatei,,,,Eucalyptus stoatei,Dumaria,Seeder,0.2403,16.83749962,447,0,0,,0,0,,Semiarid,X,,,,x
+181,1994,R041/T34,,"Jerdacuttup, WA",,Eucalyptus stoatei,,,,Eucalyptus stoatei,Dumaria,Seeder,0.2403,16.83749962,447,0,0,,0,0,,Semiarid,X,,,,x
+427,1994,R042/T08,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus sparsa,CCA0572,OK,,Eucalyptus sparsa,Adnataria,Lignotuber,0.0956,19.7625,276,0,0,4,0,0,4,Arid,X,x,x,,x
+427,1994,R042/T10,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus sparsa,CCA0573,OK,,Eucalyptus sparsa,Adnataria,Lignotuber,0.0956,19.7625,276,0,0,4,0,0,4,Arid,X,x,,,x
+427,1994,R042/T11,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus sparsa,CCA0574,Only genomics,,Eucalyptus sparsa,Adnataria,Lignotuber,0.0956,19.7625,276,0,0,4,0,0,4,Arid,X,x,,,x
+215,1994,R042/T32,,"Beaufort Inlet, WA",,Eucalyptus utilis,,,,Eucalyptus utilis,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+215,1994,R042/T33,,"Beaufort Inlet, WA",,Eucalyptus utilis,,,,Eucalyptus utilis,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+215,1994,R042/T34,,"Beaufort Inlet, WA",,Eucalyptus utilis,,,,Eucalyptus utilis,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+75,1994,R044/T01,,"Waitpinga, SA",,Eucalyptus cneorifolia,CCA0615,OK,,Eucalyptus cneorifolia,Bisectae,Lignotuber,0.4314,19.66666603,713,1.666666667,,3,1.333333333,,3,Semiarid,X,,,,x
+75,1994,R044/T03,,"Waitpinga, SA",,Eucalyptus cneorifolia,CCA0616,OK,,Eucalyptus cneorifolia,Bisectae,Lignotuber,0.4314,19.66666603,713,1.666666667,,3,1.333333333,,3,Semiarid,X,,,,x
+75,1994,R044/T04,,"Waitpinga, SA",,Eucalyptus cneorifolia,CCA0617,OK,,Eucalyptus cneorifolia,Bisectae,Lignotuber,0.4314,19.66666603,713,1.666666667,,3,1.333333333,,3,Semiarid,X,,,,x
+423,1994,R045/T13,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus intertexta,CCA0650,Dead,,Eucalyptus intertexta,Adnataria,Combination,0.0934,19.89167,274,0,0,4,0,0,4,Arid,X,x,x,,x
+565,1994,R049/T32,D.Nicolle,"Mt Aleck, SA",Alive,Eucalyptus goniocalyx subsp. exposa,CCA0755,OK,,Eucalyptus goniocalyx subsp. exposa,Maidenaria,Combination,0.1351,17.86667,331,1.333333333,0.577350269,4,2,0,4,Arid,X,,,,
+565,1994,R049/T34,D.Nicolle,"Mt Aleck, SA",Alive,Eucalyptus goniocalyx subsp. exposa,CCA0756,OK,,Eucalyptus goniocalyx subsp. exposa,Maidenaria,Combination,0.1351,17.86667,331,1.333333333,0.577350269,4,2,0,4,Arid,X,,,,
+565,1994,R049/T35,D.Nicolle,"Mt Aleck, SA",Alive,Eucalyptus goniocalyx subsp. exposa,CCA0757,Only genomics,,Eucalyptus goniocalyx subsp. exposa,Maidenaria,Combination,0.1351,17.86667,331,1.333333333,0.577350269,4,2,0,4,Arid,X,,,,
+570,1994,R060/T34,D.Nicolle,"Beechworth, Vic",Alive,Eucalyptus bridgesiana,CCA0961,OK,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,0.577350269,4,1,0,4,DrySubhumid,X,,,,
+570,1994,R060/T33,D.Nicolle,"Beechworth, Vic",Alive,Eucalyptus bridgesiana,CCA0960,OK,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,0.577350269,4,1,0,4,DrySubhumid,X,,,,
+570,1994,R060/T36,D.Nicolle,"Beechworth, Vic",Alive,Eucalyptus bridgesiana,CCA0963,OK,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,0.577350269,4,1,0,4,DrySubhumid,X,,,,
+570,1994,R060/T35,D.Nicolle,"Beechworth, Vic",Alive,Eucalyptus bridgesiana,CCA0962,OK,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,0.577350269,4,1,0,4,DrySubhumid,X,,,,
+574,1998,R159/T28,D.Nicolle,"Mt Buffalo, Vic",Alive,Eucalyptus mitchelliana,CCA3269,OK,,Eucalyptus mitchelliana,Eucalyptus,Uncertain,1.2416,8.595833,1498,0,0,2,2,,2,Humid,,,,,
+574,1998,R159/T27,D.Nicolle,"Mt Buffalo, Vic",Alive,Eucalyptus mitchelliana,CCA3268,OK,,Eucalyptus mitchelliana,Eucalyptus,Uncertain,1.2416,8.595833,1498,0,0,2,2,,2,Humid,,,,,
+583,1994,R050/T28,D.Nicolle,"Bindi, Vic",Alive,Eucalyptus nortonii,CCA0779,OK,,Eucalyptus nortonii,Maidenaria,Combination,0.4655,12.17083,646,0,0,4,1.25,0.5,4,Semiarid,X,,,,
+583,1994,R050/T25,D.Nicolle,"Bindi, Vic",Alive,Eucalyptus nortonii,CCA0776,OK,,Eucalyptus nortonii,Maidenaria,Combination,0.4655,12.17083,646,0,0,4,1.25,0.5,4,Semiarid,X,,,,
+583,1994,R050/T27,D.Nicolle,"Bindi, Vic",Alive,Eucalyptus nortonii,CCA0778,OK,,Eucalyptus nortonii,Maidenaria,Combination,0.4655,12.17083,646,0,0,4,1.25,0.5,4,Semiarid,X,,,,
+583,1994,R050/T26,D.Nicolle,"Bindi, Vic",Alive,Eucalyptus nortonii,CCA0777,OK,,Eucalyptus nortonii,Maidenaria,Combination,0.4655,12.17083,646,0,0,4,1.25,0.5,4,Semiarid,X,,,,
+423,1994,R045/T14,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus intertexta,CCA0651,OK,,Eucalyptus intertexta,Adnataria,Combination,0.0934,19.89167,274,0,0,4,0,0,4,Arid,X,x,,,x
+423,1994,R045/T15,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus intertexta,CCA0652,Only genomics,,Eucalyptus intertexta,Adnataria,Combination,0.0934,19.89167,274,0,0,4,0,0,4,Arid,X,x,,,x
+423,1994,R045/T16,D.Nicolle,"Everard Ranges, SA",Alive,Eucalyptus intertexta,CCA0653,OK,,Eucalyptus intertexta,Adnataria,Combination,0.0934,19.89167,274,0,0,4,0,0,4,Arid,X,x,,,x
+742,1994,R046/T36,,"Rylstone, NSW",,Eucalyptus polyanthemos subsp. polyanthemos,,,,Eucalyptus polyanthemos subsp. polyanthemos,Adnataria,Combination,0.4899,14.15833,760,0,,,0,,,Semiarid,,x,x,,x
+611,1994,R051/T24,D.Nicolle,"Nowra, NSW",Alive,Eucalyptus consideniana,CCA0799,OK,,Eucalyptus consideniana,Eucalyptus,Combination,0.7879,14.1875,1099,2.666666667,0.577350269,4,3,1,4,Humid,,,,,
+611,1994,R051/T21,D.Nicolle,"Nowra, NSW",Alive,Eucalyptus consideniana,CCA0797,OK,,Eucalyptus consideniana,Eucalyptus,Combination,0.7879,14.1875,1099,2.666666667,0.577350269,4,3,1,4,Humid,,,,,
+611,1994,R051/T22,D.Nicolle,"Nowra, NSW",Alive,Eucalyptus consideniana,CCA0798,OK,,Eucalyptus consideniana,Eucalyptus,Combination,0.7879,14.1875,1099,2.666666667,0.577350269,4,3,1,4,Humid,,,,,
+622,2000,R194/T27,D.Nicolle,"Royal National Park, NSW",Alive,Eucalyptus oblonga,CCA3914,OK,,Eucalyptus oblonga,Eucalyptus,Combination,0.7942,16.5625,1205,0.5,,2,0.5,,2,Humid,,,,,
+622,2000,R194/T29,D.Nicolle,"Royal National Park, NSW",Alive,Eucalyptus oblonga,CCA3915,OK,,Eucalyptus oblonga,Eucalyptus,Combination,0.7942,16.5625,1205,0.5,,2,0.5,,2,Humid,,,,,
+624,2000,R194/T18,D.Nicolle,"Kings Tableland, NSW",Alive,Eucalyptus ligustrina,CCA3913,OK,,Eucalyptus ligustrina,Eucalyptus,Combination,0.971,12.84167,1318,1.5,,2,2,,2,Humid,,,,,
+624,2000,R194/T15,D.Nicolle,"Kings Tableland, NSW",Alive,Eucalyptus ligustrina,CCA3912,OK,Resprouting,Eucalyptus ligustrina,Eucalyptus,Combination,0.971,12.84167,1318,1.5,,2,2,,2,Humid,,,,,
+747,1994,R047/T05,D.Nicolle,"Bylong, NSW",Alive,Eucalyptus conica,CCA0677,OK,,Eucalyptus conica,Adnataria,Combination,0.3791,16.7875,653,0.75,0.5,4,1,0,4,Semiarid,X,x,x,,x
+747,1994,R047/T06,D.Nicolle,"Bylong, NSW",Alive,Eucalyptus conica,CCA0678,OK,,Eucalyptus conica,Adnataria,Combination,0.3791,16.7875,653,0.75,0.5,4,1,0,4,Semiarid,X,x,,,x
+747,1994,R047/T07,D.Nicolle,"Bylong, NSW",Alive,Eucalyptus conica x E. microcarpa,CCA0680,OK,Not FT,Eucalyptus conica,Adnataria,Combination,0.3791,16.7875,653,0.75,0.5,4,1,0,4,Semiarid,X,x,,,x
+640,1994,R061/T22,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus capitellata,CCA0975,OK,,Eucalyptus capitellata,Eucalyptus,Combination,0.8219,18.02917,1304,1,0,4,2,1,4,Humid,,,,,
+640,1994,R061/T21,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus capitellata,CCA0974,OK,,Eucalyptus capitellata,Eucalyptus,Combination,0.8219,18.02917,1304,1,0,4,2,1,4,Humid,,,,,
+640,1994,R061/T23,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus capitellata,CCA0976,Only genomics,,Eucalyptus capitellata,Eucalyptus,Combination,0.8219,18.02917,1304,1,0,4,2,1,4,Humid,,,,,
+747,1994,R047/T08,D.Nicolle,"Bylong, NSW",Alive,Eucalyptus conica,CCA0679,OK,,Eucalyptus conica,Adnataria,Combination,0.3791,16.7875,653,0.75,0.5,4,1,0,4,Semiarid,X,x,,,x
+743,1994,R047/T19,D.Nicolle,"Ginghi, NSW",Alive,Eucalyptus dawsonii,CCA0687,OK,Tall,Eucalyptus dawsonii,Adnataria,Combination,0.4369,15.21667,695,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,x,,x
+743,1994,R047/T20,D.Nicolle,"Ginghi, NSW",Alive,Eucalyptus dawsonii,CCA0688,OK,Tall,Eucalyptus dawsonii,Adnataria,Combination,0.4369,15.21667,695,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+642,1994,R061/T25,D.Nicolle,"Karuah, NSW",,Eucalyptus resinifera ,CCA0977,OK,,Eucalyptus resinifera subsp. resinifera,Latoangulatae,Combination,0.7403,17.975,1185,1.666666667,0.577350269,4,2.333333333,0.577350269,4,DrySubhumid,,,,,
+642,1994,R061/T26,D.Nicolle,"Karuah, NSW",,Eucalyptus resinifera ,,OK,,Eucalyptus resinifera subsp. resinifera,Latoangulatae,Combination,0.7403,17.975,1185,1.666666667,0.577350269,4,2.333333333,0.577350269,4,DrySubhumid,,,,,
+642,1994,R061/T27,D.Nicolle,"Karuah, NSW",,Eucalyptus resinifera ,,OK,,Eucalyptus resinifera subsp. resinifera,Latoangulatae,Combination,0.7403,17.975,1185,1.666666667,0.577350269,4,2.333333333,0.577350269,4,DrySubhumid,,,,,
+743,1994,R047/T21,D.Nicolle,"Ginghi, NSW",Alive,Eucalyptus dawsonii,CCA0689,OK,Tall,Eucalyptus dawsonii,Adnataria,Combination,0.4369,15.21667,695,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+743,1994,R047/T22,D.Nicolle,"Ginghi, NSW",Alive,Eucalyptus dawsonii,CCA0690,OK,Tall,Eucalyptus dawsonii,Adnataria,Combination,0.4369,15.21667,695,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+777,1994,R048/T13,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus melliodora,CCA0704,OK,,Eucalyptus melliodora,Adnataria,Combination,0.4644,14.475,734,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,x,,x
+777,1994,R048/T14,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus melliodora,CCA0705,OK,,Eucalyptus melliodora,Adnataria,Combination,0.4644,14.475,734,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,x,,x
+777,1994,R048/T15,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus melliodora,CCA0706,OK,,Eucalyptus melliodora,Adnataria,Combination,0.4644,14.475,734,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,x,,x
+777,1994,R048/T16,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus melliodora,CCA0707,OK,,Eucalyptus melliodora,Adnataria,Combination,0.4644,14.475,734,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+746,1994,R048/T17,,"Bylong, NSW",,Eucalyptus caleyi subsp. caleyi,,,,Eucalyptus caleyi subsp. caleyi,Adnataria,Combination,0.3752,16.875,648,0,,,0,,,Semiarid,,x,x,,x
+746,1994,R048/T18,,"Bylong, NSW",,Eucalyptus caleyi subsp. caleyi,,,,Eucalyptus caleyi subsp. caleyi,Adnataria,Combination,0.3752,16.875,648,0,,,0,,,Semiarid,,x,,,x
+746,1994,R048/T19,,"Bylong, NSW",,Eucalyptus caleyi subsp. caleyi,,,,Eucalyptus caleyi subsp. caleyi,Adnataria,Combination,0.3752,16.875,648,0,,,0,,,Semiarid,,x,,,x
+746,1994,R048/T20,,"Bylong, NSW",,Eucalyptus caleyi subsp. caleyi,,,,Eucalyptus caleyi subsp. caleyi,Adnataria,Combination,0.3752,16.875,648,0,,,0,,,Semiarid,,x,,,x
+736,1994,R048/T21,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus polybractea,CCA0712,Only genomics,,Eucalyptus polybractea,Adnataria,Lignotuber,0.266,16.42917,508,0,0,4,0,0,4,Semiarid,X,x,,,x
+736,1994,R048/T22,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus polybractea,CCA0713,OK,,Eucalyptus polybractea,Adnataria,Lignotuber,0.266,16.42917,508,0,0,4,0,0,4,Semiarid,X,x,,,x
+648,1994,R061/T08,D.Nicolle,"Wollomombi, NSW",Alive,Eucalyptus volcanica,CCA0969,OK,,Eucalyptus volcanica,Maidenaria,Combination,0.5787,13.7375,862,0,0,4,1,0,4,DrySubhumid,X,,,,
+648,1994,R061/T06,D.Nicolle,"Wollomombi, NSW",Alive,Eucalyptus volcanica,CCA0968,OK,,Eucalyptus volcanica,Maidenaria,Combination,0.5787,13.7375,862,0,0,4,1,0,4,DrySubhumid,X,,,,
+649,1994,R057/T30,D.Nicolle,"Wollomombi, NSW",,Eucalyptus laevopinea,CCA0918,OK,,Eucalyptus laevopinea,Eucalyptus,Combination,0.5787,13.7375,862,0,0,4,0.5,0.707106781,4,DrySubhumid,,,,,
+649,1994,R57/T32,D.Nicolle,"Wollomombi, NSW",,Eucalyptus laevopinea,,OK,,Eucalyptus laevopinea,Eucalyptus,Combination,0.5787,13.7375,862,0,0,4,0.5,0.707106781,4,DrySubhumid,,,,,
+736,1994,R048/T23,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus polybractea,CCA0714,OK,,Eucalyptus polybractea,Adnataria,Lignotuber,0.266,16.42917,508,0,0,4,0,0,4,Semiarid,X,x,,,x
+736,1994,R048/T24,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus polybractea,CCA0715,OK,,Eucalyptus polybractea,Adnataria,Lignotuber,0.266,16.42917,508,0,0,4,0,0,4,Semiarid,X,x,,,x
+664,1994,R052/T20,D.Nicolle,"Baryulgil, NSW",Alive,Eucalyptus psammitica,CCA0812,OK,,Eucalyptus psammitica,Eucalyptus,Combination,0.6569,18.84167,1106,0,0,4,1,0,4,DrySubhumid,,,,,
+664,1994,R052/T18,D.Nicolle,"Baryulgil, NSW",Alive,Eucalyptus psammitica,CCA0811,OK,,Eucalyptus psammitica,Eucalyptus,Combination,0.6569,18.84167,1106,0,0,4,1,0,4,DrySubhumid,,,,,
+751,1994,R048/T25,D.Nicolle,"Wollar, NSW",Alive,Eucalyptus dwyeri,,,,Eucalyptus dwyeri,Exsertaria,Uncertain,0.3934,16.08333,662,0,,,0,,,Semiarid,,x,,,x
+751,1994,R048/T26,D.Nicolle,"Wollar, NSW",Alive,Eucalyptus dwyeri,,,,Eucalyptus dwyeri,Exsertaria,Uncertain,0.3934,16.08333,662,0,,,0,,,Semiarid,,x,,,x
+751,1994,R048/T27,D.Nicolle,"Wollar, NSW",Alive,Eucalyptus dwyeri,,,,Eucalyptus dwyeri,Exsertaria,Uncertain,0.3934,16.08333,662,0,,,0,,,Semiarid,,x,,,x
+690,1994,R049/T01,,"Hermidale, NSW",,Eucalyptus viridis,,,,Eucalyptus viridis,Adnataria,Lignotuber,0.1985,18.2875,415,0,,,0,,,Arid,,x,,,x
+690,1994,R049/T02,,"Hermidale, NSW",,Eucalyptus viridis,,,,Eucalyptus viridis,Adnataria,Lignotuber,0.1985,18.2875,415,0,,,0,,,Arid,,x,,,x
+690,1994,R049/T03,,"Hermidale, NSW",,Eucalyptus viridis,,,,Eucalyptus viridis,Adnataria,Lignotuber,0.1985,18.2875,415,0,,,0,,,Arid,,x,,,x
+681,1994,R049/T05,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus woollsiana,CCA0732,OK,,Eucalyptus woollsiana (E. pilligaensis),Adnataria,Combination,0.31,19.1125,612,0,0,4,0,0,4,Semiarid,X,x,,,x
+681,1994,R049/T06,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus woollsiana,CCA0733,OK,,Eucalyptus woollsiana (E. pilligaensis),Adnataria,Combination,0.31,19.1125,612,0,0,4,0,0,4,Semiarid,X,x,x,,x
+669,1994,R014/T39,D.Nicolle,"Girraween Nat. Park, Qld",Alive,Eucalyptus brunnea,CCA0164,OK,,Eucalyptus brunnea,Maidenaria,Uncertain,0.5953,13.80833,900,2.6,1.341640786,8,2,1,8,DrySubhumid,,,,,
+669,1998,R154/T05,D.Nicolle,"Girraween Nat. Park, Qld",Alive,Eucalyptus brunnea,CCA3220,OK,,Eucalyptus brunnea,Maidenaria,Uncertain,0.5953,13.80833,900,2.6,1.341640786,8,2,1,8,DrySubhumid,,,,,
+669,1998,R154/T06,D.Nicolle,"Girraween Nat. Park, Qld",Alive,Eucalyptus brunnea,CCA3221,OK,,Eucalyptus brunnea,Maidenaria,Uncertain,0.5953,13.80833,900,2.6,1.341640786,8,2,1,8,DrySubhumid,,,,,
+669,1998,R154/T07,D.Nicolle,"Girraween Nat. Park, Qld",Alive,Eucalyptus brunnea,CCA3222,Dead,,Eucalyptus brunnea,Maidenaria,Uncertain,0.5953,13.80833,900,,,,,,,DrySubhumid,,,,,
+669,1998,R154/T08,D.Nicolle,"Girraween Nat. Park, Qld",Alive,Eucalyptus brunnea,CCA3223,Dead,,Eucalyptus brunnea,Maidenaria,Uncertain,0.5953,13.80833,900,,,,,,,DrySubhumid,,,,,
+681,1994,R049/T07,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus woollsiana,CCA0734,OK,,Eucalyptus woollsiana (E. pilligaensis),Adnataria,Combination,0.31,19.1125,612,0,0,4,0,0,4,Semiarid,X,x,,,x
+681,1994,R049/T08,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus woollsiana,CCA0735,OK,,Eucalyptus woollsiana (E. pilligaensis),Adnataria,Combination,0.31,19.1125,612,0,0,4,0,0,4,Semiarid,X,x,,,x
+730,1994,R049/T13,D.Nicolle,"Mt Boppy, NSW",Alive,Eucalyptus morrisii,,,,Eucalyptus morrisii,Exsertaria,Lignotuber,0.1971,18.00833,408,0,,,0,,,Arid,,x,,,x
+672,1995,R072/T36,D.Nicolle,"Mt Norman, Qld",Alive,Eucalyptus scoparia,CCA1298,OK,,Eucalyptus scoparia,Maidenaria,Combination,0.5887,19.18333244,894,0,0,2,0,0,2,DrySubhumid,X,,,,
+672,1995,R072/T34,D.Nicolle,"Mt Norman, Qld",Alive,Eucalyptus scoparia,CCA1297,OK,,Eucalyptus scoparia,Maidenaria,Combination,0.5887,19.18333244,894,0,0,2,0,0,2,DrySubhumid,X,,,,
+730,1994,R049/T14,D.Nicolle,"Mt Boppy, NSW",Alive,Eucalyptus morrisii,,,,Eucalyptus morrisii,Exsertaria,Lignotuber,0.1971,18.00833,408,0,,,0,,,Arid,,x,,,x
+730,1994,R049/T15,D.Nicolle,"Mt Boppy, NSW",Alive,Eucalyptus morrisii,,,,Eucalyptus morrisii,Exsertaria,Lignotuber,0.1971,18.00833,408,0,,,0,,,Arid,,x,,,x
+690,1994,R049/T17,,"Wandoan, Qld",,Eucalyptus melanophloia subsp. melanophloia,,,,Eucalyptus melanophloia subsp. melanophloia,Adnataria,Combination,0.3006,20.15833,626,0,,1,0,,,Semiarid,,x,x,,x
+713,1994,R049/T20,D.Nicolle,"Bororen, Qld",Alive,Eucalyptus tereticornis subsp. tereticornis,CCA0746,OK,,Eucalyptus tereticornis subsp. tereticornis,Exsertaria,Combination,0.5833,21.95,1102,2,0,4,1.75,0.5,4,DrySubhumid,,x,,,x
+713,1994,R049/T21,D.Nicolle,"Bororen, Qld",Alive,Eucalyptus tereticornis subsp. tereticornis,CCA0747,OK,,Eucalyptus tereticornis subsp. tereticornis,Exsertaria,Combination,0.5833,21.95,1102,2,0,4,1.75,0.5,4,DrySubhumid,,x,,,x
+713,1994,R049/T22,D.Nicolle,"Bororen, Qld",Alive,Eucalyptus tereticornis subsp. tereticornis,CCA0748,OK,,Eucalyptus tereticornis subsp. tereticornis,Exsertaria,Combination,0.5833,21.95,1102,2,0,4,1.75,0.5,4,DrySubhumid,,x,,,x
+713,1994,R049/T23,D.Nicolle,"Bororen, Qld",Alive,Eucalyptus tereticornis subsp. tereticornis,CCA0749,OK,,Eucalyptus tereticornis subsp. tereticornis,Exsertaria,Combination,0.5833,21.95,1102,2,0,4,1.75,0.5,4,DrySubhumid,,x,,,x
+712,1994,R049/T24,D.Nicolle,"Gladstone, Qld",Alive,Eucalyptus moluccana,CCA0750,OK,,Eucalyptus moluccana,Adnataria,Combination,0.4318,22.05833,872,0.5,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+712,1994,R049/T25,D.Nicolle,"Gladstone, Qld",Alive,Eucalyptus moluccana,CCA0751,OK,,Eucalyptus moluccana,Adnataria,Combination,0.4318,22.05833,872,0.5,0.577350269,4,0,0,4,Semiarid,X,x,x,,x
+712,1994,R049/T26,D.Nicolle,"Gladstone, Qld",Alive,Eucalyptus moluccana,CCA0752,OK,,Eucalyptus moluccana,Adnataria,Combination,0.4318,22.05833,872,0.5,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+712,1994,R049/T27,D.Nicolle,"Gladstone, Qld",Alive,Eucalyptus moluccana,CCA0753,OK,,Eucalyptus moluccana,Adnataria,Combination,0.4318,22.05833,872,0.5,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+722,1994,R050/T01,D.Nicolle,"Inverell, NSW",Alive,Eucalyptus blakelyi,CCA0758,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.5571,14.19583,886,0,0,4,0.333333333,0.577350269,4,DrySubhumid,,x,,,x
+722,1994,R050/T03,D.Nicolle,"Inverell, NSW",Alive,Eucalyptus blakelyi,CCA0759,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.5571,14.19583,886,0,0,4,0.333333333,0.577350269,4,DrySubhumid,,x,,,x
+722,1994,R050/T04,D.Nicolle,"Inverell, NSW",Alive,Eucalyptus blakelyi,CCA0760,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.5571,14.19583,886,0,0,4,0.333333333,0.577350269,4,DrySubhumid,,x,,,x
+723,1994,R050/T06,D.Nicolle,"Inverell, NSW",Alive,Eucalyptus dealbata,,,,Eucalyptus dealbata,Exsertaria,Uncertain,0.4153,16.67083,765,0.75,,,0.75,,,Semiarid,,x,,,x
+724,1994,R050/T09,D.Nicolle,"Nandewar Range, NSW",Alive,Eucalyptus dealbata,,,,Eucalyptus dealbata,Exsertaria,Uncertain,0.4164,16.0375,753,0.666666667,,,0.333333333,,,Semiarid,,x,,,x
+724,1994,R050/T11,D.Nicolle,"Nandewar Range, NSW",Alive,Eucalyptus dealbata,,,,Eucalyptus dealbata,Exsertaria,Uncertain,0.4164,16.0375,753,0.666666667,,,0.333333333,,,Semiarid,,x,,,x
+666,1994,R050/T13,,"Flora Range, Qld",,Eucalyptus crebra,,,,Eucalyptus fibrosa,Adnataria,Combination,0.6368,18.67083,1085,0,,,1,,,DrySubhumid,,x,x,,x
+666,1994,R050/T14,,"Flora Range, Qld",,Eucalyptus crebra,,,,Eucalyptus fibrosa,Adnataria,Combination,0.6368,18.67083,1085,0,,,1,,,DrySubhumid,,x,,,x
+666,1994,R050/T15,,"Flora Range, Qld",,Eucalyptus crebra,,,,Eucalyptus fibrosa,Adnataria,Combination,0.6368,18.67083,1085,0,,,1,,,DrySubhumid,,x,,,x
+666,1994,R050/T16,,"Flora Range, Qld",,Eucalyptus crebra,,,,Eucalyptus fibrosa,Adnataria,Combination,0.6368,18.67083,1085,0,,,1,,,DrySubhumid,,x,,,x
+720,1994,R050/T21,,"Mt Beerwah, Qld",,Eucalyptus kabiana,,,,Eucalyptus kabiana,Exsertaria,Lignotuber,0.6827,13.44583321,886,0.25,,,0.5,,,Humid,,x,,,x
+720,1994,R050/T22,,"Mt Beerwah, Qld",,Eucalyptus kabiana,,,,Eucalyptus kabiana,Exsertaria,Lignotuber,0.6827,13.44583321,886,0.25,,,0.5,,,Humid,,x,,,x
+704,1998,R151/T25,D.Nicolle,"Blackdown Tableland, Qld",Alive,Eucalyptus sphaerocarpa,CCA3187,OK,Small,Eucalyptus sphaerocarpa,Eucalyptus,Combination,0.3586,17.7625,646,2.333333333,,3,2.666666667,,3,Semiarid,,,,,
+704,1998,R151/T26,D.Nicolle,"Blackdown Tableland, Qld",Alive,Eucalyptus sphaerocarpa,CCA3188,OK,,Eucalyptus sphaerocarpa,Eucalyptus,Combination,0.3586,17.7625,646,2.333333333,,3,2.666666667,,3,Semiarid,,,,,
+704,1998,R151/T27,D.Nicolle,"Blackdown Tableland, Qld",Alive,Eucalyptus sphaerocarpa,CCA3189,OK,Small,Eucalyptus sphaerocarpa,Eucalyptus,Combination,0.3586,17.7625,646,2.333333333,,3,2.666666667,,3,Semiarid,,,,,
+720,1994,R050/T23,,"Mt Beerwah, Qld",,Eucalyptus kabiana,,,,Eucalyptus kabiana,Exsertaria,Lignotuber,0.6827,13.44583321,886,0.25,,,0.5,,,Humid,,x,,,x
+720,1994,R050/T24,,"Mt Beerwah, Qld",,Eucalyptus kabiana,,,,Eucalyptus kabiana,Exsertaria,Lignotuber,0.6827,13.44583321,886,0.25,,,0.5,,,Humid,,x,,,x
+653,1994,R050/T33,,"Armidale, NSW",,Eucalyptus banksii,,,,Eucalyptus banksii,Maidenaria,Combination,0.5235,13.20833,787,0.666666667,,,0.333333333,,,DrySubhumid,X,,,,x
+653,1994,R050/T35,,"Armidale, NSW",,Eucalyptus banksii,,,,Eucalyptus banksii,Maidenaria,Combination,0.5235,13.20833,787,0.666666667,,,0.333333333,,,DrySubhumid,X,,,,x
+653,1994,R050/T36,,"Armidale, NSW",,Eucalyptus banksii,,,,Eucalyptus banksii,Maidenaria,Combination,0.5235,13.20833,787,0.666666667,,,0.333333333,,,DrySubhumid,X,,,,x
+680,1994,R051/T01,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus elegans,,,,Eucalyptus elegans,Adnataria,Combination,0.3167,19.06667,616,0,,,0,,,Semiarid,,x,,,x
+680,1994,R051/T03,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus elegans,,,,Eucalyptus elegans,Adnataria,Combination,0.3167,19.06667,616,0,,,0,,,Semiarid,,x,,,x
+680,1994,R051/T04,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus elegans,,,,Eucalyptus elegans,Adnataria,Combination,0.3167,19.06667,616,0,,,0,,,Semiarid,,x,,,x
+715,1994,R058/T34,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus latisinensis,CCA0935,OK,,Eucalyptus latisinensis,Eucalyptus,Combination,0.557,21.22917,1029,0,0,4,0,0,4,DrySubhumid,,,,,
+715,1994,R058/T32,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus latisinensis,CCA0934,OK,,Eucalyptus latisinensis,Eucalyptus,Combination,0.557,21.22917,1029,0,0,4,0,0,4,DrySubhumid,,,,,
+686,1994,R051/T05,D.Nicolle,"Burncluith, Qld",Alive,Eucalyptus argophloia,,,,Eucalyptus argophloia,Adnataria,Combination,0.3121,19.59583,631,0,,,0,,,Semiarid,,x,,,x
+686,1994,R051/T06,D.Nicolle,"Burncluith, Qld",Alive,Eucalyptus argophloia,,,,Eucalyptus argophloia,Adnataria,Combination,0.3121,19.59583,631,0,,,0,,,Semiarid,,x,,,x
+686,1994,R051/T07,D.Nicolle,"Burncluith, Qld",Alive,Eucalyptus argophloia,,,,Eucalyptus argophloia,Adnataria,Combination,0.3121,19.59583,631,0,,,0,,,Semiarid,,x,,,x
+598,1994,R051/T13,,"Mother Woila, NSW",,Eucalyptus smithii,,,,Eucalyptus smithii,Maidenaria,Combination,0.7696,10.39583,935,2,,,2.25,,,Humid,X,,,,x
+598,1994,R051/T14,,"Mother Woila, NSW",,Eucalyptus smithii,,,,Eucalyptus smithii,Maidenaria,Combination,0.7696,10.39583,935,2,,,2.25,,,Humid,X,,,,x
+598,1994,R051/T15,,"Mother Woila, NSW",,Eucalyptus smithii,,,,Eucalyptus smithii,Maidenaria,Combination,0.7696,10.39583,935,2,,,2.25,,,Humid,X,,,,x
+598,1994,R051/T16,,"Mother Woila, NSW",,Eucalyptus smithii,,,,Eucalyptus smithii,Maidenaria,Combination,0.7696,10.39583,935,2,,,2.25,,,Humid,X,,,,x
+725,1994,R060/T10,D.Nicolle,"Narrabri, NSW",Alive,Eucalyptus rossii,CCA0952,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.3628,17.26667,693,0.75,0.957427108,4,1.25,0.957427108,4,Semiarid,,,,,
+725,1994,R060/T09,D.Nicolle,"Narrabri, NSW",Alive,Eucalyptus rossii,CCA0951,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.3628,17.26667,693,0.75,0.957427108,4,1.25,0.957427108,4,Semiarid,,,,,
+725,1994,R060/T12,D.Nicolle,"Narrabri, NSW",Alive,Eucalyptus rossii,CCA0954,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.3628,17.26667,693,0.75,0.957427108,4,1.25,0.957427108,4,Semiarid,,,,,
+725,1994,R060/T11,D.Nicolle,"Narrabri, NSW",Alive,Eucalyptus rossii,CCA0953,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.3628,17.26667,693,0.75,0.957427108,4,1.25,0.957427108,4,Semiarid,,,,,
+671,1994,R052/T01,D.Nicolle,"Mt Norman, Qld",Alive,Eucalyptus prava,CCA0800,OK,,Eucalyptus prava,Exsertaria,Combination,0.6147,18.91666603,921,1.333333333,,3,2,,3,DrySubhumid,,x,,,x
+671,1994,R052/T03,D.Nicolle,"Mt Norman, Qld",Alive,Eucalyptus prava,,OK,,Eucalyptus prava,Exsertaria,Combination,0.6147,18.91666603,921,1.333333333,,3,2,,3,DrySubhumid,,x,,,x
+671,1994,R052/T04,D.Nicolle,"Mt Norman, Qld",Alive,Eucalyptus prava,,OK,,Eucalyptus prava,Exsertaria,Combination,0.6147,18.91666603,921,1.333333333,,3,2,,3,DrySubhumid,,x,,,x
+668,1994,R052/T05,D.Nicolle,"Tenterfield, NSW",Alive,Eucalyptus amplifolia subsp. sessiliflora,CCA0803,OK,,Eucalyptus amplifolia subsp. sessiliflora,Exsertaria,Combination,0.5714,14.7,882,1.5,1.732050808,4,0.666666667,0.577350269,4,DrySubhumid,,x,,,x
+668,1994,R052/T06,D.Nicolle,"Tenterfield, NSW",Alive,Eucalyptus amplifolia subsp. sessiliflora,CCA0804,OK,,Eucalyptus amplifolia subsp. sessiliflora,Exsertaria,Combination,0.5714,14.7,882,1.5,1.732050808,4,0.666666667,0.577350269,4,DrySubhumid,,x,,,x
+668,1994,R052/T07,D.Nicolle,"Tenterfield, NSW",Alive,Eucalyptus amplifolia subsp. sessiliflora,CCA0805,OK,,Eucalyptus amplifolia subsp. sessiliflora,Exsertaria,Combination,0.5714,14.7,882,1.5,1.732050808,4,0.666666667,0.577350269,4,DrySubhumid,,x,,,x
+668,1994,R052/T08,D.Nicolle,"Tenterfield, NSW",Alive,Eucalyptus amplifolia subsp. sessiliflora,CCA0806,OK,,Eucalyptus amplifolia subsp. sessiliflora,Exsertaria,Combination,0.5714,14.7,882,1.5,1.732050808,4,0.666666667,0.577350269,4,DrySubhumid,,x,,,x
+674,1994,R052/T09,D.Nicolle,"Wallangarra, Qld",Alive,Eucalyptus sideroxylon,CCA0807,OK,,Eucalyptus sideroxylon,Adnataria,Combination,0.5225,15.20833,841,0,0,4,0,0,4,DrySubhumid,X,x,,,x
+674,1994,R052/T10,D.Nicolle,"Wallangarra, Qld",Alive,Eucalyptus sideroxylon,CCA0808,OK,,Eucalyptus sideroxylon,Adnataria,Combination,0.5225,15.20833,841,0,0,4,0,0,4,DrySubhumid,X,x,x,,x
+674,1994,R052/T11,D.Nicolle,"Wallangarra, Qld",Alive,Eucalyptus sideroxylon,CCA0809,OK,,Eucalyptus sideroxylon,Adnataria,Combination,0.5225,15.20833,841,0,0,4,0,0,4,DrySubhumid,X,x,,,x
+674,1994,R052/T12,D.Nicolle,"Wallangarra, Qld",Alive,Eucalyptus sideroxylon,CCA0810,OK,,Eucalyptus sideroxylon,Adnataria,Combination,0.5225,15.20833,841,0,0,4,0,0,4,DrySubhumid,X,x,,,x
+685,1994,R053/T05,D.Nicolle,"Tara, Qld",Alive,Eucalyptusÿfibrosaÿsubsp.ÿnubilis,,,,Eucalyptus nubilis,Adnataria,Combination,0.3134,18.95417,615,0.333333333,,,0.5,,,Semiarid,,x,,,x
+685,1994,R053/T06,D.Nicolle,"Tara, Qld",Alive,Eucalyptusÿfibrosaÿsubsp.ÿnubilis,,,,Eucalyptus nubilis,Adnataria,Combination,0.3134,18.95417,615,0.333333333,,,0.5,,,Semiarid,,x,,,x
+685,1994,R053/T08,D.Nicolle,"Tara, Qld",Alive,Eucalyptusÿfibrosaÿsubsp.ÿnubilis,,,,Eucalyptus nubilis,Adnataria,Combination,0.3134,18.95417,615,0.333333333,,,0.5,,,Semiarid,,x,,,x
+639,1994,R053/T09,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus paniculata,CCA0827,OK,,Eucalyptus paniculata (subsp. matutina),Adnataria,Combination,0.818,18.075,1301,0,0,4,0.25,0.5,4,Humid,X,x,,,x
+639,1994,R053/T10,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus paniculata,CCA0828,OK,,Eucalyptus paniculata (subsp. matutina),Adnataria,Combination,0.818,18.075,1301,0,0,4,0.25,0.5,4,Humid,X,x,,,x
+639,1994,R053/T11,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus paniculata,CCA0829,OK,,Eucalyptus paniculata (subsp. matutina),Adnataria,Combination,0.818,18.075,1301,0,0,4,0.25,0.5,4,Humid,X,x,,,x
+639,1994,R053/T12,D.Nicolle,"Nelson Bay, NSW",Alive,Eucalyptus paniculata,CCA0830,OK,,Eucalyptus paniculata (subsp. matutina),Adnataria,Combination,0.818,18.075,1301,0,0,4,0.25,0.5,4,Humid,X,x,,,x
+604,1994,R053/T17,D.Nicolle,"Nerriga, NSW",Alive,Eucalyptus amplifolia subsp. amplifolia,CCA0833,OK,,Eucalyptus amplifolia subsp. amplifolia,Exsertaria,Combination,0.6038,13.0625,825,0.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,,x,,,x
+604,1994,R053/T18,D.Nicolle,"Nerriga, NSW",Alive,Eucalyptus amplifolia subsp. amplifolia,CCA0834,OK,,Eucalyptus amplifolia subsp. amplifolia,Exsertaria,Combination,0.6038,13.0625,825,0.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,,x,,,x
+762,1998,R154/T25,D.Nicolle,"Coxs Creek, NSW",Alive,Eucalyptus camphora subsp. camphora,CCA3225,OK,,Eucalyptus camphora subsp. camphora,Maidenaria,Combination,0.5058,13.89583,761,2,0,3,2,0,3,DrySubhumid,X,,,,
+762,1998,R154/T26,D.Nicolle,"Coxs Creek, NSW",Alive,Eucalyptus camphora subsp. camphora,CCA3226,OK,,Eucalyptus camphora subsp. camphora,Maidenaria,Combination,0.5058,13.89583,761,2,0,3,2,0,3,DrySubhumid,X,,,,
+762,1998,R154/T28,D.Nicolle,"Coxs Creek, NSW",Alive,Eucalyptus camphora subsp. camphora,CCA3227,OK,,Eucalyptus camphora subsp. camphora,Maidenaria,Combination,0.5058,13.89583,761,2,0,3,2,0,3,DrySubhumid,X,,,,
+776,1994,R048/T02,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus alligatrix subsp. miscella,CCA0702,OK,,Eucalyptus alligatrix subsp. miscella,Maidenaria,Combination,0.4312,14.64167,688,3.666666667,0.577350269,4,4,,4,Semiarid,X,,,,
+776,1994,R048/T01,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus alligatrix subsp. miscella,CCA0701,Dead,,Eucalyptus alligatrix subsp. miscella,Maidenaria,Combination,0.4312,14.64167,688,3.666666667,0.577350269,4,4,,4,Semiarid,X,,,,
+776,1994,R048/T03,D.Nicolle,"Rylstone, NSW",Alive,Eucalyptus alligatrix subsp. miscella,CCA0703,OK,,Eucalyptus alligatrix subsp. miscella,Maidenaria,Combination,0.4312,14.64167,688,3.666666667,0.577350269,4,4,,4,Semiarid,X,,,,
+604,1994,R053/T19,D.Nicolle,"Nerriga, NSW",Alive,Eucalyptus amplifolia subsp. amplifolia,CCA0835,OK,,Eucalyptus amplifolia subsp. amplifolia,Exsertaria,Combination,0.6038,13.0625,825,0.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,,x,,,x
+604,1994,R053/T20,D.Nicolle,"Nerriga, NSW",Alive,Eucalyptus amplifolia subsp. amplifolia,CCA0836,OK,,Eucalyptus amplifolia subsp. amplifolia,Exsertaria,Combination,0.6038,13.0625,825,0.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,,x,,,x
+689,1994,R053/T25,D.Nicolle,"Barakula State Forest, Qld",Alive,Eucalyptus dura,CCA0841,Only genomics,,Eucalyptus dura,Adnataria,Combination,0.3478,18.45833,652,0,0,4,0,0,4,Semiarid,X,x,,,x
+689,1994,R053/T26,D.Nicolle,"Barakula State Forest, Qld",Alive,Eucalyptus dura,CCA0842,OK,,Eucalyptus dura,Adnataria,Combination,0.3478,18.45833,652,0,0,4,0,0,4,Semiarid,X,x,,,x
+779,1994,R057/T06,D.Nicolle,"Capertee, NSW",Alive,Eucalyptus macrorhyncha subsp. cannonii,CCA0911,OK,,Eucalyptus macrorhyncha subsp. cannonii,Eucalyptus,Combination,0.5336,12.85,782,0.5,0.707106781,4,0.5,0.707106781,4,DrySubhumid,,,,,
+779,1994,R057/T07,D.Nicolle,"Capertee, NSW",Alive,Eucalyptus macrorhyncha subsp. cannonii,CCA0912,OK,,Eucalyptus macrorhyncha subsp. cannonii,Eucalyptus,Combination,0.5336,12.85,782,0.5,0.707106781,4,0.5,0.707106781,4,DrySubhumid,,,,,
+781,1994,R057/T11,D.Nicolle,"Pyramul, NSW",Alive,Eucalyptus rossii,CCA0914,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.5734,12.975,849,0,0,4,1.5,0.707106781,4,DrySubhumid,,,,,
+781,1994,R057/T10,D.Nicolle,"Pyramul, NSW",Alive,Eucalyptus rossii,CCA0913,OK,,Eucalyptus rossii,Eucalyptus,Combination,0.5734,12.975,849,0,0,4,1.5,0.707106781,4,DrySubhumid,,,,,
+689,1994,R053/T27,D.Nicolle,"Barakula State Forest, Qld",Alive,Eucalyptus dura,CCA0843,OK,,Eucalyptus dura,Adnataria,Combination,0.3478,18.45833,652,0,0,4,0,0,4,Semiarid,X,x,,,x
+689,1994,R053/T28,D.Nicolle,"Barakula State Forest, Qld",Alive,Eucalyptus dura,CCA0844,OK,,Eucalyptus dura,Adnataria,Combination,0.3478,18.45833,652,0,0,4,0,0,4,Semiarid,X,x,,,x
+683,1994,R053/T33,D.Nicolle,"Tara, Qld",Alive,Eucalyptus panda,,,,Eucalyptus panda,Adnataria,Combination,0.3159,18.8625,620,0,,,0.333333333,,,Semiarid,,x,,,x
+683,1994,R053/T35,D.Nicolle,"Tara, Qld",Alive,Eucalyptus panda,,,,Eucalyptus panda,Adnataria,Combination,0.3159,18.8625,620,0,,,0.333333333,,,Semiarid,,x,,,x
+683,1994,R053/T36,D.Nicolle,"Tara, Qld",Alive,Eucalyptus panda,,,,Eucalyptus panda,Adnataria,Combination,0.3159,18.8625,620,0,,,0.333333333,,,Semiarid,,x,,,x
+717,1994,R054/T13,D.Nicolle,"Gympie, Qld",Alive,Eucalyptus siderophloia,,,,Eucalyptus siderophloia,Adnataria,Combination,0.6024,20.4,1103,1,,,0.5,,,DrySubhumid,,x,,,x
+717,1994,R054/T14,D.Nicolle,"Gympie, Qld",Alive,Eucalyptus siderophloia,,,,Eucalyptus siderophloia,Adnataria,Combination,0.6024,20.4,1103,1,,,0.5,,,DrySubhumid,,x,,,x
+717,1994,R054/T15,D.Nicolle,"Gympie, Qld",Alive,Eucalyptus siderophloia,,,,Eucalyptus siderophloia,Adnataria,Combination,0.6024,20.4,1103,1,,,0.5,,,DrySubhumid,,x,,,x
+805,1995,R076/T31,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus ovata subsp. ovata,CCA1379,OK,,Eucalyptus ovata subsp. ovata,Maidenaria,Combination,0.5033,14.48333,733,1.333333333,1.154700538,4,0.333333333,0.577350269,4,DrySubhumid,X,,,,
+805,1995,R076/T29,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus ovata subsp. ovata,CCA1377,OK,,Eucalyptus ovata subsp. ovata,Maidenaria,Combination,0.5033,14.48333,733,1.333333333,1.154700538,4,0.333333333,0.577350269,4,DrySubhumid,X,,,,
+805,1995,R076/T30,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus ovata subsp. ovata,CCA1378,OK,,Eucalyptus ovata subsp. ovata,Maidenaria,Combination,0.5033,14.48333,733,1.333333333,1.154700538,4,0.333333333,0.577350269,4,DrySubhumid,X,,,,
+697,1994,R054/T16,D.Nicolle,"Moura, Qld",Alive,Eucalyptus cambageana,CCA0859,OK,,Eucalyptus cambageana,Adnataria,Combination,0.3047,21.41667,634,0,0,4,0,0,4,Semiarid,X,x,,,x
+697,1994,R054/T18,D.Nicolle,"Moura, Qld",Alive,Eucalyptus cambageana,CCA0860,OK,Tall,Eucalyptus cambageana,Adnataria,Combination,0.3047,21.41667,634,0,0,4,0,0,4,Semiarid,X,x,,,x
+697,1994,R054/T19,D.Nicolle,"Moura, Qld",Alive,Eucalyptus cambageana,CCA0861,OK,Tall,Eucalyptus cambageana,Adnataria,Combination,0.3047,21.41667,634,0,0,4,0,0,4,Semiarid,X,x,,,x
+698,1994,R054/T20,D.Nicolle,"Rolleston, Qld",Alive,Eucalyptus orgadophila,CCA0862,OK,,Eucalyptus orgadophila,Adnataria,Combination,0.2951,21.19583,634,0.25,0.5,4,0.25,0.5,4,Semiarid,X,x,,,x
+812,1995,R069/T36,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus remota,CCA1215,OK,,Eucalyptus remota,Eucalyptus,Combination,0.532,14.40417,785,2.666666667,1.154700538,4,3,0,4,DrySubhumid,,,,,
+812,1995,R069/T38,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus remota,CCA1217,Dead,,Eucalyptus remota,Eucalyptus,Combination,0.532,14.40417,785,2.666666667,1.154700538,4,3,0,4,DrySubhumid,,,,,
+812,1995,R069/T37,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus remota,CCA1216,OK,,Eucalyptus remota,Eucalyptus,Combination,0.532,14.40417,785,2.666666667,1.154700538,4,3,0,4,DrySubhumid,,,,,
+698,1994,R054/T21,D.Nicolle,"Rolleston, Qld",Alive,Eucalyptus orgadophila,CCA0863,OK,,Eucalyptus orgadophila,Adnataria,Combination,0.2951,21.19583,634,0.25,0.5,4,0.25,0.5,4,Semiarid,X,x,,,x
+698,1994,R054/T22,D.Nicolle,"Rolleston, Qld",Alive,Eucalyptus orgadophila,CCA0864,OK,,Eucalyptus orgadophila,Adnataria,Combination,0.2951,21.19583,634,0.25,0.5,4,0.25,0.5,4,Semiarid,X,x,,,x
+698,1994,R054/T23,D.Nicolle,"Rolleston, Qld",Alive,Eucalyptus orgadophila,CCA0865,OK,,Eucalyptus orgadophila,Adnataria,Combination,0.2951,21.19583,634,0.25,0.5,4,0.25,0.5,4,Semiarid,X,x,,,x
+641,1994,R056/T08,D.Nicolle,"Williamstown, NSW",Alive,Eucalyptus parramattensis subsp. decadens,CCA0895,OK,,Eucalyptus parramattensis subsp. decadens,Exsertaria,Combination,0.7309,17.77917,1165,1,0,4,1.666666667,1.154700538,4,DrySubhumid,X,x,,X,x
+641,1994,R056/T09,D.Nicolle,"Williamstown, NSW",Alive,Eucalyptus parramattensis subsp. decadens,CCA0896,OK,,Eucalyptus parramattensis subsp. decadens,Exsertaria,Combination,0.7309,17.77917,1165,1,0,4,1.666666667,1.154700538,4,DrySubhumid,X,x,,X,x
+641,1994,R056/T10,D.Nicolle,"Williamstown, NSW",Alive,Eucalyptus parramattensis subsp. decadens,CCA0897,OK,,Eucalyptus parramattensis subsp. decadens,Exsertaria,Combination,0.7309,17.77917,1165,1,0,4,1.666666667,1.154700538,4,DrySubhumid,X,x,,X,x
+659,1994,R058/T01,D.Nicolle,"Tingha, NSW",Alive,Eucalyptus mckieana?,CCA0921,OK,,Eucalyptus mckieana,Eucalyptus,Combination,0.6148,12.9625,937,0,0,3,1,0,3,DrySubhumid,X,,,X,x
+659,1994,R058/T03,D.Nicolle,"Tingha, NSW",Alive,Eucalyptus mckieana?,CCA0922,OK,,Eucalyptus mckieana,Eucalyptus,Combination,0.6148,12.9625,937,0,0,3,1,0,3,DrySubhumid,X,,,X,x
+716,1994,R058/T04,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus hallii,CCA0923,OK,,Eucalyptus hallii,Exsertaria,Combination,0.5469,21.225,1004,0,0,4,1,0,4,DrySubhumid,,x,,,x
+716,1994,R058/T05,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus hallii,CCA0924,OK,,Eucalyptus hallii,Exsertaria,Combination,0.5469,21.225,1004,0,0,4,1,0,4,DrySubhumid,,x,,,x
+716,1994,R058/T06,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus hallii,CCA0925,OK,,Eucalyptus hallii,Exsertaria,Combination,0.5469,21.225,1004,0,0,4,1,0,4,DrySubhumid,,x,,,x
+716,1994,R058/T07,D.Nicolle,"Goodwood, Qld",Alive,Eucalyptus hallii,CCA0926,OK,,Eucalyptus hallii,Exsertaria,Combination,0.5469,21.225,1004,0,0,4,1,0,4,DrySubhumid,,x,,,x
+941,1995,R075/T27,D.Nicolle,"Port Lincoln 1, SA",Alive,Eucalyptus viminalis subsp. cygnetensis,CCA1367,OK,,Eucalyptus viminalis subsp. cygnetensis,Maidenaria,Combination,0.3242,15.67083,531,1.5,1,4,2,1.154700538,4,Semiarid,X,,,,
+941,1995,R075/T28,D.Nicolle,"Port Lincoln 1, SA",Alive,Eucalyptus viminalis subsp. cygnetensis,CCA1368,OK,,Eucalyptus viminalis subsp. cygnetensis,Maidenaria,Combination,0.3242,15.67083,531,1.5,1,4,2,1.154700538,4,Semiarid,X,,,,
+941,1995,R075/T29,D.Nicolle,"Port Lincoln 1, SA",Alive,Eucalyptus viminalis subsp. cygnetensis,CCA1369,OK,,Eucalyptus viminalis subsp. cygnetensis,Maidenaria,Combination,0.3242,15.67083,531,1.5,1,4,2,1.154700538,4,Semiarid,X,,,,
+941,1995,R075/T26,D.Nicolle,"Port Lincoln 1, SA",Alive,Eucalyptus viminalis subsp. cygnetensis,CCA1366,OK,,Eucalyptus viminalis subsp. cygnetensis,Maidenaria,Combination,0.3242,15.67083,531,1.5,1,4,2,1.154700538,4,Semiarid,X,,,,
+646,1994,R058/T12,D.Nicolle,"Eungai Creek, NSW",Alive,Eucalyptus ancophila,CCA0927,OK,,Eucalyptus ancophila,Adnataria,Combination,0.8463,18.475,1375,0.5,0.577350269,4,0.75,0.5,4,Humid,X,x,,,x
+646,1994,R058/T13,D.Nicolle,"Eungai Creek, NSW",Alive,Eucalyptus ancophila,CCA0928,OK,,Eucalyptus ancophila,Adnataria,Combination,0.8463,18.475,1375,0.5,0.577350269,4,0.75,0.5,4,Humid,X,x,,,x
+646,1994,R058/T14,D.Nicolle,"Eungai Creek, NSW",Alive,Eucalyptus ancophila,CCA0929,OK,,Eucalyptus ancophila,Adnataria,Combination,0.8463,18.475,1375,0.5,0.577350269,4,0.75,0.5,4,Humid,X,x,,,x
+646,1994,R058/T15,D.Nicolle,"Eungai Creek, NSW",Alive,Eucalyptus ancophila,CCA0930,OK,,Eucalyptus ancophila,Adnataria,Combination,0.8463,18.475,1375,0.5,0.577350269,4,0.75,0.5,4,Humid,X,x,,,x
+679,1994,R059/T12,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus populnea subsp. populnea,CCA0940,OK,,Eucalyptus populnea subsp. populnea,Adnataria,Combination,0.3167,19.06667,616,1.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+679,1994,R059/T13,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus populnea subsp. populnea,CCA0941,OK,,Eucalyptus populnea subsp. populnea,Adnataria,Combination,0.3167,19.06667,616,1.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,x,,x
+679,1994,R059/T14,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus populnea subsp. populnea,CCA0942,OK,,Eucalyptus populnea subsp. populnea,Adnataria,Combination,0.3167,19.06667,616,1.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+679,1994,R059/T15,D.Nicolle,"Kogan, Qld",Alive,Eucalyptus populnea subsp. populnea,CCA0943,OK,,Eucalyptus populnea subsp. populnea,Adnataria,Combination,0.3167,19.06667,616,1.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+1053,1995,R075/T10,,,,Eucalyptus cladocalyx subsp. crassa,CCA1353,OK,Tall,Eucalyptus cladocalyx subsp. crassa,Sejunctae,Stem,0.4428,15.15833282,673,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Semiarid,,,,,
+1053,1995,R075/T13,,,,Eucalyptus cladocalyx subsp. crassa,CCA1355,OK,,Eucalyptus cladocalyx subsp. crassa,Sejunctae,Stem,0.4428,15.15833282,673,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Semiarid,,,,,
+1053,1995,R075/T12,,,,Eucalyptus cladocalyx subsp. crassa,CCA1354,OK,,Eucalyptus cladocalyx subsp. crassa,Sejunctae,Stem,0.4428,15.15833282,673,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Semiarid,,,,,
+728,1994,R060/T01,D.Nicolle,"Hermidale, NSW",Alive,Eucalyptus vicina,CCA0947,OK,,Eucalyptus vicina,Exsertaria,Lignotuber,0.2139,18.6875,452,0,0,4,0,0,4,Semiarid,X,x,,,x
+728,1994,R060/T02,D.Nicolle,"Hermidale, NSW",Alive,Eucalyptus vicina,CCA0948,OK,,Eucalyptus vicina,Exsertaria,Lignotuber,0.2139,18.6875,452,0,0,4,0,0,4,Semiarid,X,x,,,x
+728,1994,R060/T03,D.Nicolle,"Hermidale, NSW",Alive,Eucalyptus vicina,CCA0949,OK,,Eucalyptus vicina,Exsertaria,Lignotuber,0.2139,18.6875,452,0,0,4,0,0,4,Semiarid,X,x,,,x
+728,1994,R060/T04,D.Nicolle,"Hermidale, NSW",Alive,Eucalyptus vicina,CCA0950,OK,,Eucalyptus vicina,Exsertaria,Lignotuber,0.2139,18.6875,452,0,0,4,0,0,4,Semiarid,X,x,,,x
+667,1994,R060/T29,D.Nicolle,"Drake, NSW",Alive,Eucalyptus interstans,CCA0956,OK,,Eucalyptus interstans,Exsertaria,Combination,0.7162,16.77917,1149,1,1,4,2.333333333,0.577350269,4,DrySubhumid,,x,,,x
+667,1994,R060/T30,D.Nicolle,"Drake, NSW",Alive,Eucalyptus interstans,CCA0957,OK,,Eucalyptus interstans,Exsertaria,Combination,0.7162,16.77917,1149,1,1,4,2.333333333,0.577350269,4,DrySubhumid,,x,,,x
+667,1994,R060/T31,D.Nicolle,"Drake, NSW",Alive,Eucalyptus interstans,CCA0958,Dead,,Eucalyptus interstans,Exsertaria,Combination,0.7162,16.77917,1149,1,1,4,2.333333333,0.577350269,4,DrySubhumid,,x,,,x
+667,1994,R060/T32,D.Nicolle,"Drake, NSW",Alive,Eucalyptus interstans,CCA0959,OK,,Eucalyptus interstans,Exsertaria,Combination,0.7162,16.77917,1149,1,1,4,2.333333333,0.577350269,4,DrySubhumid,,x,,,x
+570,1994,R060/T33,,"Beechworth, Vic",,Eucalyptus bridgesiana,,,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,,,1,,,DrySubhumid,X,,,,x
+570,1994,R060/T34,,"Beechworth, Vic",,Eucalyptus bridgesiana,,,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,,,1,,,DrySubhumid,X,,,,x
+570,1994,R060/T35,,"Beechworth, Vic",,Eucalyptus bridgesiana,,,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,,,1,,,DrySubhumid,X,,,,x
+570,1994,R060/T36,,"Beechworth, Vic",,Eucalyptus bridgesiana,,,,Eucalyptus bridgesiana,Maidenaria,Combination,0.5384,14.09583,858,1.5,,,1,,,DrySubhumid,X,,,,x
+645,1994,R061/T13,D.Nicolle,"Macksville, NSW",Alive,Eucalyptus fusiformis,CCA0970,OK,,Eucalyptus fusiformis,Adnataria,Combination,0.8575,18.2875,1379,1.25,0.5,4,1,0,4,Humid,X,x,,,x
+645,1994,R061/T14,D.Nicolle,"Macksville, NSW",Alive,Eucalyptus fusiformis,CCA0971,OK,,Eucalyptus fusiformis,Adnataria,Combination,0.8575,18.2875,1379,1.25,0.5,4,1,0,4,Humid,X,x,x,,x
+645,1994,R061/T15,D.Nicolle,"Macksville, NSW",Alive,Eucalyptus fusiformis,CCA0972,OK,,Eucalyptus fusiformis,Adnataria,Combination,0.8575,18.2875,1379,1.25,0.5,4,1,0,4,Humid,X,x,,,x
+645,1994,R061/T16,D.Nicolle,"Macksville, NSW",Alive,Eucalyptus fusiformis,CCA0973,OK,,Eucalyptus fusiformis,Adnataria,Combination,0.8575,18.2875,1379,1.25,0.5,4,1,0,4,Humid,X,x,,,x
+643,1994,R061/T29,D.Nicolle,"Bulahdelah, NSW",Alive,Eucalyptus paniculata,CCA0980,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.713,17.13333,1120,0,0,4,0.25,0.5,4,DrySubhumid,X,x,,,x
+643,1994,R061/T30,D.Nicolle,"Bulahdelah, NSW",Alive,Eucalyptus paniculata,CCA0981,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.713,17.13333,1120,0,0,4,0.25,0.5,4,DrySubhumid,X,x,,,x
+643,1994,R061/T31,D.Nicolle,"Bulahdelah, NSW",Alive,Eucalyptus paniculata,CCA0982,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.713,17.13333,1120,0,0,4,0.25,0.5,4,DrySubhumid,X,x,,,x
+643,1994,R061/T32,D.Nicolle,"Bulahdelah, NSW",Alive,Eucalyptus paniculata,CCA0983,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.713,17.13333,1120,0,0,4,0.25,0.5,4,DrySubhumid,X,x,,,x
+1152,1995,R062/T25,,"Bold Park, WA",,Eucalyptus foecunda subsp. foecunda,CCA1006,OK,,Eucalyptus foecunda subsp. foecunda,Bisectae,Lignotuber,0.3491,18.5,736,0.666666667,0.577350269,4,1.333333333,0.577350269,4,Semiarid,X,,,,x
+1152,1995,R062/T26,,"Bold Park, WA",,Eucalyptus foecunda subsp. foecunda,CCA1007,OK,,Eucalyptus foecunda subsp. foecunda,Bisectae,Lignotuber,0.3491,18.5,736,0.666666667,0.577350269,4,1.333333333,0.577350269,4,Semiarid,X,,,,x
+1152,1995,R062/T27,,"Bold Park, WA",,Eucalyptus foecunda subsp. foecunda,CCA1008,OK,,Eucalyptus foecunda subsp. foecunda,Bisectae,Lignotuber,0.3491,18.5,736,0.666666667,0.577350269,4,1.333333333,0.577350269,4,Semiarid,X,,,,x
+1152,1995,R062/T28,,"Bold Park, WA",,Eucalyptus foecunda subsp. foecunda,CCA1009,Dead,,Eucalyptus foecunda subsp. foecunda,Bisectae,Lignotuber,0.3491,18.5,736,0.666666667,0.577350269,4,1.333333333,0.577350269,4,Semiarid,X,,,,x
+1178,1995,R063/T17,D.Nicolle,"Lake Macleod,  WA",Alive,Eucalyptus victrix,,,,Eucalyptus victrix,Adnataria,Combination,0.0847,23.37083244,243,0.5,,,0,,,Arid,,x,,,x
+1178,1995,R063/T18,D.Nicolle,"Lake Macleod,  WA",Alive,Eucalyptus victrix,,,,Eucalyptus victrix,Adnataria,Combination,0.0847,23.37083244,243,0.5,,,0,,,Arid,,x,,,x
+1178,1995,R063/T19,D.Nicolle,"Lake Macleod,  WA",Alive,Eucalyptus victrix,,,,Eucalyptus victrix,Adnataria,Combination,0.0847,23.37083244,243,0.5,,,0,,,Arid,,x,,,x
+1191,1995,R064/T10,D.Nicolle,"Mt Nameless 1, WA",Alive,Eucalyptus aridimontana,,,,Eucalyptus aridomontana,Adnataria,Lignotuber,0.1349,22.64166641,397,0,,,0,,,Arid,,x,,,x
+1207,1995,R066/T18,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus normantonensis,CCA1129,OK,Small,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1146,21.89166641,324,0,0,4,0,0,4,Arid,X,x,,,x
+1207,1995,R066/T19,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus normantonensis,CCA1130,OK,,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1146,21.89166641,324,0,0,4,0,0,4,Arid,X,x,,,x
+1207,1995,R066/T20,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus normantonensis,CCA1131,OK,,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1146,21.89166641,324,0,0,4,0,0,4,Arid,X,x,,,x
+1238,1996,R094/T05,,,,Eucalyptus microcorys ,CCA1660,OK,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2,0,1,3,0,1,Humid,X,,,,
+1238,2000,R198/T11,,,,Eucalyptus microcorys,,OK,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,5,2.6,,5,Humid,X,,,,
+1238,2000,R198/T12,,,,Eucalyptus microcorys,,OK,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,5,2.6,,5,Humid,X,,,,
+1238,2000,R198/T13,,,,Eucalyptus microcorys,,OK,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,5,2.6,,5,Humid,X,,,,
+1238,2000,R198/T10,,,,Eucalyptus microcorys,,OK,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,5,2.6,,5,Humid,X,,,,
+1207,1995,R066/T21,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus normantonensis,CCA1132,OK,,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1146,21.89166641,324,0,0,4,0,0,4,Arid,X,x,,,x
+1206,1995,R066/T25,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus camaldulensis subsp. arida,CCA1135,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.126,23.72083282,382,2.25,1.5,4,2,1.414213562,4,Arid,,x,,,x
+1206,1995,R066/T26,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus camaldulensis subsp. arida,CCA1136,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.126,23.72083282,382,2.25,1.5,4,2,1.414213562,4,Arid,,x,,,x
+1206,1995,R066/T27,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus camaldulensis subsp. arida,CCA1137,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.126,23.72083282,382,2.25,1.5,4,2,1.414213562,4,Arid,,x,,,x
+1206,1995,R066/T28,D.Nicolle,"MacDonnell Ranges, NT",Alive,Eucalyptus camaldulensis subsp. arida,CCA1138,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.126,23.72083282,382,2.25,1.5,4,2,1.414213562,4,Arid,,x,,,x
+980,1995,R066/T29,D.Nicolle,"Wentworth, NSW",Alive,Eucalyptus largiflorens,CCA1139,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.1374,17.65833,290,0.2,0.447213595,5,0,0,5,Arid,X,x,,,x
+980,1995,R066/T30,D.Nicolle,"Wentworth, NSW",Alive,Eucalyptus largiflorens,CCA1140,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.1374,17.65833,290,0.2,0.447213595,5,0,0,5,Arid,X,x,,,x
+980,1995,R066/T31,D.Nicolle,"Wentworth, NSW",Alive,Eucalyptus largiflorens,CCA1141,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.1374,17.65833,290,0.2,0.447213595,5,0,0,5,Arid,X,x,,,x
+980,1995,R066/T32,D.Nicolle,"Wentworth, NSW",Alive,Eucalyptus largiflorens,CCA1142,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.1374,17.65833,290,0.2,0.447213595,5,0,0,5,Arid,X,x,,,x
+980,1995,R066/T33,D.Nicolle,"Wentworth, NSW",Alive,Eucalyptus largiflorens,CCA1143,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.1374,17.65833,290,0.2,0.447213595,5,0,0,5,Arid,X,x,,,x
+822,1995,R066/T34,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus odorata,CCA1144,OK,,Eucalyptus odorata,Adnataria,Combination,0.2834,15.97083,478,0,0,4,0,0,4,Semiarid,X,x,,,x
+822,1995,R066/T35,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus odorata,CCA1145,OK,,Eucalyptus odorata,Adnataria,Combination,0.2834,15.97083,478,0,0,4,0,0,4,Semiarid,X,x,,,x
+822,1995,R066/T36,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus odorata,CCA1146,OK,,Eucalyptus odorata,Adnataria,Combination,0.2834,15.97083,478,0,0,4,0,0,4,Semiarid,X,x,,,x
+822,1995,R066/T37,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus odorata,CCA1147,OK,,Eucalyptus odorata,Adnataria,Combination,0.2834,15.97083,478,0,0,4,0,0,4,Semiarid,X,x,,,x
+1154,1995,R068/T09,D.Nicolle,"Badgingarra, WA",Alive,Eucalyptus absita,,,,Eucalyptus absita,Adnataria,Lignotuber,0.254,18.63750076,565,1,,,1,,,Semiarid,,x,,,x
+1154,1995,R068/T10,D.Nicolle,"Badgingarra, WA",Alive,Eucalyptus absita,,,,Eucalyptus absita,Adnataria,Lignotuber,0.254,18.63750076,565,1,,,1,,,Semiarid,,x,,,x
+1187,1995,R069/T07,D.Nicolle,"Tom Price, WA",Alive,Eucalyptus xerothermica,,,,Eucalyptus xerothermica,Adnataria,Combination,0.106,24.79583359,338,0,,,0,,,Arid,,x,,,x
+1187,1995,R069/T08,D.Nicolle,"Tom Price, WA",Alive,Eucalyptus xerothermica,,,,Eucalyptus xerothermica,Adnataria,Combination,0.106,24.79583359,338,0,,,0,,,Arid,,x,,,x
+1187,1995,R069/T09,D.Nicolle,"Tom Price, WA",Alive,Eucalyptus xerothermica,,,,Eucalyptus xerothermica,Adnataria,Combination,0.106,24.79583359,338,0,,,0,,,Arid,,x,,,x
+1122,1995,R069/T23,,"Ravensthorpe Range, WA",,Eucalyptus sporadica,CCA1207,OK,,Eucalyptus sporadica,Glandulosae' ms,Lignotuber,0.2086,15.8125,375,0.5,1,4,0.75,0.957427108,4,Semiarid,X,,,,x
+1122,1995,R069/T24,,"Ravensthorpe Range, WA",,Eucalyptus sporadica,CCA1208,OK,,Eucalyptus sporadica,Glandulosae' ms,Lignotuber,0.2086,15.8125,375,0.5,1,4,0.75,0.957427108,4,Semiarid,X,,,,x
+1122,1995,R069/T25,,"Ravensthorpe Range, WA",,Eucalyptus sporadica,CCA1209,OK,,Eucalyptus sporadica,Glandulosae' ms,Lignotuber,0.2086,15.8125,375,0.5,1,4,0.75,0.957427108,4,Semiarid,X,,,,x
+1122,1995,R069/T26,,"Ravensthorpe Range, WA",,Eucalyptus sporadica,CCA1210,OK,,Eucalyptus sporadica,Glandulosae' ms,Lignotuber,0.2086,15.8125,375,0.5,1,4,0.75,0.957427108,4,Semiarid,X,,,,x
+1131,1995,R069/T32,D.Nicolle,"Pallinup River, WA",Alive,Eucalyptus rudis subsp. rudis,CCA1212,OK,Small,Eucalyptus rudis subsp. rudis,Exsertaria,Combination,0.2801,16.34166718,475,2.666666667,0.577350269,4,2.666666667,0.577350269,4,Semiarid,,x,,,x
+1131,1995,R069/T33,D.Nicolle,"Pallinup River, WA",Alive,Eucalyptus rudis subsp. rudis,CCA1213,OK,,Eucalyptus rudis subsp. rudis,Exsertaria,Combination,0.2801,16.34166718,475,2.666666667,0.577350269,4,2.666666667,0.577350269,4,Semiarid,,x,,,x
+1131,1995,R069/T34,D.Nicolle,"Pallinup River, WA",Alive,Eucalyptus rudis subsp. rudis,CCA1214,OK,,Eucalyptus rudis subsp. rudis,Exsertaria,Combination,0.2801,16.34166718,475,2.666666667,0.577350269,4,2.666666667,0.577350269,4,Semiarid,,x,,,x
+806,1995,R071/T08,,"Kangaroo Island, SA",,Eucalyptus rugosa,CCA1252,OK,,Eucalyptus rugosa,Dumaria,Lignotuber,0.4818,14.58333,701,1,0,4,1.5,0.577350269,4,Semiarid,X,,,,x
+806,1995,R071/T09,,"Kangaroo Island, SA",,Eucalyptus rugosa,CCA1253,OK,,Eucalyptus rugosa,Dumaria,Lignotuber,0.4818,14.58333,701,1,0,4,1.5,0.577350269,4,Semiarid,X,,,,x
+806,1995,R071/T10,,"Kangaroo Island, SA",,Eucalyptus rugosa,CCA1254,OK,,Eucalyptus rugosa,Dumaria,Lignotuber,0.4818,14.58333,701,1,0,4,1.5,0.577350269,4,Semiarid,X,,,,x
+806,1995,R071/T11,,"Kangaroo Island, SA",,Eucalyptus rugosa,CCA1255,OK,,Eucalyptus rugosa,Dumaria,Lignotuber,0.4818,14.58333,701,1,0,4,1.5,0.577350269,4,Semiarid,X,,,,x
+154,1995,R071/T13,,"Grass Patch, WA",,Eucalyptus pleurocarpa,CCA1183,OK,,Eucalyptus pleurocarpa,Limbatae,Lignotuber,0.1916,16.42499924,358,0.5,0.707106781,4,0.5,0.707106781,4,Arid,X,,,,x
+154,1995,R071/T15,,"Grass Patch, WA",,Eucalyptus pleurocarpa,,OK,,Eucalyptus pleurocarpa,Limbatae,Lignotuber,0.1916,16.42499924,358,0.5,0.707106781,4,0.5,0.707106781,4,Arid,X,,,,x
+823,1995,R071/T28,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus camaldulensis subsp. camaldulensis,CCA1266,OK,,Eucalyptus camaldulensis subsp. camaldulensis,Exsertaria,Combination,0.2842,15.95833,480,0.25,0.5,4,0.25,0.5,4,Semiarid,,x,,,x
+823,1995,R071/T29,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus camaldulensis subsp. camaldulensis,CCA1267,OK,,Eucalyptus camaldulensis subsp. camaldulensis,Exsertaria,Combination,0.2842,15.95833,480,0.25,0.5,4,0.25,0.5,4,Semiarid,,x,,,x
+823,1995,R071/T30,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus camaldulensis subsp. camaldulensis,CCA1268,OK,,Eucalyptus camaldulensis subsp. camaldulensis,Exsertaria,Combination,0.2842,15.95833,480,0.25,0.5,4,0.25,0.5,4,Semiarid,,x,,,x
+823,1995,R071/T31,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus camaldulensis subsp. camaldulensis,CCA1269,OK,,Eucalyptus camaldulensis subsp. camaldulensis,Exsertaria,Combination,0.2842,15.95833,480,0.25,0.5,4,0.25,0.5,4,Semiarid,,x,,,x
+1121,1995,R072/T04,,"Ravensthorpe Range, WA",,Eucalyptus megacornuta,,,,Eucalyptus megacornuta,Glandulosae' ms,Seeder,0.2086,15.8125,375,0,0,,0,0,,Semiarid,X,,,,x
+1121,1995,R072/T05,,"Ravensthorpe Range, WA",,Eucalyptus megacornuta,,,,Eucalyptus megacornuta,Glandulosae' ms,Seeder,0.2086,15.8125,375,0,0,,0,0,,Semiarid,X,,,,x
+1121,1995,R072/T06,,"Ravensthorpe Range, WA",,Eucalyptus megacornuta,,,,Eucalyptus megacornuta,Glandulosae' ms,Seeder,0.2086,15.8125,375,0,0,,0,0,,Semiarid,X,,,,x
+1299,1998,R160/T07,D.Nicolle,"Paluma, Qld",Alive,Eucalyptus acmenoides,CCA3273,OK,,Eucalyptus acmenoides (E. uvida),Eucalyptus,Combination,0.689,23.62083244,1418,1.666666667,,3,2,,3,DrySubhumid,,,,,
+1299,1998,R160/T06,D.Nicolle,"Paluma, Qld",Alive,Eucalyptus acmenoides,CCA3272,OK,,Eucalyptus acmenoides (E. uvida),Eucalyptus,Combination,0.689,23.62083244,1418,1.666666667,,3,2,,3,DrySubhumid,,,,,
+1299,1998,R160/T05,D.Nicolle,"Paluma, Qld",Alive,Eucalyptus acmenoides,CCA3271,OK,,Eucalyptus acmenoides (E. uvida),Eucalyptus,Combination,0.689,23.62083244,1418,1.666666667,,3,2,,3,DrySubhumid,,,,,
+1121,1995,R072/T07,,"Ravensthorpe Range, WA",,Eucalyptus megacornuta,,,,Eucalyptus megacornuta,Glandulosae' ms,Seeder,0.2086,15.8125,375,0,0,,0,0,,Semiarid,X,,,,x
+1209,1995,R073/T01,D.Nicolle,"Mt Gillen, WA",Alive,Eucalyptus gillenii,CCA1301,OK,,Eucalyptus gillenii,Exsertaria,Lignotuber,0.1125,21.25416565,322,0,0,4,0,0,4,Arid,X,x,,,x
+1209,1995,R073/T02,D.Nicolle,"Mt Gillen, WA",Alive,Eucalyptus gillenii,CCA1302,OK,,Eucalyptus gillenii,Exsertaria,Lignotuber,0.1125,21.25416565,322,0,0,4,0,0,4,Arid,X,x,,,x
+1209,1995,R073/T03,D.Nicolle,"Mt Gillen, WA",Alive,Eucalyptus gillenii,CCA1303,OK,,Eucalyptus gillenii,Exsertaria,Lignotuber,0.1125,21.25416565,322,0,0,4,0,0,4,Arid,X,x,,,x
+1209,1995,R073/T04,D.Nicolle,"Mt Gillen, WA",Alive,Eucalyptus gillenii,CCA1304,OK,,Eucalyptus gillenii,Exsertaria,Lignotuber,0.1125,21.25416565,322,0,0,4,0,0,4,Arid,X,x,,,x
+783,1995,R074/T13,D.Nicolle,"Tarlee, SA",Alive,Eucalyptus behriana,CCA1333,OK,,Eucalyptus behriana,Adnataria,Lignotuber,0.2317,16.11667,446,0,0,4,0,0,4,Semiarid,X,x,,,x
+783,1995,R074/T14,D.Nicolle,"Tarlee, SA",Alive,Eucalyptus behriana x E. ?odorata,CCA1336,OK,,Eucalyptus behriana x E. odorata,Adnataria,Lignotuber,0.2317,16.11667,446,0,0,4,0,0,4,Semiarid,X,x,,,x
+783,1995,R074/T15,D.Nicolle,"Tarlee, SA",Alive,Eucalyptus behriana,CCA1334,OK,,Eucalyptus behriana x E. odorata,Adnataria,Lignotuber,0.2317,16.11667,446,0,0,4,0,0,4,Semiarid,X,x,,,x
+783,1995,R074/T16,D.Nicolle,"Tarlee, SA",Alive,Eucalyptus behriana,CCA1335,OK,,Eucalyptus behriana x E. odorata,Adnataria,Lignotuber,0.2317,16.11667,446,0,0,4,0,0,4,Semiarid,X,x,,,x
+945,1995,R074/T28,D.Nicolle,"Koppio Hills 2, SA",Alive,Eucalyptus petiolaris,CCA1340,OK,,Eucalyptus petiolaris (yellow flower morph),Adnataria,Combination,0.2764,16.0375,482,0.666666667,1.154700538,4,1.333333333,0.577350269,4,Semiarid,X,x,,,x
+945,1995,R074/T30,D.Nicolle,"Koppio Hills 2, SA",Alive,Eucalyptus petiolaris,CCA1341,OK,,Eucalyptus petiolaris (yellow flower morph),Adnataria,Combination,0.2764,16.0375,482,0.666666667,1.154700538,4,1.333333333,0.577350269,4,Semiarid,X,x,,,x
+945,1995,R074/T31,D.Nicolle,"Koppio Hills 2, SA",Alive,Eucalyptus petiolaris,CCA1342,OK,,Eucalyptus petiolaris (yellow flower morph),Adnataria,Combination,0.2764,16.0375,482,0.666666667,1.154700538,4,1.333333333,0.577350269,4,Semiarid,X,x,,,x
+825,1995,R075/T02,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus albopurpurea,CCA1345,OK,Resprouting from lignotuber,Eucalyptus albopurpurea (atypical form),Adnataria,Lignotuber,0.2967,15.84583,489,0,0,4,0,0,4,Semiarid,X,x,,,x
+825,1995,R075/T03,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus albopurpurea,CCA1346,OK,,Eucalyptus albopurpurea (atypical form),Adnataria,Lignotuber,0.2967,15.84583,489,0,0,4,0,0,4,Semiarid,X,x,,,x
+825,1995,R075/T04,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus albopurpurea,CCA1347,OK,,Eucalyptus albopurpurea (atypical form),Adnataria,Lignotuber,0.2967,15.84583,489,0,0,4,0,0,4,Semiarid,X,x,,,x
+825,1995,R075/T05,D.Nicolle,"Kangaroo Island, SA",Alive,Eucalyptus albopurpurea,CCA1348,OK,,Eucalyptus albopurpurea (atypical form),Adnataria,Lignotuber,0.2967,15.84583,489,0,0,4,0,0,4,Semiarid,X,x,,,x
+942,1995,R075/T15,D.Nicolle,"Sleaford Bay, SA",Alive,Eucalyptus albopurpurea,CCA1356,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.325,15.60833,528,0,0,4,0,0,4,Semiarid,X,x,,,x
+942,1995,R075/T16,D.Nicolle,"Sleaford Bay, SA",Alive,Eucalyptus albopurpurea,CCA1357,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.325,15.60833,528,0,0,4,0,0,4,Semiarid,X,x,,,x
+942,1995,R075/T17,D.Nicolle,"Sleaford Bay, SA",Alive,Eucalyptus albopurpurea,CCA1358,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.325,15.60833,528,0,0,4,0,0,4,Semiarid,X,x,,,x
+634,1995,R076/T21,D.Nicolle,"Wollombi, NSW",Alive,Eucalyptus fergusonii subsp. dorsiventralis,CCA1371,OK,,Eucalyptus fergusonii subsp. dorsiventralis,Adnataria,Combination,0.5233,16.7625,818,1,0,4,1.25,,4,DrySubhumid,X,x,,,x
+634,1995,R076/T22,D.Nicolle,"Wollombi, NSW",Alive,Eucalyptus fergusonii subsp. dorsiventralis,CCA1372,OK,,Eucalyptus fergusonii subsp. dorsiventralis,Adnataria,Combination,0.5233,16.7625,818,1,0,4,1.25,,4,DrySubhumid,X,x,,,x
+634,1995,R076/T23,D.Nicolle,"Wollombi, NSW",Alive,Eucalyptus fergusonii subsp. dorsiventralis,CCA1373,OK,,Eucalyptus fergusonii subsp. dorsiventralis,Adnataria,Combination,0.5233,16.7625,818,1,0,4,1.25,,4,DrySubhumid,X,x,,,x
+1095,1995,R65/T15,,"Cape Arid, WA",,Eucalyptus occidentalis,,,,Eucalyptus occidentalis,Glandulosae' ms,Combination,0.287,16.25833321,510,0,,,0.25,,,Arid,X,,,,x
+1095,1995,R65/T16,,"Cape Arid, WA",,Eucalyptus occidentalis,,,,Eucalyptus occidentalis,Glandulosae' ms,Combination,0.287,16.25833321,510,0,,,0.25,,,Arid,X,,,,x
+1095,1995,R65/T17,,"Cape Arid, WA",,Eucalyptus occidentalis,,,,Eucalyptus occidentalis,Glandulosae' ms,Combination,0.287,16.25833321,510,0,,,0.25,,,Arid,X,,,,x
+1095,1995,R65/T18,,"Cape Arid, WA",,Eucalyptus occidentalis,,,,Eucalyptus occidentalis,Glandulosae' ms,Combination,0.287,16.25833321,510,0,,,0.25,,,Arid,X,,,,x
+1137,1995,R70/T37,,"Two Peoples Bay, WA",,Eucalyptus megacarpa,,,,Eucalyptus megacarpa,Frutices' ms,Combination,0.5402,15.32499981,785,2.5,,,2,,,DrySubhumid,X,,,,x
+1137,1995,R70/T38,,"Two Peoples Bay, WA",,Eucalyptus megacarpa,,,,Eucalyptus megacarpa,Frutices' ms,Combination,0.5402,15.32499981,785,2.5,,,2,,,DrySubhumid,X,,,,x
+1732,2000,R193/T01,D.Nicolle,"Stratford, Vic",Alive,Eucalyptus globoidea,CCA3890,OK,,Eucalyptus globoidea,Eucalyptus,Combination,0.4626,14.21666622,665,0.333333333,,3,1,0,3,Semiarid,,,,,
+1732,2000,R193/T02,D.Nicolle,"Stratford, Vic",Alive,Eucalyptus globoidea,CCA3891,OK,,Eucalyptus globoidea,Eucalyptus,Combination,0.4626,14.21666622,665,0.333333333,,3,1,0,3,Semiarid,,,,,
+1732,2000,R193/T04,D.Nicolle,"Stratford, Vic",Alive,Eucalyptus globoidea,CCA3892,OK,,Eucalyptus globoidea,Eucalyptus,Combination,0.4626,14.21666622,665,0.333333333,,3,1,0,3,Semiarid,,,,,
+1137,1995,R70/T40,,"Two Peoples Bay, WA",,Eucalyptus megacarpa,,,,Eucalyptus megacarpa,Frutices' ms,Combination,0.5402,15.32499981,785,2.5,,,2,,,DrySubhumid,X,,,,x
+177,1996,R085/T05,,"Lucky Bay, WA",,Eucalyptus notactites,CCA1446,OK,,Eucalyptus notactites,Bisectae,Lignotuber,0.4151,16.20833397,715,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,,,,x
+177,1996,R085/T06,,"Lucky Bay, WA",,Eucalyptus notactites,CCA1447,OK,,Eucalyptus notactites,Bisectae,Lignotuber,0.4151,16.20833397,715,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,,,,x
+177,1996,R085/T07,,"Lucky Bay, WA",,Eucalyptus notactites,CCA1448,OK,,Eucalyptus notactites,Bisectae,Lignotuber,0.4151,16.20833397,715,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,,,,x
+177,1996,R085/T08,,"Lucky Bay, WA",,Eucalyptus notactites,CCA1449,OK,,Eucalyptus notactites,Bisectae,Lignotuber,0.4151,16.20833397,715,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,,,,x
+214,1996,R085/T17,,"Beaufort Inlet, WA",,Eucalyptus astringens subsp. redacta,CCA1454,OK,,Eucalyptus astringens subsp. redacta,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,3,0,3,0,Semiarid,X,,,,x
+214,1996,R085/T18,,"Beaufort Inlet, WA",,Eucalyptus astringens subsp. redacta,CCA1455,OK,,Eucalyptus astringens subsp. redacta,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,3,0,3,0,Semiarid,X,,,,x
+1735,1997,R144/T21,D.Nicolle,"Metung, Vic",Alive,Eucalyptus pseudoglobulus,CCA3104,OK,,Eucalyptus pseudoglobulus,Maidenaria,Combination,0.4895,14.57083321,709,2.5,1.290994449,4,2.333333333,1.154700538,4,Semiarid,X,,,,
+1735,1997,R144/T20,D.Nicolle,"Metung, Vic",Alive,Eucalyptus pseudoglobulus,CCA3103,OK,,Eucalyptus pseudoglobulus,Maidenaria,Combination,0.4895,14.57083321,709,2.5,1.290994449,4,2.333333333,1.154700538,4,Semiarid,X,,,,
+1735,1997,R144/T22,D.Nicolle,"Metung, Vic",Alive,Eucalyptus pseudoglobulus,CCA3105,Dead,,Eucalyptus pseudoglobulus,Maidenaria,Combination,0.4895,14.57083321,709,2.5,1.290994449,4,2.333333333,1.154700538,4,Semiarid,X,,,,
+1735,1997,R144/T23,D.Nicolle,"Metung, Vic",Alive,Eucalyptus pseudoglobulus,CCA3106,OK,Small,Eucalyptus pseudoglobulus,Maidenaria,Combination,0.4895,14.57083321,709,2.5,1.290994449,4,2.333333333,1.154700538,4,Semiarid,X,,,,
+214,1996,R085/T19,,"Beaufort Inlet, WA",,Eucalyptus astringens subsp. redacta,CCA1456,OK,,Eucalyptus astringens subsp. redacta,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,3,0,3,0,Semiarid,X,,,,x
+1355,1996,R086/T16,D.Nicolle,"Palmer River, NT",Alive,Eucalyptus coolabah,CCA1478,OK,,Eucalyptus coolabah,Adnataria,Combination,0.0964,21.85416603,282,0,0,3,0,0,3,Arid,X,x,x,,x
+1355,1996,R086/T17,D.Nicolle,"Palmer River, NT",Alive,Eucalyptus coolabah,CCA1479,OK,,Eucalyptus coolabah,Adnataria,Combination,0.0964,21.85416603,282,0,0,3,0,0,3,Arid,X,x,,,x
+1355,1996,R086/T18,D.Nicolle,"Palmer River, NT",Alive,Eucalyptus coolabah,CCA1480,OK,Small,Eucalyptus coolabah,Adnataria,Combination,0.0964,21.85416603,282,0,0,3,0,0,3,Arid,X,x,,,x
+1330,1996,R087/T06,D.Nicolle,"Mount Isa 1, Qld",Alive,Eucalyptus melanophloia subsp. nana,CCA1494,Only genomics,,Eucalyptus melanophloia subsp. nana,Adnataria,Combination,0.1494,24.1875,436,0,0,4,0,0,4,Arid,X,x,,,x
+1330,1996,R087/T07,D.Nicolle,"Mount Isa 1, Qld",Alive,Eucalyptus melanophloia subsp. nana,CCA1495,OK,,Eucalyptus melanophloia subsp. nana,Adnataria,Combination,0.1494,24.1875,436,0,0,4,0,0,4,Arid,X,x,,,x
+1330,1996,R087/T08,D.Nicolle,"Mount Isa 1, Qld",Alive,Eucalyptus melanophloia subsp. nana,CCA1496,OK,,Eucalyptus melanophloia subsp. nana,Adnataria,Combination,0.1494,24.1875,436,0,0,4,0,0,4,Arid,X,x,,,x
+1747,2004,R262/T03,,,,Eucalyptus conspicua,CCA4973,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.6903,14.64999962,902,0.75,0.957427108,4,1.5,1.290994449,4,DrySubhumid,X,,,,
+1747,2004,R262/T04,,,,Eucalyptus conspicua,CCA4974,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.6903,14.64999962,902,0.75,0.957427108,4,1.5,1.290994449,4,DrySubhumid,X,,,,
+1747,2004,R262/T01,,,,Eucalyptus conspicua,CCA4971,Dead,,Eucalyptus conspicua,Maidenaria,Combination,0.6903,14.64999962,902,0.75,0.957427108,4,1.5,1.290994449,4,DrySubhumid,X,,,,
+1747,2004,R262/T02,,,,Eucalyptus conspicua,CCA4972,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.6903,14.64999962,902,0.75,0.957427108,4,1.5,1.290994449,4,DrySubhumid,X,,,,
+1330,1996,R087/T09,D.Nicolle,"Mount Isa 1, Qld",Alive,Eucalyptus melanophloia subsp. nana,CCA1497,OK,,Eucalyptus melanophloia subsp. nana,Adnataria,Combination,0.1494,24.1875,436,0,0,4,0,0,4,Arid,X,x,,,x
+1331,1996,R087/T15,D.Nicolle,"Mount Isa, Qld",Alive,Eucalyptus leucophylla,,,,Eucalyptus leucophylla,Adnataria,Combination,0.1625,24.54166603,473,0,,,0,,,Arid,,x,,,x
+1331,1996,R087/T16,D.Nicolle,"Mount Isa, Qld",Alive,Eucalyptus leucophylla,,,,Eucalyptus leucophylla,Adnataria,Combination,0.1625,24.54166603,473,0,,,0,,,Arid,,x,,,x
+1331,1996,R087/T17,D.Nicolle,"Mount Isa, Qld",Alive,Eucalyptus leucophylla,,,,Eucalyptus leucophylla,Adnataria,Combination,0.1625,24.54166603,473,0,,,0,,,Arid,,x,,,x
+1364,1996,R087/T22,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1508,OK,,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1364,1996,R087/T23,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1509,OK,,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1364,1996,R087/T24,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1510,OK,Small,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1364,1996,R087/T25,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1511,OK,,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1364,1996,R087/T26,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1512,OK,,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1364,1996,R087/T27,D.Nicolle,"Happy Valley, SA",Alive,Eucalyptus sp. Adelaide,CCA1513,OK,,Eucalyptus microcarpa (Adelaide variant),Adnataria,Combination,0.3411,15.80416679,610,0.333333333,0.516397779,6,0.4,0.547722558,6,Semiarid,X,x,,,x
+1284,1996,R087/T28,D.Nicolle,"Barcaldine, Qld",Alive,Eucalyptus ammophila,,,,Eucalyptus ammophila,Exsertaria,Combination,0.2063,22.67083359,519,0.333333333,,,0,,,Semiarid,,x,,,x
+1773,1997,R144/T15,D.Nicolle,"Swanpool, Vic",Alive,Eucalyptus alligatrix subsp. limaensis,CCA3101,OK,,Eucalyptus alligatrix subsp. alligatrix (subsp. limaensis),Maidenaria,Combination,0.5371,14.46249962,853,1.333333333,0.577350269,4,1.333333333,0.577350269,4,DrySubhumid,X,,,,
+1773,1997,R144/T13,D.Nicolle,"Swanpool, Vic",Alive,Eucalyptus alligatrix subsp. limaensis,CCA3100,OK,,Eucalyptus alligatrix subsp. alligatrix (subsp. limaensis),Maidenaria,Combination,0.5371,14.46249962,853,1.333333333,0.577350269,4,1.333333333,0.577350269,4,DrySubhumid,X,,,,
+1773,1997,R144/T12,D.Nicolle,"Swanpool, Vic",Alive,Eucalyptus alligatrix subsp. limaensis,CCA3099,OK,,Eucalyptus alligatrix subsp. alligatrix (subsp. limaensis),Maidenaria,Combination,0.5371,14.46249962,853,1.333333333,0.577350269,4,1.333333333,0.577350269,4,DrySubhumid,X,,,,
+1284,1996,R087/T30,D.Nicolle,"Barcaldine, Qld",Alive,Eucalyptus ammophila,,,,Eucalyptus ammophila,Exsertaria,Combination,0.2063,22.67083359,519,0.333333333,,,0,,,Semiarid,,x,,,x
+1284,1996,R087/T31,D.Nicolle,"Barcaldine, Qld",Alive,Eucalyptus ammophila,,,,Eucalyptus ammophila,Exsertaria,Combination,0.2063,22.67083359,519,0.333333333,,,0,,,Semiarid,,x,,,x
+1338,1996,R087/T32,D.Nicolle,"Newcastle Creek, NT",Alive,Eucalyptus microtheca,,,,Eucalyptus microtheca,Adnataria,Combination,0.2132,26.69583321,599,0,,,0,,,Semiarid,,x,,,x
+1338,1996,R087/T33,D.Nicolle,"Newcastle Creek, NT",Alive,Eucalyptus microtheca,,,,Eucalyptus microtheca,Adnataria,Combination,0.2132,26.69583321,599,0,,,0,,,Semiarid,,x,,,x
+1986,1998,R153/T23,D.Nicolle,"Kellevie, Tas",Alive,Eucalyptus globulus,CCA3217,OK,,Eucalyptus globulus,Maidenaria,Combination,0.707,10.91250038,795,2,1.414213562,4,1,0,4,DrySubhumid,X,,,,
+1986,1998,R153/T21,D.Nicolle,"Kellevie, Tas",Alive,Eucalyptus globulus,CCA3216,OK,,Eucalyptus globulus,Maidenaria,Combination,0.707,10.91250038,795,2,1.414213562,4,1,0,4,DrySubhumid,X,,,,
+1590,1996,R088/T05,D.Nicolle,"Bordertown, SA",Alive,Eucalyptus wimmerensis,CCA1523,OK,Tall,Eucalyptus wimmerensis,Adnataria,Lignotuber,0.264,15.22500038,455,0.25,0.5,4,1,0,4,Semiarid,X,x,,,x
+1590,1996,R088/T06,D.Nicolle,"Bordertown, SA",Alive,Eucalyptus wimmerensis,CCA1524,OK,,Eucalyptus wimmerensis,Adnataria,Lignotuber,0.264,15.22500038,455,0.25,0.5,4,1,0,4,Semiarid,X,x,,,x
+1590,1996,R088/T07,D.Nicolle,"Bordertown, SA",Alive,Eucalyptus wimmerensis,CCA1525,OK,,Eucalyptus wimmerensis,Adnataria,Lignotuber,0.264,15.22500038,455,0.25,0.5,4,1,0,4,Semiarid,X,x,,,x
+1590,1996,R088/T08,D.Nicolle,"Bordertown, SA",Alive,Eucalyptus wimmerensis,CCA1526,OK,,Eucalyptus wimmerensis,Adnataria,Lignotuber,0.264,15.22500038,455,0.25,0.5,4,1,0,4,Semiarid,X,x,,,x
+1220,1996,R088/T35,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus microcarpa,CCA1543,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.2565,16.72083282,496,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,x,,x
+1220,1996,R088/T36,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus microcarpa,CCA1544,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.2565,16.72083282,496,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+1220,1996,R088/T37,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus microcarpa,CCA1545,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.2565,16.72083282,496,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+1220,1996,R088/T38,D.Nicolle,"West Wyalong, NSW",Alive,Eucalyptus microcarpa,CCA1546,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.2565,16.72083282,496,0.5,0.577350269,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+1339,1996,R089/T05,D.Nicolle,"Daly Waters, NT",Alive,Eucalyptus patellaris,,,,Eucalyptus patellaris,Adnataria,Combination,0.2728,26.55416679,715,0,,,0,,,Semiarid,,x,,,x
+1339,1996,R089/T07,D.Nicolle,"Daly Waters, NT",Alive,Eucalyptus patellaris,,,,Eucalyptus patellaris,Adnataria,Combination,0.2728,26.55416679,715,0,,,0,,,Semiarid,,x,,,x
+1276,1996,R089/T15,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus sicilifolia,CCA1556,OK,,Eucalyptus sicilifolia,Adnataria,Combination,0.3023,20.87916565,641,0,0,4,0,0,4,Semiarid,X,x,,,x
+1276,1996,R089/T16,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus sicilifolia,CCA1557,OK,,Eucalyptus sicilifolia,Adnataria,Combination,0.3023,20.87916565,641,0,0,4,0,0,4,Semiarid,X,x,,,x
+1276,1996,R089/T17,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus sicilifolia,CCA1558,OK,,Eucalyptus sicilifolia,Adnataria,Combination,0.3023,20.87916565,641,0,0,4,0,0,4,Semiarid,X,x,,,x
+1276,1996,R089/T18,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus sicilifolia,CCA1559,OK,,Eucalyptus sicilifolia,Adnataria,Combination,0.3023,20.87916565,641,0,0,4,0,0,4,Semiarid,X,x,,,x
+1279,1996,R089/T19,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus tholiformis,CCA1560,OK,,Eucalyptus tholiformis,Adnataria,Combination,0.2771,20.98333359,600,0,0,4,0,0,4,Semiarid,X,x,,,x
+1279,1996,R089/T20,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus tholiformis,CCA1561,OK,,Eucalyptus tholiformis,Adnataria,Combination,0.2771,20.98333359,600,0,0,4,0,0,4,Semiarid,X,x,,,x
+1279,1996,R089/T21,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus tholiformis,CCA1562,OK,,Eucalyptus tholiformis,Adnataria,Combination,0.2771,20.98333359,600,0,0,4,0,0,4,Semiarid,X,x,,,x
+1279,1996,R089/T22,D.Nicolle,"Springsure, Qld",Alive,Eucalyptus tholiformis,CCA1563,OK,,Eucalyptus tholiformis,Adnataria,Combination,0.2771,20.98333359,600,0,0,4,0,0,4,Semiarid,X,x,,,x
+1267,1996,R089/T26,D.Nicolle,"Isla Gorge 2, Qld",Alive,Eucalyptus suffulgens,CCA1565,OK,,Eucalyptus suffulgens,Adnataria,Combination,0.3344,20.01666641,665,0.666666667,1.154700538,4,1,0,4,Semiarid,X,x,,,x
+1267,1996,R089/T27,D.Nicolle,"Isla Gorge 2, Qld",Alive,Eucalyptus suffulgens,CCA1566,OK,,Eucalyptus suffulgens,Adnataria,Combination,0.3344,20.01666641,665,0.666666667,1.154700538,4,1,0,4,Semiarid,X,x,,,x
+1267,1996,R089/T29,D.Nicolle,"Isla Gorge 2, Qld",Alive,Eucalyptus suffulgens,CCA1567,OK,,Eucalyptus suffulgens,Adnataria,Combination,0.3344,20.01666641,665,0.666666667,1.154700538,4,1,0,4,Semiarid,X,x,,,x
+1281,1996,R090/T01,D.Nicolle,"Jericho, Qld",Alive,Eucalyptus thozetiana,CCA1574,OK,,Eucalyptus thozetiana,Adnataria,Combination,0.2221,21.74166679,522,0,0,4,0,0,4,Semiarid,X,x,,,x
+1281,1996,R090/T02,D.Nicolle,"Jericho, Qld",Alive,Eucalyptus thozetiana,CCA1575,OK,,Eucalyptus thozetiana,Adnataria,Combination,0.2221,21.74166679,522,0,0,4,0,0,4,Semiarid,X,x,,,x
+1281,1996,R090/T04,D.Nicolle,"Jericho, Qld",Alive,Eucalyptus thozetiana,CCA1576,OK,,Eucalyptus thozetiana,Adnataria,Combination,0.2221,21.74166679,522,0,0,4,0,0,4,Semiarid,X,x,,,x
+2115,1998,R161/T09,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus mediocris,CCA3282,OK,"Small, resprouting",Eucalyptus mediocris,Eucalyptus,Combination,0.3058,18.39583397,612,0.5,0.707106781,3,0.5,0.707106781,3,Semiarid,,,,,
+2115,1998,R161/T10,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus mediocris,CCA3283,OK,,Eucalyptus mediocris,Eucalyptus,Combination,0.3058,18.39583397,612,0.5,0.707106781,3,0.5,0.707106781,3,Semiarid,,,,,
+2118,1998,R150/T21,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus erosa,CCA3165,OK,,Eucalyptus erosa,Eucalyptus,Combination,0.3585,16.25833321,657,1,0.816496581,4,1,0.816496581,4,Semiarid,,,,,
+2118,1998,R150/T20,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus erosa,CCA3164,OK,,Eucalyptus erosa,Eucalyptus,Combination,0.3585,16.25833321,657,1,0.816496581,4,1,0.816496581,4,Semiarid,,,,,
+2118,1998,R150/T22,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus erosa,CCA3166,OK,,Eucalyptus erosa,Eucalyptus,Combination,0.3585,16.25833321,657,1,0.816496581,4,1,0.816496581,4,Semiarid,,,,,
+2118,1998,R150/T23,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus erosa,CCA3167,OK,,Eucalyptus erosa,Eucalyptus,Combination,0.3585,16.25833321,657,1,0.816496581,4,1,0.816496581,4,Semiarid,,,,,
+1272,1996,R090/T09,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus tereticornis subsp. rotunda,,,,Eucalyptus tereticornis subsp. rotunda,Exsertaria,Combination,0.3692,15.97916698,668,1.25,,,0,,,Semiarid,,x,,,x
+1272,1996,R090/T10,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus tereticornis subsp. rotunda,,,,Eucalyptus tereticornis subsp. rotunda,Exsertaria,Combination,0.3692,15.97916698,668,1.25,,,0,,,Semiarid,,x,,,x
+1272,1996,R090/T12,D.Nicolle,"Carnarvon Range, Qld",Alive,Eucalyptus tereticornis subsp. rotunda,,,,Eucalyptus tereticornis subsp. rotunda,Exsertaria,Combination,0.3692,15.97916698,668,1.25,,,0,,,Semiarid,,x,,,x
+1293,1996,R090/T17,D.Nicolle,"Pentland, Qld",Alive,Eucalyptus brownii,CCA1587,OK,Related to E. populena,Eucalyptus brownii,Adnataria,Combination,0.2708,22.70416641,631,0.5,0.707106781,3,0,0,3,Semiarid,X,x,,,x
+1293,1996,R090/T19,D.Nicolle,"Pentland, Qld",Alive,Eucalyptus brownii,CCA1588,OK,,Eucalyptus brownii,Adnataria,Combination,0.2708,22.70416641,631,0.5,0.707106781,3,0,0,3,Semiarid,X,x,,,x
+1264,1996,R090/T20,D.Nicolle,"Cracow, Qld",Alive,Eucalyptus corynodes,CCA1589,Dead,,Eucalyptus corynodes,Adnataria,Combination,0.3321,19.8125,654,0.5,0.707106781,3,0,0,3,Semiarid,X,x,,,x
+1264,1996,R090/T21,D.Nicolle,"Cracow, Qld",Alive,Eucalyptus corynodes,CCA1590,OK,,Eucalyptus corynodes,Adnataria,Combination,0.3321,19.8125,654,0.5,0.707106781,3,0,0,3,Semiarid,X,x,,,x
+2306,1999,R177/T19,,,,Eucalyptus salmonophloia,CCA3562,OK,,Eucalyptus salmonophloia,Bisectae,Stem,0.0917,18.42499924,211,0,0,4,0,0,4,Arid,,,,,
+2306,1999,R177/T16,,,,Eucalyptus salmonophloia,CCA3559,OK,,Eucalyptus salmonophloia,Bisectae,Stem,0.0917,18.42499924,211,0,0,4,0,0,4,Arid,,,,,
+2306,1999,R177/T17,,,,Eucalyptus salmonophloia,CCA3560,OK,,Eucalyptus salmonophloia,Bisectae,Stem,0.0917,18.42499924,211,0,0,4,0,0,4,Arid,,,,,
+2306,1999,R177/T18,,,,Eucalyptus salmonophloia,CCA3561,OK,,Eucalyptus salmonophloia,Bisectae,Stem,0.0917,18.42499924,211,0,0,4,0,0,4,Arid,,,,,
+1264,1996,R090/T22,D.Nicolle,"Cracow, Qld",Alive,Eucalyptus corynodes,CCA1591,OK,,Eucalyptus corynodes,Adnataria,Combination,0.3321,19.8125,654,0.5,0.707106781,3,0,0,3,Semiarid,X,x,,,x
+1289,1996,R090/T24,D.Nicolle,"White Mountains, Qld",Alive,Eucalyptus exilipes,,,,Eucalyptus exilipes,Adnataria,Combination,0.2524,22.18333244,581,0,,,0.333333333,,,Semiarid,,x,,,x
+1289,1996,R090/T25,D.Nicolle,"White Mountains, Qld",Alive,Eucalyptus exilipes,,,,Eucalyptus exilipes,Adnataria,Combination,0.2524,22.18333244,581,0,,,0.333333333,,,Semiarid,,x,,,x
+1254,1996,R090/T26,D.Nicolle,"Durikai State Forest, Qld",Alive,Eucalyptus infera,CCA1594,OK,,Eucalyptus infera,Exsertaria,Lignotuber,0.4278,15.86666679,732,0,0,4,0,0,4,Semiarid,X,x,,,x
+1254,1996,R090/T27,D.Nicolle,"Durikai State Forest, Qld",Alive,Eucalyptus infera,CCA1595,OK,,Eucalyptus infera,Exsertaria,Lignotuber,0.4278,15.86666679,732,0,0,4,0,0,4,Semiarid,X,x,,,x
+1254,1996,R090/T28,D.Nicolle,"Durikai State Forest, Qld",Alive,Eucalyptus infera,CCA1596,OK,,Eucalyptus infera,Exsertaria,Lignotuber,0.4278,15.86666679,732,0,0,4,0,0,4,Semiarid,X,x,,,x
+1254,1996,R090/T29,D.Nicolle,"Durikai State Forest, Qld",Alive,Eucalyptus infera,CCA1597,OK,,Eucalyptus infera,Exsertaria,Lignotuber,0.4278,15.86666679,732,0,0,4,0,0,4,Semiarid,X,x,,,x
+1260,1996,R090/T30,D.Nicolle,"Eidsvold, Qld",Alive,Eucalyptus decorticans,,,,Eucalyptus decorticans,Adnataria,Combination,0.3433,20.40833282,667,1,,,1,,,Semiarid,,x,,,x
+1260,1996,R090/T31,D.Nicolle,"Eidsvold, Qld",Alive,Eucalyptus decorticans,,,,Eucalyptus decorticans,Adnataria,Combination,0.3433,20.40833282,667,1,,,1,,,Semiarid,,x,,,x
+1260,1996,R090/T33,D.Nicolle,"Eidsvold, Qld",Alive,Eucalyptus decorticans,,,,Eucalyptus decorticans,Adnataria,Combination,0.3433,20.40833282,667,1,,,1,,,Semiarid,,x,,,x
+1291,1996,R091/T02,D.Nicolle,"White Mountains, Qld",Alive,Eucalyptus persistens,CCA1605,OK,,Eucalyptus persistens,Adnataria,Combination,0.2603,22.54166603,608,0.333333333,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+1291,1996,R091/T03,D.Nicolle,"White Mountains, Qld",Alive,Eucalyptus persistens,CCA1606,OK,,Eucalyptus persistens,Adnataria,Combination,0.2603,22.54166603,608,0.333333333,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+1291,1996,R091/T04,D.Nicolle,"White Mountains, Qld",Alive,Eucalyptus persistens,CCA1607,OK,,Eucalyptus persistens,Adnataria,Combination,0.2603,22.54166603,608,0.333333333,0.577350269,4,0,0,4,Semiarid,X,x,,,x
+1308,1996,R091/T31,D.Nicolle,"Herberton, Qld",Alive,Eucalyptus atrata,CCA1619,OK,,Eucalyptus atrata,Adnataria,Combination,0.8186,20.27083397,1482,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+1308,1996,R091/T32,D.Nicolle,"Herberton, Qld",Alive,Eucalyptus atrata,CCA1620,OK,,Eucalyptus atrata,Adnataria,Combination,0.8186,20.27083397,1482,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+1308,1996,R091/T33,D.Nicolle,"Herberton, Qld",Alive,Eucalyptus atrata,CCA1621,OK,,Eucalyptus atrata,Adnataria,Combination,0.8186,20.27083397,1482,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+1308,1996,R091/T34,D.Nicolle,"Herberton, Qld",Alive,Eucalyptus atrata,CCA1622,OK,,Eucalyptus atrata,Adnataria,Combination,0.8186,20.27083397,1482,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+1255,1996,R092/T19,D.Nicolle,"Warwick, Qld",Alive,Eucalyptus chloroclada,CCA1633,OK,Small,Eucalyptus chloroclada,Exsertaria,Combination,0.411,17.29999924,735,0.75,1.5,4,0,0,4,Semiarid,,x,,,x
+1255,1996,R092/T20,D.Nicolle,"Warwick, Qld",Alive,Eucalyptus chloroclada,CCA1634,OK,,Eucalyptus chloroclada,Exsertaria,Combination,0.411,17.29999924,735,0.75,1.5,4,0,0,4,Semiarid,,x,,,x
+1255,1996,R092/T21,D.Nicolle,"Warwick, Qld",Alive,Eucalyptus chloroclada,CCA1635,OK,,Eucalyptus chloroclada,Exsertaria,Combination,0.411,17.29999924,735,0.75,1.5,4,0,0,4,Semiarid,,x,,,x
+1323,1996,R093/T03,D.Nicolle,"Ravenshoe, Qld",Alive,Eucalyptus lockyeri,,,,Eucalyptus lockyeri,Exsertaria,Combination,0.8499,19.61249924,1501,1.5,,,1,,,Humid,,x,,,x
+1323,1996,R093/T04,D.Nicolle,"Ravenshoe, Qld",Alive,Eucalyptus lockyeri,,,,Eucalyptus lockyeri,Exsertaria,Combination,0.8499,19.61249924,1501,1.5,,,1,,,Humid,,x,,,x
+1314,1996,R093/T08,D.Nicolle,"Laura, Qld",Alive,Eucalyptus camaldulensis subsp. simulata,CCA1644,OK,,Eucalyptus camaldulensis subsp. simulata,Exsertaria,Combination,0.4977,26.09166718,1062,1.5,0.577350269,5,1.25,0.5,5,Semiarid,,x,,,x
+1314,1996,R093/T09,D.Nicolle,"Laura, Qld",Alive,Eucalyptus camaldulensis subsp. simulata,CCA1645,OK,,Eucalyptus camaldulensis subsp. simulata,Exsertaria,Combination,0.4977,26.09166718,1062,1.5,0.577350269,5,1.25,0.5,5,Semiarid,,x,,,x
+1314,1996,R093/T10,D.Nicolle,"Laura, Qld",Alive,Eucalyptus camaldulensis subsp. simulata,CCA1646,OK,,Eucalyptus camaldulensis subsp. simulata,Exsertaria,Combination,0.4977,26.09166718,1062,1.5,0.577350269,5,1.25,0.5,5,Semiarid,,x,,,x
+1314,1996,R093/T12,D.Nicolle,"Laura, Qld",Alive,Eucalyptus camaldulensis subsp. simulata,CCA1647,OK,,Eucalyptus camaldulensis subsp. simulata,Exsertaria,Combination,0.4977,26.09166718,1062,1.5,0.577350269,5,1.25,0.5,5,Semiarid,,x,,,x
+1315,1996,R093/T14,D.Nicolle,"Laura, Qld",Alive,Eucalyptus chlorophylla,,,,Eucalyptus chlorophylla,Adnataria,Combination,0.5071,26.09583282,1082,0,,0,0,,0,DrySubhumid,,x,,,x
+1315,1996,R093/T15,D.Nicolle,"Laura, Qld",Alive,Eucalyptus chlorophylla,,,,Eucalyptus chlorophylla,Adnataria,Combination,0.5071,26.09583282,1082,0,,0,0,,0,DrySubhumid,,x,,,x
+1305,1996,R094/T01,,"Herberton, Qld",,Eucalyptus granitica,,,,Eucalyptus granitica,Adnataria,Combination,0.8318,19.9375,1487,0.333333333,,,0.333333333,,,Humid,,x,x,,x
+1305,1996,R094/T02,,"Herberton, Qld",,Eucalyptus granitica,,,,Eucalyptus granitica,Adnataria,Combination,0.8318,19.9375,1487,0.333333333,,,0.333333333,,,Humid,,x,,,x
+1305,1996,R094/T03,,"Herberton, Qld",,Eucalyptus granitica,,,,Eucalyptus granitica,Adnataria,Combination,0.8318,19.9375,1487,0.333333333,,,0.333333333,,,Humid,,x,,,x
+1226,1996,R094/T10,D.Nicolle,"Lithgow, NSW",Alive,Eucalyptus pulverulenta,CCA1662,OK,,Eucalyptus pulverulenta,Maidenaria,Lignotuber,0.6078,13.05000019,880,2.25,0.5,4,2,0,4,DrySubhumid,X,,,X,x
+1226,1996,R094/T11,D.Nicolle,"Lithgow, NSW",Alive,Eucalyptus pulverulenta,CCA1663,OK,,Eucalyptus pulverulenta,Maidenaria,Lignotuber,0.6078,13.05000019,880,2.25,0.5,4,2,0,4,DrySubhumid,X,,,X,x
+1226,1996,R094/T12,D.Nicolle,"Lithgow, NSW",Alive,Eucalyptus pulverulenta,CCA1664,OK,,Eucalyptus pulverulenta,Maidenaria,Lignotuber,0.6078,13.05000019,880,2.25,0.5,4,2,0,4,DrySubhumid,X,,,X,x
+1226,1996,R094/T13,D.Nicolle,"Lithgow, NSW",Alive,Eucalyptus pulverulenta,CCA1665,OK,,Eucalyptus pulverulenta,Maidenaria,Lignotuber,0.6078,13.05000019,880,2.25,0.5,4,2,0,4,DrySubhumid,X,,,X,x
+1309,1996,R094/T18,D.Nicolle,"Walkamin, Qld",Alive,Eucalyptus insulana,CCA1670,OK,,Eucalyptus insulana,Exsertaria,Combination,0.8819,20.97083282,1564,0.666666667,0.577350269,4,0.333333333,0.577350269,4,Humid,,x,,,x
+1309,1996,R094/T20,D.Nicolle,"Walkamin, Qld",Alive,Eucalyptus insulana,CCA1671,OK,,Eucalyptus insulana,Exsertaria,Combination,0.8819,20.97083282,1564,0.666666667,0.577350269,4,0.333333333,0.577350269,4,Humid,,x,,,x
+2569,1999,R174/T17,,,,Eucalyptus cladocalyx subsp. petila,CCA3494,OK,,Eucalyptus cladocalyx subsp. petila,Sejunctae,Stem,0.2284,15.44999981,476,0,0,4,0,0,4,Semiarid,,,,,
+2569,1999,R174/T18,,,,Eucalyptus cladocalyx subsp. petila,CCA3495,OK,,Eucalyptus cladocalyx subsp. petila,Sejunctae,Stem,0.2284,15.44999981,476,0,0,4,0,0,4,Semiarid,,,,,
+2569,1999,R174/T19,,,,Eucalyptus cladocalyx subsp. petila,CCA3496,OK,,Eucalyptus cladocalyx subsp. petila,Sejunctae,Stem,0.2284,15.44999981,476,0,0,4,0,0,4,Semiarid,,,,,
+2569,1999,R174/T20,,,,Eucalyptus cladocalyx subsp. petila,CCA3497,OK,,Eucalyptus cladocalyx subsp. petila,Sejunctae,Stem,0.2284,15.44999981,476,0,0,4,0,0,4,Semiarid,,,,,
+1309,1996,R094/T21,D.Nicolle,"Walkamin, Qld",Alive,Eucalyptus insulana,CCA1672,OK,,Eucalyptus insulana,Exsertaria,Combination,0.8819,20.97083282,1564,0.666666667,0.577350269,4,0.333333333,0.577350269,4,Humid,,x,,,x
+1322,1996,R094/T26,D.Nicolle,"Lakeland, Qld",Alive,Eucalyptus cullenii,,,,Eucalyptus cullenii,Adnataria,Combination,0.5211,24.20000076,1045,0,,,0,,,DrySubhumid,,x,,,x
+1322,1996,R094/T27,D.Nicolle,"Lakeland, Qld",Alive,Eucalyptus cullenii,,,,Eucalyptus cullenii,Adnataria,Combination,0.5211,24.20000076,1045,0,,,0,,,DrySubhumid,,x,,,x
+1241,1996,R095/T02,D.Nicolle,"Wells Crossing, NSW",Alive,Eucalyptus bancroftii,CCA1683,OK,,Eucalyptus bancroftii,Exsertaria,Combination,0.7566,18.56666565,1243,1.5,0.707106781,4,2,0,4,Humid,,x,,,x
+1241,1996,R095/T03,D.Nicolle,"Wells Crossing, NSW",Alive,Eucalyptus bancroftii,CCA1684,OK,,Eucalyptus bancroftii,Exsertaria,Combination,0.7566,18.56666565,1243,1.5,0.707106781,4,2,0,4,Humid,,x,,,x
+1239,1996,R095/T21,D.Nicolle,"Telegraph Point, NSW",Alive,Eucalyptus propinqua,CCA1692,OK,,Eucalyptus propinqua,Exsertaria,Combination,0.8993,18.10833359,1437,2,1,5,2,1,5,Humid,,x,,,x
+1239,1996,R095/T22,D.Nicolle,"Telegraph Point, NSW",Alive,Eucalyptus propinqua,CCA1693,OK,,Eucalyptus propinqua,Exsertaria,Combination,0.8993,18.10833359,1437,2,1,5,2,1,5,Humid,,x,,,x
+1239,1996,R095/T24,D.Nicolle,"Telegraph Point, NSW",Alive,Eucalyptus propinqua,CCA1694,OK,,Eucalyptus propinqua,Exsertaria,Combination,0.8993,18.10833359,1437,2,1,5,2,1,5,Humid,,x,,,x
+1676,1997,R133/T05,,"Melrose, SA",,Eucalyptus albens,,,,Eucalyptus albens,Adnataria,Combination,0.2313,15.82083321,487,0,,,0,,,Semiarid,,x,,,x
+1676,1997,R133/T06,,"Melrose, SA",,Eucalyptus albens,,,,Eucalyptus albens,Adnataria,Combination,0.2313,15.82083321,487,0,,,0,,,Semiarid,,x,x,,x
+1676,1997,R133/T07,,"Melrose, SA",,Eucalyptus albens,,,,Eucalyptus albens,Adnataria,Combination,0.2313,15.82083321,487,0,,,0,,,Semiarid,,x,,,x
+1716,1997,R137/T19,D.Nicolle,"Salt Creek, SA",Alive,Eucalyptus fasciculosa,,,,Eucalyptus fasciculosa,Adnataria,Combination,0.3233,15.42500019,523,1,,,0.75,,,Semiarid,,x,,,x
+1716,1997,R137/T21,D.Nicolle,"Salt Creek, SA",Alive,Eucalyptus fasciculosa,,,,Eucalyptus fasciculosa,Adnataria,Combination,0.3233,15.42500019,523,1,,,0.75,,,Semiarid,,x,,,x
+1716,1997,R137/T22,D.Nicolle,"Salt Creek, SA",Alive,Eucalyptus fasciculosa,,,,Eucalyptus fasciculosa,Adnataria,Combination,0.3233,15.42500019,523,1,,,0.75,,,Semiarid,,x,,,x
+1919,1997,R138/T05,D.Nicolle,"Mt Elizabeth Station, WA",Alive,Eucalyptus oligantha subsp. modica,,,,Eucalyptus oligantha,Adnataria,Combination,0.3573,24.83749962,908,0,,,0,,,Semiarid,,x,,,x
+1919,1997,R138/T06,D.Nicolle,"Mt Elizabeth Station, WA",Alive,Eucalyptus oligantha subsp. modica,,,,Eucalyptus oligantha,Adnataria,Combination,0.3573,24.83749962,908,0,,,0,,,Semiarid,,x,,,x
+1727,1997,R138/T16,D.Nicolle,"Aireys Inlet, Vic",Alive,Eucalyptus tricarpa,,,,Eucalyptus tricarpa,Adnataria,Combination,0.4994,14.09583282,668,0.666666667,,,1.333333333,,,Semiarid,,x,,,x
+1727,1997,R138/T17,D.Nicolle,"Aireys Inlet, Vic",Alive,Eucalyptus tricarpa,,,,Eucalyptus tricarpa,Adnataria,Combination,0.4994,14.09583282,668,0.666666667,,,1.333333333,,,Semiarid,,x,,,x
+1727,1997,R138/T18,D.Nicolle,"Aireys Inlet, Vic",Alive,Eucalyptus tricarpa,,,,Eucalyptus tricarpa,Adnataria,Combination,0.4994,14.09583282,668,0.666666667,,,1.333333333,,,Semiarid,,x,,,x
+1916,1997,R138/T24,D.Nicolle,"Mt Barnett, WA",Alive,Eucalyptus jensenii,,,,Eucalyptus jensenii,Adnataria,Combination,0.3209,25.74166679,838,1.5,,,0,,,Semiarid,,x,,,x
+1916,1997,R138/T27,D.Nicolle,"Mt Barnett, WA",Alive,Eucalyptus jensenii,,,,Eucalyptus jensenii,Adnataria,Combination,0.3209,25.74166679,838,1.5,,,0,,,Semiarid,,x,,,x
+1751,1997,R141/T17,D.Nicolle,"Bega, NSW",Alive,Eucalyptus spectatrix,CCA3031,OK,,Eucalyptus spectatrix,Eucalyptus,Lignotuber,0.6982,14.60416698,917,1.5,1.732050808,4,1,0,4,DrySubhumid,X,,,,x
+1751,1997,R141/T18,D.Nicolle,"Bega, NSW",Alive,Eucalyptus spectatrix,CCA3032,OK,,Eucalyptus spectatrix,Eucalyptus,Lignotuber,0.6982,14.60416698,917,1.5,1.732050808,4,1,0,4,DrySubhumid,X,,,,x
+1751,1997,R141/T19,D.Nicolle,"Bega, NSW",Alive,Eucalyptus spectatrix,CCA3033,Dead,,Eucalyptus spectatrix,Eucalyptus,Lignotuber,0.6982,14.60416698,917,1.5,1.732050808,4,1,0,4,DrySubhumid,X,,,,x
+1751,1997,R141/T20,D.Nicolle,"Bega, NSW",Alive,Eucalyptus spectatrix,CCA3034,OK,,Eucalyptus spectatrix,Eucalyptus,Lignotuber,0.6982,14.60416698,917,1.5,1.732050808,4,1,0,4,DrySubhumid,X,,,,x
+1733,1997,R141/T29,D.Nicolle,"Metung, Vic",Alive,Eucalyptus bosistoana,CCA3041,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.4895,14.57083321,709,0,0,4,1,0.816496581,4,Semiarid,X,x,x,,x
+1733,1997,R141/T30,D.Nicolle,"Metung, Vic",Alive,Eucalyptus bosistoana,CCA3042,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.4895,14.57083321,709,0,0,4,1,0.816496581,4,Semiarid,X,x,,,x
+1733,1997,R141/T31,D.Nicolle,"Metung, Vic",Alive,Eucalyptus bosistoana,CCA3043,OK,Small,Eucalyptus bosistoana,Adnataria,Combination,0.4895,14.57083321,709,0,0,4,1,0.816496581,4,Semiarid,X,x,,,x
+1733,1997,R141/T32,D.Nicolle,"Metung, Vic",Alive,Eucalyptus bosistoana,CCA3044,OK,Small,Eucalyptus bosistoana,Adnataria,Combination,0.4895,14.57083321,709,0,0,4,1,0.816496581,4,Semiarid,X,x,,,x
+1765,1997,R141/T33,D.Nicolle,"Araluen 2, NSW",Alive,Eucalyptus kartzoffiana,CCA3045,OK,,Eucalyptus kartzoffiana,Maidenaria,Combination,0.5416,14.46249962,775,1.666666667,1.154700538,4,1.666666667,1.154700538,4,DrySubhumid,X,,,X,x
+1765,1997,R141/T34,D.Nicolle,"Araluen 2, NSW",Alive,Eucalyptus kartzoffiana,CCA3046,OK,,Eucalyptus kartzoffiana,Maidenaria,Combination,0.5416,14.46249962,775,1.666666667,1.154700538,4,1.666666667,1.154700538,4,DrySubhumid,X,,,X,x
+1765,1997,R141/T35,D.Nicolle,"Araluen 2, NSW",Alive,Eucalyptus kartzoffiana,CCA3047,OK,,Eucalyptus kartzoffiana,Maidenaria,Combination,0.5416,14.46249962,775,1.666666667,1.154700538,4,1.666666667,1.154700538,4,DrySubhumid,X,,,X,x
+1738,1997,R142/T10,D.Nicolle,"Orbost, Vic",Alive,Eucalyptus polyanthemos subsp. vestita,CCA3053,OK,,Eucalyptus polyanthemos subsp. vestita (subsp. longior),Adnataria,Combination,0.6081,14.67083359,870,0.333333333,0.577350269,4,0.333333333,0.577350269,4,DrySubhumid,X,x,,,x
+1738,1997,R142/T11,D.Nicolle,"Orbost, Vic",Alive,Eucalyptus polyanthemos subsp. vestita,CCA3054,OK,,Eucalyptus polyanthemos subsp. vestita (subsp. longior),Adnataria,Combination,0.6081,14.67083359,870,0.333333333,0.577350269,4,0.333333333,0.577350269,4,DrySubhumid,X,x,,,x
+1738,1997,R142/T12,D.Nicolle,"Orbost, Vic",Alive,Eucalyptus polyanthemos subsp. vestita,CCA3055,OK,,Eucalyptus polyanthemos subsp. vestita (subsp. longior),Adnataria,Combination,0.6081,14.67083359,870,0.333333333,0.577350269,4,0.333333333,0.577350269,4,DrySubhumid,X,x,,,x
+1734,1997,R142/T31,D.Nicolle,"Metung, Vic",Alive,Eucalyptus baueriana,CCA3064,OK,,Eucalyptus baueriana,Adnataria,Combination,0.4895,14.57083321,709,2,1,4,1.666666667,0.577350269,4,Semiarid,X,x,,,x
+1734,1997,R142/T32,D.Nicolle,"Metung, Vic",Alive,Eucalyptus baueriana,CCA3065,OK,,Eucalyptus baueriana,Adnataria,Combination,0.4895,14.57083321,709,2,1,4,1.666666667,0.577350269,4,Semiarid,X,x,,,x
+1734,1997,R142/T33,D.Nicolle,"Metung, Vic",Alive,Eucalyptus baueriana,CCA3066,OK,,Eucalyptus baueriana,Adnataria,Combination,0.4895,14.57083321,709,2,1,4,1.666666667,0.577350269,4,Semiarid,X,x,,,x
+1763,1997,R143/T13,D.Nicolle,"Thirlmere, NSW",Alive,Eucalyptus parramattensis subsp. parramattensis,,,,Eucalyptus parramattensis subsp. parramattensis,Exsertaria,Combination,0.6255,15.23750019,927,0,,,0.5,,,DrySubhumid,,x,,,x
+1763,1997,R143/T15,D.Nicolle,"Thirlmere, NSW",Alive,Eucalyptus parramattensis subsp. parramattensis,,,,Eucalyptus parramattensis subsp. parramattensis,Exsertaria,Combination,0.6255,15.23750019,927,0,,,0.5,,,DrySubhumid,,x,,,x
+1763,1997,R143/T16,D.Nicolle,"Thirlmere, NSW",Alive,Eucalyptus parramattensis subsp. parramattensis,,,,Eucalyptus parramattensis subsp. parramattensis,Exsertaria,Combination,0.6255,15.23750019,927,0,,,0.5,,,DrySubhumid,,x,,,x
+1761,1997,R143/T25,D.Nicolle,"Bargo, NSW",Alive,Eucalyptus beyeriana,CCA3084,OK,,Eucalyptus beyeriana,Adnataria,Combination,0.6855,14.8708334,994,0.75,0.5,4,0,0,4,DrySubhumid,X,x,,,x
+1761,1997,R143/T26,D.Nicolle,"Bargo, NSW",Alive,Eucalyptus beyeriana,CCA3085,OK,,Eucalyptus beyeriana,Adnataria,Combination,0.6855,14.8708334,994,0.75,0.5,4,0,0,4,DrySubhumid,X,x,,,x
+1761,1997,R143/T27,D.Nicolle,"Bargo, NSW",Alive,Eucalyptus beyeriana,CCA3086,OK,,Eucalyptus beyeriana,Adnataria,Combination,0.6855,14.8708334,994,0.75,0.5,4,0,0,4,DrySubhumid,X,x,,,x
+1761,1997,R143/T28,D.Nicolle,"Bargo, NSW",Alive,Eucalyptus beyeriana,CCA3087,OK,,Eucalyptus beyeriana,Adnataria,Combination,0.6855,14.8708334,994,0.75,0.5,4,0,0,4,DrySubhumid,X,x,,,x
+2917,2000,R195/T19,D.Nicolle,"Putty, NSW",Alive,Eucalyptus prominula,CCA3923,OK,,Eucalyptus prominula,Eucalyptus,Combination,0.5473,16.54583359,852,0,0,4,0,0,4,DrySubhumid,,,,,
+2917,2000,R195/T20,D.Nicolle,"Putty, NSW",Alive,Eucalyptus prominula,CCA3924,OK,,Eucalyptus prominula,Eucalyptus,Combination,0.5473,16.54583359,852,0,0,4,0,0,4,DrySubhumid,,,,,
+1736,1997,R144/T28,D.Nicolle,"Metung, Vic",Alive,Eucalyptus tereticornis subsp. mediana,CCA3108,OK,,Eucalyptus tereticornis subsp. mediana,Exsertaria,Combination,0.4827,14.85416698,706,0,0,4,0,0,4,Semiarid,,x,,,x
+1736,1997,R144/T29,D.Nicolle,"Metung, Vic",Alive,Eucalyptus tereticornis subsp. mediana,CCA3109,OK,,Eucalyptus tereticornis subsp. mediana,Exsertaria,Combination,0.4827,14.85416698,706,0,0,4,0,0,4,Semiarid,,x,,,x
+1736,1997,R144/T30,D.Nicolle,"Metung, Vic",Alive,Eucalyptus tereticornis subsp. mediana,CCA3110,OK,,Eucalyptus tereticornis subsp. mediana,Exsertaria,Combination,0.4827,14.85416698,706,0,0,4,0,0,4,Semiarid,,x,,,x
+1736,1997,R144/T31,D.Nicolle,"Metung, Vic",Alive,Eucalyptus tereticornis subsp. mediana,CCA3111,OK,,Eucalyptus tereticornis subsp. mediana,Exsertaria,Combination,0.4827,14.85416698,706,0,0,4,0,0,4,Semiarid,,x,,,x
+1798,1997,R145/T01,D.Nicolle,"Kingston SE, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3116,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.3901,15.1875,604,0,0,4,0,0,4,Semiarid,X,x,,X,x
+1798,1997,R145/T02,D.Nicolle,"Kingston SE, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3117,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.3901,15.1875,604,0,0,4,0,0,4,Semiarid,X,x,,X,x
+1798,1997,R145/T03,D.Nicolle,"Kingston SE, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3118,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.3901,15.1875,604,0,0,4,0,0,4,Semiarid,X,x,,X,x
+1798,1997,R145/T04,D.Nicolle,"Kingston SE, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3119,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.3901,15.1875,604,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2119,1998,R083/T20,D.Nicolle,"Charleville, Qld",Alive,Eucalyptus ochrophloia,CCA1418,OK,,Eucalyptus ochrophloia,Adnataria,Combination,0.186,21.15416718,446,0,0,4,0,0,4,Arid,X,x,,,x
+2119,1998,R083/T21,D.Nicolle,"Charleville, Qld",Alive,Eucalyptus ochrophloia,CCA1419,OK,,Eucalyptus ochrophloia,Adnataria,Combination,0.186,21.15416718,446,0,0,4,0,0,4,Arid,X,x,,,x
+2119,1998,R083/T22,D.Nicolle,"Charleville, Qld",Alive,Eucalyptus ochrophloia,CCA1420,OK,,Eucalyptus ochrophloia,Adnataria,Combination,0.186,21.15416718,446,0,0,4,0,0,4,Arid,X,x,,,x
+2083,1998,R084/T16,D.Nicolle,"Gungal, NSW",Alive,Eucalyptusÿviridis,,,,Eucalyptus aenea,Adnataria,Lignotuber,0.4056,16.45416641,680,0,,,0,,,Semiarid,,x,,,x
+2083,1998,R084/T17,D.Nicolle,"Gungal, NSW",Alive,Eucalyptusÿviridis,,,,Eucalyptus aenea,Adnataria,Lignotuber,0.4056,16.45416641,680,0,,,0,,,Semiarid,,x,,,x
+2083,1998,R084/T18,D.Nicolle,"Gungal, NSW",Alive,Eucalyptusÿviridis,,,,Eucalyptus aenea,Adnataria,Lignotuber,0.4056,16.45416641,680,0,,,0,,,Semiarid,,x,,,x
+2104,1998,R150/T01,D.Nicolle,"Karara, Qld",Alive,Eucalyptus rhombica,,,,Eucalyptus rhombica,Adnataria,Combination,0.3714,17.64999962,679,0,,,0,,,Semiarid,,x,,,x
+2104,1998,R150/T03,D.Nicolle,"Karara, Qld",Alive,Eucalyptus rhombica,,,,Eucalyptus rhombica,Adnataria,Combination,0.3714,17.64999962,679,0,,,0,,,Semiarid,,x,,,x
+2104,1998,R150/T04,D.Nicolle,"Karara, Qld",Alive,Eucalyptus rhombica,,,,Eucalyptus rhombica,Adnataria,Combination,0.3714,17.64999962,679,0,,,0,,,Semiarid,,x,,,x
+1930,1998,R150/T07,D.Nicolle,"Ellenbrae Station, WA",Alive,Eucalyptus obconica,,,,Eucalyptus obconica,Adnataria,Combination,0.3351,26.375,864,0,,,0,,,Semiarid,,x,,,x
+1930,1998,R150/T08,D.Nicolle,"Ellenbrae Station, WA",Alive,Eucalyptus obconica,,,,Eucalyptus obconica,Adnataria,Combination,0.3351,26.375,864,0,,,0,,,Semiarid,,x,,,x
+2946,2000,R190/T05,,,,Eucalyptus cypellocarpa ,CCA3837,OK,,Eucalyptus cypellocarpa (E. quinniorum),Maidenaria,Combination,0.4851,14.34583378,792,1.75,0.5,4,2.5,0.577350269,4,Semiarid,X,,,,
+2946,2000,R190/T06,,,,Eucalyptus cypellocarpa ,,OK,,Eucalyptus cypellocarpa (E. quinniorum),Maidenaria,Combination,0.4851,14.34583378,792,1.75,0.5,4,2.5,0.577350269,4,Semiarid,X,,,,
+2946,2000,R190/T07,,,,Eucalyptus cypellocarpa ,,OK,,Eucalyptus cypellocarpa (E. quinniorum),Maidenaria,Combination,0.4851,14.34583378,792,1.75,0.5,4,2.5,0.577350269,4,Semiarid,X,,,,
+2946,2000,R190/T08,,,,Eucalyptus cypellocarpa ,,OK,,Eucalyptus cypellocarpa (E. quinniorum),Maidenaria,Combination,0.4851,14.34583378,792,1.75,0.5,4,2.5,0.577350269,4,Semiarid,X,,,,
+2952,2000,R190/T30,D.Nicolle,"Hill End, NSW",Alive,Eucalyptus goniocalyx subsp. goniocalyx,CCA3853,OK,,Eucalyptus goniocalyx subsp. goniocalyx,Maidenaria,Combination,0.4826,14.34583378,776,0.75,0.5,4,0.75,0.957427108,4,Semiarid,X,,,,
+2952,2000,R190/T33,D.Nicolle,"Hill End, NSW",Alive,Eucalyptus goniocalyx subsp. goniocalyx,CCA3856,OK,,Eucalyptus goniocalyx subsp. goniocalyx,Maidenaria,Combination,0.4826,14.34583378,776,0.75,0.5,4,0.75,0.957427108,4,Semiarid,X,,,,
+2952,2000,R190/T30,,,,Eucalyptus goniocalyx,CCA3853,OK,,Eucalyptus goniocalyx subsp. goniocalyx,Maidenaria,Combination,0.4826,14.34583378,776,0.75,0.5,4,0.75,0.957427108,4,Semiarid,X,,,,
+2952,2000,R190/T31,D.Nicolle,"Hill End, NSW",Alive,Eucalyptus goniocalyx subsp. goniocalyx,CCA3854,OK,,Eucalyptus goniocalyx subsp. goniocalyx,Maidenaria,Combination,0.4826,14.34583378,776,0.75,0.5,4,0.75,0.957427108,4,Semiarid,X,,,,
+2952,2000,R190/T32,D.Nicolle,"Hill End, NSW",Alive,Eucalyptus goniocalyx subsp. goniocalyx,CCA3855,OK,,Eucalyptus goniocalyx subsp. goniocalyx,Maidenaria,Combination,0.4826,14.34583378,776,0.75,0.5,4,0.75,0.957427108,4,Semiarid,X,,,,
+2116,1998,R150/T09,D.Nicolle,"Maranoa River, Qld",Alive,Eucalyptus virens,,,,Eucalyptus virens,Adnataria,Combination,0.3058,18.39583397,612,0,,,0,,,Semiarid,,x,,,x
+2116,1998,R150/T10,D.Nicolle,"Maranoa River, Qld",Alive,Eucalyptus virens,,,,Eucalyptus virens,Adnataria,Combination,0.3058,18.39583397,612,0,,,0,,,Semiarid,,x,,,x
+2116,1998,R150/T11,D.Nicolle,"Maranoa River, Qld",Alive,Eucalyptus virens,,,,Eucalyptus virens,Adnataria,Combination,0.3058,18.39583397,612,0,,,0,,,Semiarid,,x,,,x
+2098,1998,R151/T05,,"Banyabba Nature Res, NSW",,Eucalyptus pachycalyx subsp. banyabba,,,,Eucalyptus pachycalyx subsp. banyabba,Bisectae,Combination,0.6617,18.95833397,1100,0,,,2,,,Humid,X,,,X,x
+2098,1998,R151/T06,,"Banyabba Nature Res, NSW",,Eucalyptus pachycalyx subsp. banyabba,,,,Eucalyptus pachycalyx subsp. banyabba,Bisectae,Combination,0.6617,18.95833397,1100,0,,,2,,,Humid,X,,,X,x
+2098,1998,R151/T07,,"Banyabba Nature Res, NSW",,Eucalyptus pachycalyx subsp. banyabba,,,,Eucalyptus pachycalyx subsp. banyabba,Bisectae,Combination,0.6617,18.95833397,1100,0,,,2,,,Humid,X,,,X,x
+2098,1998,R151/T08,,"Banyabba Nature Res, NSW",,Eucalyptus pachycalyx subsp. banyabba,,,,Eucalyptus pachycalyx subsp. banyabba,Bisectae,Combination,0.6617,18.95833397,1100,0,,,2,,,Humid,X,,,X,x
+2107,1998,R151/T09,D.Nicolle,"Helidon Hills, Qld",Alive,Eucalyptus major,CCA3176,OK,,Eucalyptus major,Exsertaria,Combination,0.4423,18.52499962,798,1,0,4,1,0,4,Semiarid,,x,,,x
+2107,1998,R151/T10,D.Nicolle,"Helidon Hills, Qld",Alive,Eucalyptus major,CCA3177,OK,,Eucalyptus major,Exsertaria,Combination,0.4423,18.52499962,798,1,0,4,1,0,4,Semiarid,,x,,,x
+2106,1998,R151/T18,D.Nicolle,"Helidon Hills, Qld",Alive,Eucalyptus taurina,,,,Eucalyptus taurina,Adnataria,Combination,0.4324,18.78333282,790,1.333333333,,,1,,,Semiarid,,x,,,x
+2106,1998,R151/T19,D.Nicolle,"Helidon Hills, Qld",Alive,Eucalyptus taurina,,,,Eucalyptus taurina,Adnataria,Combination,0.4324,18.78333282,790,1.333333333,,,1,,,Semiarid,,x,,,x
+2106,1998,R151/T20,D.Nicolle,"Helidon Hills, Qld",Alive,Eucalyptus taurina,,,,Eucalyptus taurina,Adnataria,Combination,0.4324,18.78333282,790,1.333333333,,,1,,,Semiarid,,x,,,x
+2111,1998,R151/T21,D.Nicolle,"Yarraman, Qld",Alive,Eucalyptus melanoleuca,CCA3183,OK,,Eucalyptus melanoleuca,Adnataria,Combination,0.4731,17.71666718,830,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2111,1998,R151/T22,D.Nicolle,"Yarraman, Qld",Alive,Eucalyptus melanoleuca,CCA3184,OK,,Eucalyptus melanoleuca,Adnataria,Combination,0.4731,17.71666718,830,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2111,1998,R151/T23,D.Nicolle,"Yarraman, Qld",Alive,Eucalyptus melanoleuca,CCA3185,OK,,Eucalyptus melanoleuca,Adnataria,Combination,0.4731,17.71666718,830,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2111,1998,R151/T24,D.Nicolle,"Yarraman, Qld",Alive,Eucalyptus melanoleuca,CCA3186,OK,,Eucalyptus melanoleuca,Adnataria,Combination,0.4731,17.71666718,830,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2099,1998,R151/T29,D.Nicolle,"Baryulgil, NSW",Alive,Eucalyptus ophitica,,,,Eucalyptus ophitica,Adnataria,Combination,0.6461,18.48749924,1096,0.75,,,0.75,,,DrySubhumid,,x,,,x
+2099,1998,R151/T30,D.Nicolle,"Baryulgil, NSW",Alive,Eucalyptus ophitica,,,,Eucalyptus ophitica,Adnataria,Combination,0.6461,18.48749924,1096,0.75,,,0.75,,,DrySubhumid,,x,,,x
+2099,1998,R151/T31,D.Nicolle,"Baryulgil, NSW",Alive,Eucalyptus ophitica,,,,Eucalyptus ophitica,Adnataria,Combination,0.6461,18.48749924,1096,0.75,,,0.75,,,DrySubhumid,,x,,,x
+2081,1998,R152/T09,D.Nicolle,"Broken Back Range, NSW",Alive,Eucalyptus fracta,CCA3198,OK,Small,Eucalyptus fracta,Adnataria,Combination,0.6548,15.97500038,1002,0.25,0.5,4,0,0,4,DrySubhumid,X,x,,X,x
+2081,1998,R152/T10,D.Nicolle,"Broken Back Range, NSW",Alive,Eucalyptus fracta,CCA3199,OK,,Eucalyptus fracta,Adnataria,Combination,0.6548,15.97500038,1002,0.25,0.5,4,0,0,4,DrySubhumid,X,x,,X,x
+2081,1998,R152/T11,D.Nicolle,"Broken Back Range, NSW",Alive,Eucalyptus fracta,CCA3200,OK,,Eucalyptus fracta,Adnataria,Combination,0.6548,15.97500038,1002,0.25,0.5,4,0,0,4,DrySubhumid,X,x,,X,x
+2081,1998,R152/T12,D.Nicolle,"Broken Back Range, NSW",Alive,Eucalyptus fracta,CCA3201,OK,,Eucalyptus fracta,Adnataria,Combination,0.6548,15.97500038,1002,0.25,0.5,4,0,0,4,DrySubhumid,X,x,,X,x
+1991,1998,R152/T17,,"Cape Nelson, Vic",,Eucalyptus diversifolia subsp. diversifolia,,,,Eucalyptus diversifolia subsp. diversifolia,Frutices' ms,Lignotuber,0.6592,13.50833321,830,0,,,0.333333333,,,Humid,X,,,,x
+1991,1998,R152/T19,,"Cape Nelson, Vic",,Eucalyptus diversifolia subsp. diversifolia,,,,Eucalyptus diversifolia subsp. diversifolia,Frutices' ms,Lignotuber,0.6592,13.50833321,830,0,,,0.333333333,,,Humid,X,,,,x
+1991,1998,R152/T20,,"Cape Nelson, Vic",,Eucalyptus diversifolia subsp. diversifolia,,,,Eucalyptus diversifolia subsp. diversifolia,Frutices' ms,Lignotuber,0.6592,13.50833321,830,0,,,0.333333333,,,Humid,X,,,,x
+2080,1998,R153/T01,D.Nicolle,"Paxton, NSW",Alive,Eucalyptus hypostomatica,CCA3208,OK,,Eucalyptus rudderi (E. hypostomatica),Adnataria,Combination,0.7237,15.8708334,1080,1.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,X,x,,,x
+2080,1998,R153/T02,D.Nicolle,"Paxton, NSW",Alive,Eucalyptus hypostomatica,CCA3209,OK,,Eucalyptus rudderi (E. hypostomatica),Adnataria,Combination,0.7237,15.8708334,1080,1.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,X,x,,,x
+2080,1998,R153/T03,D.Nicolle,"Paxton, NSW",Alive,Eucalyptus hypostomatica,CCA3210,OK,,Eucalyptus rudderi (E. hypostomatica),Adnataria,Combination,0.7237,15.8708334,1080,1.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,X,x,,,x
+2080,1998,R153/T04,D.Nicolle,"Paxton, NSW",Alive,Eucalyptus hypostomatica,CCA3211,OK,,Eucalyptus rudderi (E. hypostomatica),Adnataria,Combination,0.7237,15.8708334,1080,1.5,0.577350269,4,1.5,0.577350269,4,DrySubhumid,X,x,,,x
+2086,1998,R155/T10,D.Nicolle,"Craven, NSW",Alive,Eucalyptus largeana,CCA3228,OK,,Eucalyptus largeana,Adnataria,Combination,0.7673,16.58749962,1187,1.333333333,0.577350269,4,1.333333333,0.577350269,4,Humid,X,x,,X,x
+2086,1998,R155/T11,D.Nicolle,"Craven, NSW",Alive,Eucalyptus largeana,CCA3229,OK,,Eucalyptus largeana,Adnataria,Combination,0.7673,16.58749962,1187,1.333333333,0.577350269,4,1.333333333,0.577350269,4,Humid,X,x,,X,x
+2086,1998,R155/T12,D.Nicolle,"Craven, NSW",Alive,Eucalyptus largeana,CCA3230,OK,,Eucalyptus largeana,Adnataria,Combination,0.7673,16.58749962,1187,1.333333333,0.577350269,4,1.333333333,0.577350269,4,Humid,X,x,,X,x
+1298,1998,R156/T14,D.Nicolle,"Mt Stuart 1, Qld",Alive,Eucalyptus paedoglauca,,,,Eucalyptus paedoglauca,Adnataria,Combination,0.5834,23.22083282,1187,0.5,,,0.5,,,DrySubhumid,,x,,,x
+1298,1998,R156/T15,D.Nicolle,"Mt Stuart 1, Qld",Alive,Eucalyptus paedoglauca,,,,Eucalyptus paedoglauca,Adnataria,Combination,0.5834,23.22083282,1187,0.5,,,0.5,,,DrySubhumid,,x,,,x
+1298,1998,R156/T16,D.Nicolle,"Mt Stuart 1, Qld",Alive,Eucalyptus paedoglauca,,,,Eucalyptus paedoglauca,Adnataria,Combination,0.5834,23.22083282,1187,0.5,,,0.5,,,DrySubhumid,,x,,,x
+2085,1998,R156/T21,D.Nicolle,"Paterson, NSW",Alive,Eucalyptus glaucina,CCA3239,OK,,Eucalyptus glaucina,Exsertaria,Combination,0.5698,18.12083244,937,0.75,0.5,4,0.5,0.577350269,4,DrySubhumid,X,x,,X,x
+2085,1998,R156/T22,D.Nicolle,"Paterson, NSW",Alive,Eucalyptus glaucina,CCA3240,OK,,Eucalyptus glaucina,Exsertaria,Combination,0.5698,18.12083244,937,0.75,0.5,4,0.5,0.577350269,4,DrySubhumid,X,x,,X,x
+2085,1998,R156/T23,D.Nicolle,"Paterson, NSW",Alive,Eucalyptus glaucina,CCA3241,OK,,Eucalyptus glaucina,Exsertaria,Combination,0.5698,18.12083244,937,0.75,0.5,4,0.5,0.577350269,4,DrySubhumid,X,x,,X,x
+2085,1998,R156/T24,D.Nicolle,"Paterson, NSW",Alive,Eucalyptus glaucina,CCA3242,OK,,Eucalyptus glaucina,Exsertaria,Combination,0.5698,18.12083244,937,0.75,0.5,4,0.5,0.577350269,4,DrySubhumid,X,x,,X,x
+2089,1998,R158/T29,D.Nicolle,"Lake Cathie, NSW",Alive,Eucalyptus seeana,CCA3254,OK,,Eucalyptus seeana,Exsertaria,Combination,0.8855,18.13750076,1416,1.333333333,0.577350269,4,0.666666667,1.154700538,4,Humid,,x,,,x
+2089,1998,R158/T30,D.Nicolle,"Lake Cathie, NSW",Alive,Eucalyptus seeana,CCA3255,OK,,Eucalyptus seeana,Exsertaria,Combination,0.8855,18.13750076,1416,1.333333333,0.577350269,4,0.666666667,1.154700538,4,Humid,,x,,,x
+2089,1998,R158/T31,D.Nicolle,"Lake Cathie, NSW",Alive,Eucalyptus seeana,CCA3256,OK,,Eucalyptus seeana,Exsertaria,Combination,0.8855,18.13750076,1416,1.333333333,0.577350269,4,0.666666667,1.154700538,4,Humid,,x,,,x
+2108,1998,R159/T09,,"Beerwah, Qld",,Eucalyptus curtisii,,,,Eucalyptus curtisii,Limbatae,Lignotuber,0.9055,20.15416718,1573,1,,,1,,,Humid,X,,,,x
+2108,1998,R159/T12,,"Beerwah, Qld",,Eucalyptus curtisii,,,,Eucalyptus curtisii,Limbatae,Lignotuber,0.9055,20.15416718,1573,1,,,1,,,Humid,X,,,,x
+2514,1999,R165/T01,D.Nicolle,"Coen, Qld",Alive,Eucalyptus crebra,,,,Eucalyptus drepanophylla,Adnataria,Combination,0.5734,25.15833282,1231,0,,,0,,,DrySubhumid,,x,,,x
+2514,1999,R165/T02,D.Nicolle,"Coen, Qld",Alive,Eucalyptus crebra,,,,Eucalyptus drepanophylla,Adnataria,Combination,0.5734,25.15833282,1231,0,,,0,,,DrySubhumid,,x,,,x
+2514,1999,R165/T03,D.Nicolle,"Coen, Qld",Alive,Eucalyptus crebra,,,,Eucalyptus drepanophylla,Adnataria,Combination,0.5734,25.15833282,1231,0,,,0,,,DrySubhumid,,x,,,x
+2521,1999,R165/T08,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus tardecidens,CCA3315,OK,,Eucalyptus tardecidens,Adnataria,Combination,0.4435,24.18333435,918,0,0,4,1,0,4,Semiarid,X,x,,,x
+2521,1999,R165/T09,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus tardecidens,CCA3316,OK,Small,Eucalyptus tardecidens,Adnataria,Combination,0.4435,24.18333435,918,0,0,4,1,0,4,Semiarid,X,x,,,x
+2521,1999,R165/T10,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus tardecidens,CCA3317,OK,,Eucalyptus tardecidens,Adnataria,Combination,0.4435,24.18333435,918,0,0,4,1,0,4,Semiarid,X,x,,,x
+2521,1999,R165/T11,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus tardecidens,CCA3318,OK,,Eucalyptus tardecidens,Adnataria,Combination,0.4435,24.18333435,918,0,0,4,1,0,4,Semiarid,X,x,,,x
+2512,1999,R165/T28,D.Nicolle,"Coen, Qld",Alive,Eucalyptus brassiana,,,,Eucalyptus brassiana,Exsertaria,Combination,0.5573,25.07500076,1193,2,,,2.5,,,DrySubhumid,,x,,,x
+2512,1999,R165/T29,D.Nicolle,"Coen, Qld",Alive,Eucalyptus brassiana,,,,Eucalyptus brassiana,Exsertaria,Combination,0.5573,25.07500076,1193,2,,,2.5,,,DrySubhumid,,x,,,x
+2512,1999,R165/T30,D.Nicolle,"Coen, Qld",Alive,Eucalyptus brassiana,,,,Eucalyptus brassiana,Exsertaria,Combination,0.5573,25.07500076,1193,2,,,2.5,,,DrySubhumid,,x,,,x
+2520,1999,R165/T31,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus staigeriana,CCA3328,Only genomics,,Eucalyptus staigeriana,Adnataria,Combination,0.4802,23.82916641,982,0,0,4,0,0,4,Semiarid,X,x,,,x
+2520,1999,R165/T32,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus staigeriana,CCA3329,OK,,Eucalyptus staigeriana,Adnataria,Combination,0.4802,23.82916641,982,0,0,4,0,0,4,Semiarid,X,x,,,x
+2520,1999,R165/T33,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus staigeriana,CCA3330,OK,,Eucalyptus staigeriana,Adnataria,Combination,0.4802,23.82916641,982,0,0,4,0,0,4,Semiarid,X,x,,,x
+2520,1999,R165/T34,D.Nicolle,"Maitland Downs, Qld",Alive,Eucalyptus staigeriana,CCA3331,Only genomics,,Eucalyptus staigeriana,Adnataria,Combination,0.4802,23.82916641,982,0,0,4,0,0,4,Semiarid,X,x,,,x
+2506,1999,R166/T01,D.Nicolle,"Mt Garnet, Qld",Alive,Eucalyptus sp. Mt Garnet,CCA3332,OK,,Eucalyptus moluccana (northern variant),Adnataria,Combination,0.4462,21.47500038,879,0.75,0.957427108,4,1,0.816496581,4,Semiarid,X,x,,,x
+2506,1999,R166/T02,D.Nicolle,"Mt Garnet, Qld",Alive,Eucalyptus sp. Mt Garnet,CCA3333,OK,,Eucalyptus moluccana (northern variant),Adnataria,Combination,0.4462,21.47500038,879,0.75,0.957427108,4,1,0.816496581,4,Semiarid,X,x,,,x
+2506,1999,R166/T03,D.Nicolle,"Mt Garnet, Qld",Alive,Eucalyptus sp. Mt Garnet,CCA3334,OK,,Eucalyptus moluccana (northern variant),Adnataria,Combination,0.4462,21.47500038,879,0.75,0.957427108,4,1,0.816496581,4,Semiarid,X,x,,,x
+2506,1999,R166/T04,D.Nicolle,"Mt Garnet, Qld",Alive,Eucalyptus sp. Mt Garnet,CCA3335,OK,,Eucalyptus moluccana (northern variant),Adnataria,Combination,0.4462,21.47500038,879,0.75,0.957427108,4,1,0.816496581,4,Semiarid,X,x,,,x
+2508,1999,R166/T05,D.Nicolle,"Lappa Junction, Qld",Alive,Eucalyptus shirleyi,CCA3336,OK,,Eucalyptus shirleyi,Adnataria,Combination,0.4158,21.94166565,837,0,0,4,0,0,4,Semiarid,X,x,,,x
+2508,1999,R166/T06,D.Nicolle,"Lappa Junction, Qld",Alive,Eucalyptus shirleyi,CCA3337,OK,,Eucalyptus shirleyi,Adnataria,Combination,0.4158,21.94166565,837,0,0,4,0,0,4,Semiarid,X,x,,,x
+2508,1999,R166/T07,D.Nicolle,"Lappa Junction, Qld",Alive,Eucalyptus shirleyi,CCA3338,OK,,Eucalyptus shirleyi,Adnataria,Combination,0.4158,21.94166565,837,0,0,4,0,0,4,Semiarid,X,x,,,x
+2508,1999,R166/T08,D.Nicolle,"Lappa Junction, Qld",Alive,Eucalyptus shirleyi,CCA3339,OK,,Eucalyptus shirleyi,Adnataria,Combination,0.4158,21.94166565,837,0,0,4,0,0,4,Semiarid,X,x,,,x
+2545,1999,R166/T17,D.Nicolle,"Boynedale, Qld",Alive,Eucalyptus decolor,CCA3343,OK,,Eucalyptus decolor,Adnataria,Combination,0.4871,21.26666641,912,0.5,0.577350269,4,0.75,0.957427108,4,Semiarid,X,x,,,x
+2545,1999,R166/T18,D.Nicolle,"Boynedale, Qld",Alive,Eucalyptus decolor,CCA3344,OK,,Eucalyptus decolor,Adnataria,Combination,0.4871,21.26666641,912,0.5,0.577350269,4,0.75,0.957427108,4,Semiarid,X,x,,,x
+2545,1999,R166/T19,D.Nicolle,"Boynedale, Qld",Alive,Eucalyptus decolor,CCA3345,OK,,Eucalyptus decolor,Adnataria,Combination,0.4871,21.26666641,912,0.5,0.577350269,4,0.75,0.957427108,4,Semiarid,X,x,,,x
+2545,1999,R166/T20,D.Nicolle,"Boynedale, Qld",Alive,Eucalyptus decolor,CCA3346,OK,,Eucalyptus decolor,Adnataria,Combination,0.4871,21.26666641,912,0.5,0.577350269,4,0.75,0.957427108,4,Semiarid,X,x,,,x
+2241,1999,R168/T14,,"Wagin, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.2313,16.26250076,442,0,,,0,,,Semiarid,X,,,,x
+2241,1999,R168/T15,,"Wagin, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.2313,16.26250076,442,0,,,0,,,Semiarid,X,,,,x
+2241,1999,R168/T16,,"Wagin, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.2313,16.26250076,442,0,,,0,,,Semiarid,X,,,,x
+2500,1999,R169/T04,D.Nicolle,"Croydon, Qld",Alive,Eucalyptus distans,,,,Eucalyptus distans,Adnataria,Combination,0.288,26.44166756,753,0,,,0,,,Semiarid,,x,,,x
+2500,1999,R169/T06,D.Nicolle,"Croydon, Qld",Alive,Eucalyptus distans,,,,Eucalyptus distans,Adnataria,Combination,0.288,26.44166756,753,0,,,0,,,Semiarid,,x,,,x
+2533,1999,R170/T05,D.Nicolle,"Pentland, Qld",Alive,Eucalyptus quadricostata,,,,Eucalyptus quadricostata,Adnataria,Combination,0.2719,22.64999962,631,0,,,0.75,,,Semiarid,,x,,,x
+2533,1999,R170/T06,D.Nicolle,"Pentland, Qld",Alive,Eucalyptus quadricostata,,,,Eucalyptus quadricostata,Adnataria,Combination,0.2719,22.64999962,631,0,,,0.75,,,Semiarid,,x,,,x
+2533,1999,R170/T07,D.Nicolle,"Pentland, Qld",Alive,Eucalyptus quadricostata,,,,Eucalyptus quadricostata,Adnataria,Combination,0.2719,22.64999962,631,0,,,0.75,,,Semiarid,,x,,,x
+212,1999,R170/T14,,"Beaufort Inlet, WA",,Eucalyptus newbeyi,,,,Eucalyptus newbeyi,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+212,1999,R170/T15,,"Beaufort Inlet, WA",,Eucalyptus newbeyi,,,,Eucalyptus newbeyi,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+3799,2002,R244/T06,,,,Eucalyptus mannifera subsp. 'alpine Victoria',CCA4841,OK,,Eucalyptus mannifera subsp. 'alpine Victoria',Maidenaria,Combination,0.9536,10.81667,1300,0.25,0.5,4,0.75,0.957427108,4,Humid,X,,,,
+3799,2002,R244/T07,,,,Eucalyptus mannifera subsp. 'alpine Victoria',CCA4842,OK,,Eucalyptus mannifera subsp. 'alpine Victoria',Maidenaria,Combination,0.9536,10.81667,1300,0.25,0.5,4,0.75,0.957427108,4,Humid,X,,,,
+3799,2002,R244/T08,,,,Eucalyptus mannifera subsp. 'alpine Victoria',CCA4843,OK,,Eucalyptus mannifera subsp. 'alpine Victoria',Maidenaria,Combination,0.9536,10.81667,1300,0.25,0.5,4,0.75,0.957427108,4,Humid,X,,,,
+3799,2002,R244/T09,,,,Eucalyptus mannifera subsp. 'alpine Victoria',CCA4844,OK,,Eucalyptus mannifera subsp. 'alpine Victoria',Maidenaria,Combination,0.9536,10.81667,1300,0.25,0.5,4,0.75,0.957427108,4,Humid,X,,,,
+212,1999,R170/T16,,"Beaufort Inlet, WA",,Eucalyptus newbeyi,,,,Eucalyptus newbeyi,Glandulosae' ms,Seeder,0.3299,16.05833244,519,0,0,,0,0,,Semiarid,X,,,,x
+2452,1999,R171/T02,D.Nicolle,"Willeroo, NT",Alive,Eucalyptus distans,,,,Eucalyptus distans,Adnataria,Combination,0.3694,27.16250038,923,0,,,0,,,Semiarid,,x,,,x
+2447,1999,R171/T08,D.Nicolle,"Gordon Creek, NT",Alive,Eucalyptus gregoryensis,,,,Eucalyptus gregoriensis,Exsertaria,Combination,0.2456,27.48749924,681,0,,,0,,,Semiarid,,x,,,x
+2447,1999,R171/T09,D.Nicolle,"Gordon Creek, NT",Alive,Eucalyptus gregoryensis,,,,Eucalyptus gregoriensis,Exsertaria,Combination,0.2456,27.48749924,681,0,,,0,,,Semiarid,,x,,,x
+2447,1999,R171/T10,D.Nicolle,"Gordon Creek, NT",Alive,Eucalyptus gregoryensis,,,,Eucalyptus gregoriensis,Exsertaria,Combination,0.2456,27.48749924,681,0,,,0,,,Semiarid,,x,,,x
+230,1999,R171/T27,,"Stirling Range, WA",,Eucalyptus wandoo subsp. wandoo,,,,Eucalyptus wandoo subsp. wandoo,Glandulosae' ms,Combination,0.1587,17.32083321,331,0,,,0.25,,,Arid,X,,,,x
+230,1999,R171/T28,,"Stirling Range, WA",,Eucalyptus wandoo subsp. wandoo,,,,Eucalyptus wandoo subsp. wandoo,Glandulosae' ms,Combination,0.1587,17.32083321,331,1,,,0.25,,,Arid,X,,,,x
+230,1999,R171/T29,,"Stirling Range, WA",,Eucalyptus wandoo subsp. wandoo,,,,Eucalyptus wandoo subsp. wandoo,Glandulosae' ms,Combination,0.1587,17.32083321,331,2,,,0.25,,,Arid,X,,,,x
+230,1999,R171/T30,,"Stirling Range, WA",,Eucalyptus wandoo subsp. wandoo,,,,Eucalyptus wandoo subsp. wandoo,Glandulosae' ms,Combination,0.1587,17.32083321,331,3,,,0.25,,,Arid,X,,,,x
+2489,1999,R172/T16,D.Nicolle,"Daly Waters, NT",Alive,Eucalyptus camaldulensis subsp. obtusa,,,,Eucalyptus camaldulensis subsp. obtusa,Exsertaria,Combination,0.2744,26.52916718,715,0,,,0,,,Semiarid,,x,,,x
+2489,1999,R172/T17,D.Nicolle,"Daly Waters, NT",Alive,Eucalyptus camaldulensis subsp. obtusa,,,,Eucalyptus camaldulensis subsp. obtusa,Exsertaria,Combination,0.2744,26.52916718,715,0,,,0,,,Semiarid,,x,,,x
+2489,1999,R172/T18,D.Nicolle,"Daly Waters, NT",Alive,Eucalyptus camaldulensis subsp. obtusa,,,,Eucalyptus camaldulensis subsp. obtusa,Exsertaria,Combination,0.2744,26.52916718,715,0,,,0,,,Semiarid,,x,,,x
+2536,1999,R173/T23,D.Nicolle,"Torrens Creek, Qld",Alive,Eucalyptus whitei,,,,Eucalyptus whitei,Adnataria,Combination,0.2206,23.05833244,544,0,,,0,,,Semiarid,,x,,,x
+2536,1999,R173/T24,D.Nicolle,"Torrens Creek, Qld",Alive,Eucalyptus whitei,,,,Eucalyptus whitei,Adnataria,Combination,0.2206,23.05833244,544,0,,,0,,,Semiarid,,x,,,x
+2553,1999,R174/T13,D.Nicolle,"Dirranbandi, Qld",Alive,Eucalyptus camaldulensis subsp. acuta,CCA3490,OK,,Eucalyptus camaldulensis subsp. acuta,Exsertaria,Combination,0.2021,20.4375,455,1,0,4,0.5,0.577350269,4,Semiarid,,x,,,x
+2553,1999,R174/T14,D.Nicolle,"Dirranbandi, Qld",Alive,Eucalyptus camaldulensis subsp. acuta,CCA3491,OK,,Eucalyptus camaldulensis subsp. acuta,Exsertaria,Combination,0.2021,20.4375,455,1,0,4,0.5,0.577350269,4,Semiarid,,x,,,x
+2553,1999,R174/T15,D.Nicolle,"Dirranbandi, Qld",Alive,Eucalyptus camaldulensis subsp. acuta,CCA3492,OK,,Eucalyptus camaldulensis subsp. acuta,Exsertaria,Combination,0.2021,20.4375,455,1,0,4,0.5,0.577350269,4,Semiarid,,x,,,x
+2553,1999,R174/T16,D.Nicolle,"Dirranbandi, Qld",Alive,Eucalyptus camaldulensis subsp. acuta,CCA3493,OK,,Eucalyptus camaldulensis subsp. acuta,Exsertaria,Combination,0.2021,20.4375,455,1,0,4,0.5,0.577350269,4,Semiarid,,x,,,x
+2216,1999,R174/T21,,"Norseman 2, WA",,Eucalyptus arachnaea subsp. arrecta,CCA3498,OK,,Eucalyptus arachnaea subsp. arrecta,Glandulosae' ms,Seeder,0.162,19.51250076,384,0,0,4,0.5,0.707106781,4,Arid,X,,,,x
+4513,2004,R260/T10,,,,Eucalyptus brookeriana,CCA4954,OK,,Eucalyptus brookeriana,Maidenaria,Combination,0.9273,10.24167,1155,2.666666667,0.577350269,4,3,0,4,Humid,X,,,,
+4513,2004,R260/T11,,,,Eucalyptus brookeriana,CCA4955,OK,,Eucalyptus brookeriana,Maidenaria,Combination,0.9273,10.24167,1155,2.666666667,0.577350269,4,3,0,4,Humid,X,,,,
+4513,2004,R260/T12,,,,Eucalyptus brookeriana,CCA4956,OK,,Eucalyptus brookeriana,Maidenaria,Combination,0.9273,10.24167,1155,2.666666667,0.577350269,4,3,0,4,Humid,X,,,,
+4516,2004,R261/T08,,,,Eucalyptus conspicua,CCA4963,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.7283,13.15,963,2.75,1.258305739,4,2.666666667,0.577350269,4,DrySubhumid,X,,,,
+4516,2004,R261/T09,,,,Eucalyptus conspicua,CCA4964,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.7283,13.15,963,2.75,1.258305739,4,2.666666667,0.577350269,4,DrySubhumid,X,,,,
+4516,2004,R261/T11,,,,Eucalyptus conspicua,CCA4966,OK,,Eucalyptus conspicua,Maidenaria,Combination,0.7283,13.15,963,2.75,1.258305739,4,2.666666667,0.577350269,4,DrySubhumid,X,,,,
+4629,2004,R260/T05,,,,Eucalyptus diversicolor,CCA4950,OK,,Eucalyptus diversicolor,Inclusae,Stem,0.7864,15.24167,1229,2.5,0.577350269,4,3,0,4,Humid,,,,,
+4629,2004,R260/T06,,,,Eucalyptus diversicolor,CCA4951,OK,,Eucalyptus diversicolor,Inclusae,Stem,0.7864,15.24167,1229,2.5,0.577350269,4,3,0,4,Humid,,,,,
+4629,2004,R260/T07,,,,Eucalyptus diversicolor,CCA4952,OK,,Eucalyptus diversicolor,Inclusae,Stem,0.7864,15.24167,1229,2.5,0.577350269,4,3,0,4,Humid,,,,,
+4629,2004,R260/T08,,,,Eucalyptus diversicolor,CCA4953,OK,,Eucalyptus diversicolor,Inclusae,Stem,0.7864,15.24167,1229,2.5,0.577350269,4,3,0,4,Humid,,,,,
+2216,1999,R174/T22,,"Norseman 2, WA",,Eucalyptus arachnaea subsp. arrecta,CCA3499,OK,,Eucalyptus arachnaea subsp. arrecta,Glandulosae' ms,Seeder,0.162,19.51250076,384,0,0,4,0.5,0.707106781,4,Arid,X,,,,x
+2440,1999,R175/T11,D.Nicolle,"Tennant Creek, NT",Alive,Eucalyptus pruinosa subsp. pruinosa,,,,Eucalyptus pruinosa subsp. pruinosa,Adnataria,Combination,0.1345,25.5625,424,0,,,0,,,Arid,,x,,,x
+2440,1999,R175/T12,D.Nicolle,"Tennant Creek, NT",Alive,Eucalyptus pruinosa subsp. pruinosa,,,,Eucalyptus pruinosa subsp. pruinosa,Adnataria,Combination,0.1345,25.5625,424,0,,,0,,,Arid,,x,,,x
+2440,1999,R175/T13,D.Nicolle,"Tennant Creek, NT",Alive,Eucalyptus pruinosa subsp. pruinosa,,,,Eucalyptus pruinosa subsp. pruinosa,Adnataria,Combination,0.1345,25.5625,424,0,,,0,,,Arid,,x,,,x
+2554,1999,R175/T15,D.Nicolle,"Gongolgon, NSW",Alive,Eucalyptus intertexta,CCA3518,OK,,Eucalyptus intertexta,Adnataria,Combination,0.1816,19.72916603,401,1,0,4,0,0,4,Arid,X,x,,,x
+2554,1999,R175/T16,D.Nicolle,"Gongolgon, NSW",Alive,Eucalyptus intertexta,CCA3519,OK,,Eucalyptus intertexta,Adnataria,Combination,0.1816,19.72916603,401,1,0,4,0,0,4,Arid,X,x,,,x
+2554,1999,R175/T17,D.Nicolle,"Gongolgon, NSW",Alive,Eucalyptus intertexta,CCA3520,OK,,Eucalyptus intertexta,Adnataria,Combination,0.1816,19.72916603,401,1,0,4,0,0,4,Arid,X,x,,,x
+2554,1999,R175/T18,D.Nicolle,"Gongolgon, NSW",Alive,Eucalyptus intertexta,CCA3521,OK,,Eucalyptus intertexta,Adnataria,Combination,0.1816,19.72916603,401,1,0,4,0,0,4,Arid,X,x,,,x
+1353,1999,R177/T01,D.Nicolle,"Mt Hermannsburg, NT",Alive,Eucalyptus lucens,CCA3549,OK,,Eucalyptus lucens,Adnataria,Lignotuber,0.1216,20.35416603,327,0,0,3,0,0,3,Arid,X,x,,,x
+1353,1999,R177/T02,D.Nicolle,"Mt Hermannsburg, NT",Alive,Eucalyptus lucens,CCA3550,OK,,Eucalyptus lucens,Adnataria,Lignotuber,0.1216,20.35416603,327,0,0,3,0,0,3,Arid,X,x,,,x
+1353,1999,R177/T03,D.Nicolle,"Mt Hermannsburg, NT",Alive,Eucalyptus lucens,CCA3551,Only genomics,,Eucalyptus lucens,Adnataria,Lignotuber,0.1216,20.35416603,327,0,0,3,0,0,3,Arid,X,x,,,x
+2556,1999,R177/T12,D.Nicolle,"Mulyungarie, SA",Alive,Eucalyptus largiflorens,CCA3557,OK,,Eucalyptus largiflorens (green-leaf variant),Adnataria,Combination,0.0503,19.07916641,131,0,0,4,0,0,4,Arid,X,x,,,x
+2556,1999,R177/T13,D.Nicolle,"Mulyungarie, SA",Alive,Eucalyptus largiflorens,CCA3558,OK,,Eucalyptus largiflorens (green-leaf variant),Adnataria,Combination,0.0503,19.07916641,131,0,0,4,0,0,4,Hyperarid,X,x,,,x
+2168,1999,R178/T05,,"Norseman 2, WA",,Eucalyptus brockwayi,CCA3569,OK,,Eucalyptus brockwayi,Bisectae,Seeder,0.1489,17.15833282,299,0,0,4,0,0,4,Arid,X,,,,x
+2168,1999,R178/T07,,"Norseman 2, WA",,Eucalyptus brockwayi,CCA3571,OK,,Eucalyptus brockwayi,Bisectae,Seeder,0.1489,17.15833282,299,0,0,4,0,0,4,Arid,X,,,,x
+2566,1999,R178/T09,D.Nicolle,"Wilmington, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3572,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2187,15.70833302,462,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2566,1999,R178/T11,D.Nicolle,"Wilmington, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3573,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2187,15.70833302,462,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2566,1999,R178/T12,D.Nicolle,"Wilmington, SA",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3574,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2187,15.70833302,462,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2555,1999,R178/T13,D.Nicolle,"Silverton, NSW",Alive,Eucalyptus camaldulensis subsp. arida,CCA3575,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.0966,18.35833359,238,0,0,4,0,0,4,Arid,,x,,,x
+2555,1999,R178/T14,D.Nicolle,"Silverton, NSW",Alive,Eucalyptus camaldulensis subsp. arida,CCA3576,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.0966,18.35833359,238,0,0,4,0,0,4,Arid,,x,,,x
+2555,1999,R178/T15,D.Nicolle,"Silverton, NSW",Alive,Eucalyptus camaldulensis subsp. arida,CCA3577,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.0966,18.35833359,238,0,0,4,0,0,4,Arid,,x,,,x
+2555,1999,R178/T16,D.Nicolle,"Silverton, NSW",Alive,Eucalyptus camaldulensis subsp. arida,CCA3578,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.0966,18.35833359,238,0,0,4,0,0,4,Arid,,x,,,x
+2677,2000,R182/T34,D.Nicolle,"Warburton, WA",Alive,Eucalyptus intertexta,CCA3627,OK,,Eucalyptus intertexta,Adnataria,Combination,0.0739,21.18333244,224,0,0,4,1,1.732050808,4,Arid,X,x,,,x
+2677,2000,R182/T36,D.Nicolle,"Warburton, WA",Alive,Eucalyptus intertexta,CCA3628,OK,"Small, resprouting",Eucalyptus intertexta,Adnataria,Combination,0.0739,21.18333244,224,0,0,4,1,1.732050808,4,Arid,X,x,,,x
+2677,2000,R182/T37,D.Nicolle,"Warburton, WA",Alive,Eucalyptus intertexta,CCA3629,OK,,Eucalyptus intertexta,Adnataria,Combination,0.0739,21.18333244,224,0,0,4,1,1.732050808,4,Arid,X,x,,,x
+2957,2000,R185/T28,D.Nicolle,"Wilcannia, NSW",Alive,Eucalyptus coolabah,CCA3711,OK,,Eucalyptus coolabah,Adnataria,Combination,0.1191,19.43333244,285,0,0,4,0,0,4,Arid,X,x,x,,x
+2957,2000,R185/T29,D.Nicolle,"Wilcannia, NSW",Alive,Eucalyptus coolabah,CCA3712,OK,,Eucalyptus coolabah,Adnataria,Combination,0.1191,19.43333244,285,0,0,4,0,0,4,Arid,X,x,,,x
+2957,2000,R185/T30,D.Nicolle,"Wilcannia, NSW",Alive,Eucalyptus coolabah,CCA3713,OK,,Eucalyptus coolabah,Adnataria,Combination,0.1191,19.43333244,285,0,0,4,0,0,4,Arid,X,x,,,x
+2957,2000,R185/T31,D.Nicolle,"Wilcannia, NSW",Alive,Eucalyptus coolabah,CCA3714,OK,,Eucalyptus coolabah,Adnataria,Combination,0.1191,19.43333244,285,0,0,4,0,0,4,Arid,X,x,,,x
+2761,2000,R185/T37,D.Nicolle,"Diemals Station, WA",Alive,Eucalyptus petraea,CCA3719,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.1069,19.65416718,276,0,0,4,0,0,4,Arid,X,x,,,x
+2761,2000,R185/T38,D.Nicolle,"Diemals Station, WA",Alive,Eucalyptus petraea,CCA3720,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.1069,19.65416718,276,0,0,4,0,0,4,Arid,X,x,,,x
+2761,2000,R185/T39,D.Nicolle,"Diemals Station, WA",Alive,Eucalyptus petraea,CCA3721,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.1069,19.65416718,276,0,0,4,0,0,4,Arid,X,x,,,x
+2954,2000,R186/T11,D.Nicolle,"Nyngan, NSW",Alive,Eucalyptus populnea subsp. bimbil,CCA3729,OK,,Eucalyptus populnea subsp. bimbil,Adnataria,Combination,0.2372,18.95000076,508,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2954,2000,R186/T12,D.Nicolle,"Nyngan, NSW",Alive,Eucalyptus populnea subsp. bimbil,CCA3730,OK,,Eucalyptus populnea subsp. bimbil,Adnataria,Combination,0.2372,18.95000076,508,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2954,2000,R186/T13,D.Nicolle,"Nyngan, NSW",Alive,Eucalyptus populnea subsp. bimbil,CCA3731,OK,,Eucalyptus populnea subsp. bimbil,Adnataria,Combination,0.2372,18.95000076,508,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2954,2000,R186/T14,D.Nicolle,"Nyngan, NSW",Alive,Eucalyptus populnea subsp. bimbil,CCA3732,OK,,Eucalyptus populnea subsp. bimbil,Adnataria,Combination,0.2372,18.95000076,508,0.5,0.577350269,4,0.25,0.5,4,Semiarid,X,x,,,x
+2897,2000,R187/T05,D.Nicolle,"Barham, NSW",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3751,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2086,15.9333334,382,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,X,x
+2897,2000,R187/T06,D.Nicolle,"Barham, NSW",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3752,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2086,15.9333334,382,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,X,x
+2897,2000,R187/T07,D.Nicolle,"Barham, NSW",Alive,Eucalyptus leucoxylon subsp. pruinosa,CCA3753,OK,,Eucalyptus leucoxylon subsp. pruinosa,Adnataria,Combination,0.2086,15.9333334,382,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,X,x
+2895,2000,R187/T08,D.Nicolle,"Boundary Bend, Vic",Alive,Eucalyptus microcarpa,CCA3754,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.1757,16.875,348,0,0,4,0.25,0.5,4,Arid,X,x,,,x
+2895,2000,R187/T09,D.Nicolle,"Boundary Bend, Vic",Alive,Eucalyptus microcarpa,CCA3755,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.1757,16.875,348,0,0,4,0.25,0.5,4,Arid,X,x,,,x
+2895,2000,R187/T10,D.Nicolle,"Boundary Bend, Vic",Alive,Eucalyptus microcarpa,CCA3756,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.1757,16.875,348,0,0,4,0.25,0.5,4,Arid,X,x,,,x
+2895,2000,R187/T11,D.Nicolle,"Boundary Bend, Vic",Alive,Eucalyptus microcarpa,CCA3757,OK,,Eucalyptus microcarpa,Adnataria,Combination,0.1757,16.875,348,0,0,4,0.25,0.5,4,Arid,X,x,,,x
+2283,2000,R187/T24,,"Lake Johnston 1, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.145,16.71666718,297,0,,,0,,,Arid,X,,,,x
+2283,2000,R187/T25,,"Lake Johnston 1, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.145,16.71666718,297,0,,,0,,,Arid,X,,,,x
+2283,2000,R187/T26,,"Lake Johnston 1, WA",,Eucalyptus longicornis,,,,Eucalyptus longicornis,Bisectae,Combination,0.145,16.71666718,297,0,,,0,,,Arid,X,,,,x
+2580,2000,R188/T01,D.Nicolle,"Serviceton, Vic",Alive,Eucalyptus odorata,CCA3776,OK,,Eucalyptus odorata (E. silvestris),Adnataria,Combination,0.2802,14.83333302,463,0,0,4,0,0,4,Semiarid,X,x,,,x
+2580,2000,R188/T02,D.Nicolle,"Serviceton, Vic",Alive,Eucalyptus odorata,CCA3777,OK,,Eucalyptus odorata (E. silvestris),Adnataria,Combination,0.2802,14.83333302,463,0,0,4,0,0,4,Semiarid,X,x,,,x
+2580,2000,R188/T03,D.Nicolle,"Serviceton, Vic",Alive,Eucalyptus odorata,CCA3778,OK,,Eucalyptus odorata (E. silvestris),Adnataria,Combination,0.2802,14.83333302,463,0,0,4,0,0,4,Semiarid,X,x,,,x
+2580,2000,R188/T04,D.Nicolle,"Serviceton, Vic",Alive,Eucalyptus odorata,CCA3779,OK,,Eucalyptus odorata (E. silvestris),Adnataria,Combination,0.2802,14.83333302,463,0,0,4,0,0,4,Semiarid,X,x,,,x
+158,2000,R188/T05,,"Truslove, WA",,Eucalyptus valens,CCA3780,OK,,Eucalyptus valens,Dumaria,Seeder,0.2218,16.43333244,405,0.25,,4,0.75,,4,Semiarid,X,,,,x
+158,2000,R188/T06,,"Truslove, WA",,Eucalyptus valens,CCA3781,OK,,Eucalyptus valens,Dumaria,Seeder,0.2218,16.43333244,405,0.25,,4,0.75,,4,Semiarid,X,,,,x
+158,2000,R188/T07,,"Truslove, WA",,Eucalyptus valens,CCA3782,OK,,Eucalyptus valens,Dumaria,Seeder,0.2218,16.43333244,405,0.25,,4,0.75,,4,Semiarid,X,,,,x
+158,2000,R188/T08,,"Truslove, WA",,Eucalyptus valens,CCA3783,OK,,Eucalyptus valens,Dumaria,Seeder,0.2218,16.43333244,405,0.25,,4,0.75,,4,Semiarid,X,,,,x
+2583,2000,R188/T13,D.Nicolle,"Mitre, Vic",Alive,Eucalyptus froggattii,CCA3787,OK,,Eucalyptus froggattii,Adnataria,Lignotuber,0.2697,14.52499962,452,0,0,4,0.75,0.5,4,Semiarid,X,x,,,x
+2583,2000,R188/T14,D.Nicolle,"Mitre, Vic",Alive,Eucalyptus froggattii,CCA3788,OK,,Eucalyptus froggattii,Adnataria,Lignotuber,0.2697,14.52499962,452,0,0,4,0.75,0.5,4,Semiarid,X,x,,,x
+2583,2000,R188/T15,D.Nicolle,"Mitre, Vic",Alive,Eucalyptus froggattii,CCA3789,OK,,Eucalyptus froggattii,Adnataria,Lignotuber,0.2697,14.52499962,452,0,0,4,0.75,0.5,4,Semiarid,X,x,,,x
+2583,2000,R188/T16,D.Nicolle,"Mitre, Vic",Alive,Eucalyptus froggattii,CCA3790,OK,,Eucalyptus froggattii,Adnataria,Lignotuber,0.2697,14.52499962,452,0,0,4,0.75,0.5,4,Semiarid,X,x,,,x
+2899,2000,R189/T01,D.Nicolle,"Adelong, NSW",Alive,Eucalyptus polyanthemos subsp. polyanthemos,CCA3804,OK,,Eucalyptus polyanthemos subsp. polyanthemos,Adnataria,Combination,0.4878,14.76666641,814,1,0.816496581,4,1.25,0.5,4,Semiarid,X,x,,,x
+2899,2000,R189/T02,D.Nicolle,"Adelong, NSW",Alive,Eucalyptus polyanthemos subsp. polyanthemos,CCA3805,OK,,Eucalyptus polyanthemos subsp. polyanthemos,Adnataria,Combination,0.4878,14.76666641,814,1,0.816496581,4,1.25,0.5,4,Semiarid,X,x,,,x
+2899,2000,R189/T03,D.Nicolle,"Adelong, NSW",Alive,Eucalyptus polyanthemos subsp. polyanthemos,CCA3806,OK,,Eucalyptus polyanthemos subsp. polyanthemos,Adnataria,Combination,0.4878,14.76666641,814,1,0.816496581,4,1.25,0.5,4,Semiarid,X,x,,,x
+2899,2000,R189/T04,D.Nicolle,"Adelong, NSW",Alive,Eucalyptus polyanthemos subsp. polyanthemos,CCA3807,OK,,Eucalyptus polyanthemos subsp. polyanthemos,Adnataria,Combination,0.4878,14.76666641,814,1,0.816496581,4,1.25,0.5,4,Semiarid,X,x,,,x
+2898,2000,R189/T23,D.Nicolle,"Wagga Wagga, NSW",Alive,Eucalyptus albens,CCA3820,OK,,Eucalyptus albens,Adnataria,Combination,0.3177,15.79166698,565,0,0,4,0,0,4,Semiarid,X,x,,,x
+2898,2000,R189/T24,D.Nicolle,"Wagga Wagga, NSW",Alive,Eucalyptus albens,CCA3821,OK,,Eucalyptus albens,Adnataria,Combination,0.3177,15.79166698,565,0,0,4,0,0,4,Semiarid,X,x,x,,x
+2898,2000,R189/T25,D.Nicolle,"Wagga Wagga, NSW",Alive,Eucalyptus albens,CCA3822,OK,,Eucalyptus albens,Adnataria,Combination,0.3177,15.79166698,565,0,0,4,0,0,4,Semiarid,X,x,,,x
+2898,2000,R189/T26,D.Nicolle,"Wagga Wagga, NSW",Alive,Eucalyptus albens,CCA3823,OK,,Eucalyptus albens,Adnataria,Combination,0.3177,15.79166698,565,0,0,4,0,0,4,Semiarid,X,x,,,x
+2581,2000,R189/T27,D.Nicolle,"Little Desert, Vic",Alive,Eucalyptus leucoxylon subsp. stephaniae,CCA3824,Dead,Fallen,Eucalyptus leucoxylon subsp. stephaniae,Adnataria,Combination,0.261,14.2458334,441,0,0,4,0,0,4,Semiarid,X,x,,,x
+2581,2000,R189/T28,D.Nicolle,"Little Desert, Vic",Alive,Eucalyptus leucoxylon subsp. stephaniae,CCA3825,OK,,Eucalyptus leucoxylon subsp. stephaniae,Adnataria,Combination,0.261,14.2458334,441,0,0,4,0,0,4,Semiarid,X,x,,,x
+2581,2000,R189/T29,D.Nicolle,"Little Desert, Vic",Alive,Eucalyptus leucoxylon subsp. stephaniae,CCA3826,OK,,Eucalyptus leucoxylon subsp. stephaniae,Adnataria,Combination,0.261,14.2458334,441,0,0,4,0,0,4,Semiarid,X,x,,,x
+193,2000,R189/T31,,"Ravensthorpe, WA",,Eucalyptus clivicola,CCA3827,OK,,Eucalyptus clivicola,Glandulosae' ms,Seeder,0.2295,16.42499924,412,0,0,2,1,0,2,Semiarid,X,,,,x
+193,2000,R189/T33,,"Ravensthorpe, WA",,Eucalyptus clivicola,CCA3828,OK,,Eucalyptus clivicola,Glandulosae' ms,Seeder,0.2295,16.42499924,412,0,0,2,1,0,2,Semiarid,X,,,,x
+2585,2000,R190/T17,D.Nicolle,"Bacchus Marsh, Vic",Alive,Eucalyptus leucoxylon subsp. leucoxylon,CCA3841,OK,,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),Adnataria,Combination,0.4136,13.75,597,0,0,4,0,0,4,Semiarid,X,x,x,,x
+2585,2000,R190/T18,D.Nicolle,"Bacchus Marsh, Vic",Alive,Eucalyptus leucoxylon subsp. leucoxylon,CCA3842,OK,,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),Adnataria,Combination,0.4136,13.75,597,0,0,4,0,0,4,Semiarid,X,x,,,x
+2585,2000,R190/T19,D.Nicolle,"Bacchus Marsh, Vic",Alive,Eucalyptus leucoxylon subsp. leucoxylon,CCA3843,OK,,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),Adnataria,Combination,0.4136,13.75,597,0,0,4,0,0,4,Semiarid,X,x,,,x
+2585,2000,R190/T20,D.Nicolle,"Bacchus Marsh, Vic",Alive,Eucalyptus leucoxylon subsp. leucoxylon,CCA3844,OK,,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),Adnataria,Combination,0.4136,13.75,597,0,0,4,0,0,4,Semiarid,X,x,,,x
+2930,2000,R190/T22,D.Nicolle,"Gibraltar Rock, NSW",Alive,Eucalyptus caleyi subsp. ovendenii,CCA3845,OK,,Eucalyptus caleyi subsp. ovendenii,Adnataria,Combination,0.458,16.21666718,792,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2930,2000,R190/T23,D.Nicolle,"Gibraltar Rock, NSW",Alive,Eucalyptus caleyi subsp. ovendenii,CCA3846,OK,,Eucalyptus caleyi subsp. ovendenii,Adnataria,Combination,0.458,16.21666718,792,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2930,2000,R190/T24,D.Nicolle,"Gibraltar Rock, NSW",Alive,Eucalyptus caleyi subsp. ovendenii,CCA3847,OK,Small,Eucalyptus caleyi subsp. ovendenii,Adnataria,Combination,0.458,16.21666718,792,0,0,4,0,0,4,Semiarid,X,x,,X,x
+2932,2000,R190/T25,D.Nicolle,"Inglewood, Qld",Alive,Eucalyptus exserta,,,,Eucalyptus exserta,Exsertaria,Combination,0.3765,18.09583282,709,0.25,,,0.25,,,Semiarid,,x,,,x
+2932,2000,R190/T26,D.Nicolle,"Inglewood, Qld",Alive,Eucalyptus exserta,,,,Eucalyptus exserta,Exsertaria,Combination,0.3765,18.09583282,709,0.25,,,0.25,,,Semiarid,,x,,,x
+2932,2000,R190/T27,D.Nicolle,"Inglewood, Qld",Alive,Eucalyptus exserta,,,,Eucalyptus exserta,Exsertaria,Combination,0.3765,18.09583282,709,0.25,,,0.25,,,Semiarid,,x,,,x
+2937,2000,R191/T09,D.Nicolle,"Crows Nest, Qld",Alive,Eucalyptus tereticornis subsp. basaltica,,,,Eucalyptus tereticornis subsp. basaltica,Exsertaria,Combination,0.5699,17.32916641,967,0,,,0.25,,,DrySubhumid,,x,,,x
+2937,2000,R191/T11,D.Nicolle,"Crows Nest, Qld",Alive,Eucalyptus tereticornis subsp. basaltica,,,,Eucalyptus tereticornis subsp. basaltica,Exsertaria,Combination,0.5699,17.32916641,967,0,,,0.25,,,DrySubhumid,,x,,,x
+2937,2000,R191/T12,D.Nicolle,"Crows Nest, Qld",Alive,Eucalyptus tereticornis subsp. basaltica,,,,Eucalyptus tereticornis subsp. basaltica,Exsertaria,Combination,0.5699,17.32916641,967,0,,,0.25,,,DrySubhumid,,x,,,x
+2927,2000,R191/T29,D.Nicolle,"Peregrine Point, NSW",Alive,Eucalyptus scopulorum,CCA3872,OK,,Eucalyptus scopulorum,Adnataria,Combination,0.6759,14.08749962,997,0,0,4,0,0,4,DrySubhumid,X,x,,X,x
+2927,2000,R191/T30,D.Nicolle,"Peregrine Point, NSW",Alive,Eucalyptus scopulorum,CCA3873,OK,,Eucalyptus scopulorum,Adnataria,Combination,0.6759,14.08749962,997,0,0,4,0,0,4,DrySubhumid,X,x,,X,x
+2927,2000,R191/T31,D.Nicolle,"Peregrine Point, NSW",Alive,Eucalyptus scopulorum,CCA3874,OK,,Eucalyptus scopulorum,Adnataria,Combination,0.6759,14.08749962,997,0,0,4,0,0,4,DrySubhumid,X,x,,X,x
+2927,2000,R191/T32,D.Nicolle,"Peregrine Point, NSW",Alive,Eucalyptus scopulorum,CCA3875,OK,,Eucalyptus scopulorum,Adnataria,Combination,0.6759,14.08749962,997,0,0,4,0,0,4,DrySubhumid,X,x,,X,x
+2902,2000,R192/T05,D.Nicolle,"Nerrigundah, NSW",Alive,Eucalyptus bosistoana,CCA3877,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.6612,14.22916698,909,0,0,4,0.5,0.577350269,4,DrySubhumid,X,x,,,x
+2902,2000,R192/T06,D.Nicolle,"Nerrigundah, NSW",Alive,Eucalyptus bosistoana,CCA3878,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.6612,14.22916698,909,0,0,4,0.5,0.577350269,4,DrySubhumid,X,x,,,x
+2902,2000,R192/T07,D.Nicolle,"Nerrigundah, NSW",Alive,Eucalyptus bosistoana,CCA3879,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.6612,14.22916698,909,0,0,4,0.5,0.577350269,4,DrySubhumid,X,x,,,x
+2902,2000,R192/T08,D.Nicolle,"Nerrigundah, NSW",Alive,Eucalyptus bosistoana,CCA3880,OK,,Eucalyptus bosistoana,Adnataria,Combination,0.6612,14.22916698,909,0,0,4,0.5,0.577350269,4,DrySubhumid,X,x,,,x
+1326,2000,R192/T13,D.Nicolle,"Forsayth, Qld",Alive,Eucalyptus microneura,,,,Eucalyptus microneura,Adnataria,Combination,0.3189,24.80416679,801,0,,,0,,,Semiarid,,x,,,x
+1326,2000,R192/T14,D.Nicolle,"Forsayth, Qld",Alive,Eucalyptus microneura,,,,Eucalyptus microneura,Adnataria,Combination,0.3189,24.80416679,801,0,,,0,,,Semiarid,,x,,,x
+1326,2000,R192/T15,D.Nicolle,"Forsayth, Qld",Alive,Eucalyptus microneura,,,,Eucalyptus microneura,Adnataria,Combination,0.3189,24.80416679,801,0,,,0,,,Semiarid,,x,,,x
+2945,2000,R192/T21,D.Nicolle,"Enmore, NSW",Alive,Eucalyptus magnificata,CCA3886,OK,,Eucalyptus magnificata,Adnataria,Combination,0.5528,13.46666718,836,1,1.154700538,4,0.75,0.5,4,DrySubhumid,X,x,,X,x
+2945,2000,R192/T22,D.Nicolle,"Enmore, NSW",Alive,Eucalyptus magnificata,CCA3887,OK,,Eucalyptus magnificata,Adnataria,Combination,0.5528,13.46666718,836,1,1.154700538,4,0.75,0.5,4,DrySubhumid,X,x,x,X,x
+2945,2000,R192/T23,D.Nicolle,"Enmore, NSW",Alive,Eucalyptus magnificata,CCA3888,OK,,Eucalyptus magnificata,Adnataria,Combination,0.5528,13.46666718,836,1,1.154700538,4,0.75,0.5,4,DrySubhumid,X,x,,X,x
+2945,2000,R192/T24,D.Nicolle,"Enmore, NSW",Alive,Eucalyptus magnificata,CCA3889,OK,,Eucalyptus magnificata,Adnataria,Combination,0.5528,13.46666718,836,1,1.154700538,4,0.75,0.5,4,DrySubhumid,X,x,,X,x
+2939,2000,R193/T09,D.Nicolle,"Glen Innes, NSW",Alive,Eucalyptus rubida subsp. barbigarorum,CCA3895,OK,,Eucalyptus rubida subsp. barbigerorum,Maidenaria,Combination,0.5872,13.41666698,892,3.25,0.957427108,4,2.5,0.707106781,4,DrySubhumid,X,,,X,x
+2939,2000,R193/T12,D.Nicolle,"Glen Innes, NSW",Alive,Eucalyptus rubida subsp. barbigarorum,CCA3898,OK,,Eucalyptus rubida subsp. barbigerorum,Maidenaria,Combination,0.5872,13.41666698,892,3.25,0.957427108,4,2.5,0.707106781,4,DrySubhumid,X,,,X,x
+2900,2000,R193/T29,D.Nicolle,"Belowra, NSW",Alive,Eucalyptus stenostoma,CCA3902,OK,,Eucalyptus stenostoma,Eucalyptus,Seeder,0.5898,13.57499981,808,0.5,0.707106781,4,0.5,0.707106781,4,DrySubhumid,X,,,,x
+2900,2000,R193/T30,D.Nicolle,"Belowra, NSW",Alive,Eucalyptus stenostoma,CCA3903,OK,,Eucalyptus stenostoma,Eucalyptus,Seeder,0.5898,13.57499981,808,0.5,0.707106781,4,0.5,0.707106781,4,DrySubhumid,X,,,,x
+1245,2000,R194/T13,D.Nicolle,"Mallanganee, NSW",Alive,Eucalyptus rummeryi,CCA3910,OK,,Eucalyptus rummeryi,Adnataria,Combination,0.6139,18.24166679,1036,1.666666667,,3,1,,3,DrySubhumid,X,x,,,x
+1245,2000,R194/T14,D.Nicolle,"Mallanganee, NSW",Alive,Eucalyptus rummeryi,CCA3911,OK,,Eucalyptus rummeryi,Adnataria,Combination,0.6139,18.24166679,1036,1.666666667,,3,1,,3,DrySubhumid,X,x,,,x
+2918,2000,R196/T01,D.Nicolle,"Karuah, NSW",Alive,Eucalyptus fergusonii subsp. fergusonii,CCA3925,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.7635,17.65833282,1213,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+2918,2000,R196/T02,D.Nicolle,"Karuah, NSW",Alive,Eucalyptus fergusonii subsp. fergusonii,CCA3926,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.7635,17.65833282,1213,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+2918,2000,R196/T03,D.Nicolle,"Karuah, NSW",Alive,Eucalyptus fergusonii subsp. fergusonii,CCA3927,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.7635,17.65833282,1213,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+2918,2000,R196/T04,D.Nicolle,"Karuah, NSW",Alive,Eucalyptus fergusonii subsp. fergusonii,CCA3928,OK,,Eucalyptus fergusonii subsp. fergusonii,Adnataria,Combination,0.7635,17.65833282,1213,0.25,0.5,4,0.25,0.5,4,Humid,X,x,,,x
+2920,2000,R196/T10,D.Nicolle,"Taree, NSW",Alive,Eucalyptus rudderi,CCA3929,OK,,Eucalyptus rudderi,Adnataria,Combination,0.7833,17.27499962,1228,1,0,4,1,0,4,Humid,X,x,,,x
+2920,2000,R196/T11,D.Nicolle,"Taree, NSW",Alive,Eucalyptus rudderi,CCA3930,OK,,Eucalyptus rudderi,Adnataria,Combination,0.7833,17.27499962,1228,1,0,4,1,0,4,Humid,X,x,,,x
+2920,2000,R196/T12,D.Nicolle,"Taree, NSW",Alive,Eucalyptus rudderi,CCA3931,OK,,Eucalyptus rudderi,Adnataria,Combination,0.7833,17.27499962,1228,1,0,4,1,0,4,Humid,X,x,,,x
+1242,2000,R197/T18,D.Nicolle,"Wells Crossing, NSW",Alive,Eucalyptus tetrapleura,CCA3942,OK,,Eucalyptus tetrapleura,Adnataria,Combination,0.7566,18.56666565,1243,0.666666667,,3,0.333333333,,3,Humid,X,x,,X,x
+1242,2000,R197/T19,D.Nicolle,"Wells Crossing, NSW",Alive,Eucalyptus tetrapleura,CCA3943,OK,,Eucalyptus tetrapleura,Adnataria,Combination,0.7566,18.56666565,1243,0.666666667,,3,0.333333333,,3,Humid,X,x,,X,x
+1242,2000,R197/T20,D.Nicolle,"Wells Crossing, NSW",Alive,Eucalyptus tetrapleura,CCA3944,OK,,Eucalyptus tetrapleura,Adnataria,Combination,0.7566,18.56666565,1243,0.666666667,,3,0.333333333,,3,Humid,X,x,,X,x
+1238,2000,R198/T09,,"Johns River, NSW",,Eucalyptus microcorys,,,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,,2.6,,,Humid,X,,,,x
+1238,2000,R198/T10,,"Johns River, NSW",,Eucalyptus microcorys,,,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,,2.6,,,Humid,X,,,,x
+1238,2000,R198/T11,,"Johns River, NSW",,Eucalyptus microcorys,,,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,,2.6,,,Humid,X,,,,x
+1238,2000,R198/T12,,"Johns River, NSW",,Eucalyptus microcorys,,,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,,2.6,,,Humid,X,,,,x
+1238,2000,R198/T13,,"Johns River, NSW",,Eucalyptus microcorys,,,,Eucalyptus microcorys,Limbatae,Combination,0.8687,18.35833359,1391,2.4,,,2.6,,,Humid,X,,,,x
+2903,2000,R198/T15,D.Nicolle,"Batemans Bay, NSW",Alive,Eucalyptus paniculata,CCA3951,OK,,Eucalyptus paniculata,Adnataria,Combination,0.7335,15.90833282,1065,1.666666667,0.577350269,4,1,0,4,DrySubhumid,X,x,,,x
+2903,2000,R198/T16,D.Nicolle,"Batemans Bay, NSW",Alive,Eucalyptus paniculata,CCA3952,OK,"Hybrid, not for FT",Eucalyptus paniculata,Adnataria,Combination,0.7335,15.90833282,1065,1.666666667,0.577350269,4,1,0,4,DrySubhumid,X,x,,,x
+2903,2000,R198/T17,D.Nicolle,"Batemans Bay, NSW",Alive,Eucalyptus paniculata,CCA3953,OK,,Eucalyptus paniculata,Adnataria,Combination,0.7335,15.90833282,1065,1.666666667,0.577350269,4,1,0,4,DrySubhumid,X,x,,,x
+3704,2001,R220/T06,,,,Eucalyptus lehmannii subsp. parallela,CCA4222,OK,,Eucalyptus lehmannii subsp. parallela,Glandulosae' ms,Lignotuber,0.2489,16.35833,443,1,0,4,1,0,4,Semiarid,X,,,,x
+3704,2001,R220/T07,,,,Eucalyptus lehmannii subsp. parallela,CCA4223,OK,,Eucalyptus lehmannii subsp. parallela,Glandulosae' ms,Lignotuber,0.2489,16.35833,443,1,0,4,1,0,4,Semiarid,X,,,,x
+3704,2001,R220/T08,,,,Eucalyptus lehmannii subsp. parallela,CCA4224,OK,,Eucalyptus lehmannii subsp. parallela,Glandulosae' ms,Lignotuber,0.2489,16.35833,443,1,0,4,1,0,4,Semiarid,X,,,,x
+3180,2001,R220/T13,D.Nicolle,"Sleaford Mere 2, SA",Alive,Eucalyptus albopurpurea,CCA4229,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.3017,15.75833321,491,0.75,0.5,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+3180,2001,R220/T14,D.Nicolle,"Sleaford Mere 2, SA",Alive,Eucalyptus albopurpurea,CCA4230,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.3017,15.75833321,491,0.75,0.5,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+3180,2001,R220/T15,D.Nicolle,"Sleaford Mere 2, SA",Alive,Eucalyptus albopurpurea,CCA4231,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.3017,15.75833321,491,0.75,0.5,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+3180,2001,R220/T16,D.Nicolle,"Sleaford Mere 2, SA",Alive,Eucalyptus albopurpurea,CCA4232,OK,,Eucalyptus albopurpurea,Adnataria,Lignotuber,0.3017,15.75833321,491,0.75,0.5,4,0.5,0.577350269,4,Semiarid,X,x,,,x
+3660,2001,R221/T21,,,,Eucalyptus frenchiana,CCA4264,OK,,Eucalyptus frenchiana,Dumaria,Seeder,0.1405,16.82083,285,0,0,4,0,0,4,Arid,X,,,,x
+3660,2001,R221/T22,,,,Eucalyptus frenchiana,CCA4265,OK,,Eucalyptus frenchiana,Dumaria,Seeder,0.1405,16.82083,285,0,0,4,0,0,4,Arid,X,,,,x
+3660,2001,R221/T23,,,,Eucalyptus frenchiana,CCA4266,OK,,Eucalyptus frenchiana,Dumaria,Seeder,0.1405,16.82083,285,0,0,4,0,0,4,Arid,X,,,,x
+3660,2001,R221/T24,,,,Eucalyptus frenchiana,CCA4267,OK,,Eucalyptus frenchiana,Dumaria,Seeder,0.1405,16.82083,285,0,0,4,0,0,4,Arid,X,,,,x
+3657,2001,R221/T30,,,,Eucalyptus distuberosa subsp. aerata,CCA4273,OK,,Eucalyptus distuberosa subsp. aerata,Dumaria,Seeder,0.1442,16.6125,287,0,0,4,0,0,4,Arid,X,,,,x
+3657,2001,R221/T31,,,,Eucalyptus distuberosa subsp. aerata,CCA4274,OK,,Eucalyptus distuberosa subsp. aerata,Dumaria,Seeder,0.1442,16.6125,287,0,0,4,0,0,4,Arid,X,,,,x
+3657,2001,R221/T32,,,,Eucalyptus distuberosa subsp. aerata,CCA4275,OK,,Eucalyptus distuberosa subsp. aerata,Dumaria,Seeder,0.1442,16.6125,287,0,0,4,0,0,4,Arid,X,,,,x
+3480,2001,R221/T33,,,,Eucalyptus distuberosa subsp. distuberosa ,CCA4276,OK,,Eucalyptus distuberosa subsp. distuberosa,Dumaria,Seeder,0.1196,17.68333244,269,0,0,4,0,0,4,Arid,X,,,,x
+3480,2001,R221/T34,,,,Eucalyptus distuberosa subsp. distuberosa ,CCA4277,OK,,Eucalyptus distuberosa subsp. distuberosa,Dumaria,Seeder,0.1196,17.68333244,269,0,0,4,0,0,4,Arid,X,,,,x
+3480,2001,R221/T35,,,,Eucalyptus distuberosa subsp. distuberosa ,CCA4278,OK,,Eucalyptus distuberosa subsp. distuberosa,Dumaria,Seeder,0.1196,17.68333244,269,0,0,4,0,0,4,Arid,X,,,,x
+3480,2001,R221/T36,,,,Eucalyptus distuberosa subsp. distuberosa ,CCA4279,OK,,Eucalyptus distuberosa subsp. distuberosa,Dumaria,Seeder,0.1196,17.68333244,269,0,0,4,0,0,4,Arid,X,,,,x
+3679,2001,R222/T36,,,,Eucalyptus caesia subsp. Caesia,CCA4313,OK,,Eucalyptus caesia subsp. caesia,Bisectae,Lignotuber,0.1651,17.06667,349,1,1,3,1.666666667,1.154700538,3,Arid,X,,,,x
+3679,2001,R222/T37,,,,Eucalyptus caesia subsp. Caesia,CCA4314,OK,,Eucalyptus caesia subsp. caesia,Bisectae,Lignotuber,0.1651,17.06667,349,1,1,3,1.666666667,1.154700538,3,Arid,X,,,,x
+3679,2001,R222/T38,,,,Eucalyptus caesia subsp. Caesia,CCA4315,OK,,Eucalyptus caesia subsp. caesia,Bisectae,Lignotuber,0.1651,17.06667,349,1,1,3,1.666666667,1.154700538,3,Arid,X,,,,x
+3606,2001,R224/T13,,"Mt Ney, WA",,Eucalyptus creta,,,,Eucalyptus creta,Glandulosae' ms,Seeder,0.2043,16.23333,368,0,0,,0,0,,Semiarid,X,,,,x
+3606,2001,R224/T14,,"Mt Ney, WA",,Eucalyptus creta,,,,Eucalyptus creta,Glandulosae' ms,Seeder,0.2043,16.23333,368,0,0,,0,0,,Semiarid,X,,,,x
+3606,2001,R224/T15,,"Mt Ney, WA",,Eucalyptus creta,,,,Eucalyptus creta,Glandulosae' ms,Seeder,0.2043,16.23333,368,0,0,,0,0,,Semiarid,X,,,,x
+3606,2001,R224/T16,,"Mt Ney, WA",,Eucalyptus creta,,,,Eucalyptus creta,Glandulosae' ms,Seeder,0.2043,16.23333,368,0,0,,0,0,,Semiarid,X,,,,x
+3523,2001,R224/T21,D.Nicolle,"Northampton, WA",Alive,Eucalyptus camaldulensis subsp. arida,CCA4363,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.1773,20.97916603,415,2.5,0.577350269,4,2.25,0.5,4,Arid,,x,,,x
+3523,2001,R224/T22,D.Nicolle,"Northampton, WA",Alive,Eucalyptus camaldulensis subsp. arida,CCA4364,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.1773,20.97916603,415,2.5,0.577350269,4,2.25,0.5,4,Arid,,x,,,x
+3523,2001,R224/T23,D.Nicolle,"Northampton, WA",Alive,Eucalyptus camaldulensis subsp. arida,CCA4365,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.1773,20.97916603,415,2.5,0.577350269,4,2.25,0.5,4,Arid,,x,,,x
+3523,2001,R224/T24,D.Nicolle,"Northampton, WA",Alive,Eucalyptus camaldulensis subsp. arida,CCA4366,OK,,Eucalyptus camaldulensis subsp. arida,Exsertaria,Combination,0.1773,20.97916603,415,2.5,0.577350269,4,2.25,0.5,4,Arid,,x,,,x
+3493,2001,R224/T29,,,,Eucalyptus salicola,CCA4371,OK,,Eucalyptus salicola,Bisectae,Seeder,0.0877,19.66666603,219,0,0,4,0,0,4,Arid,X,,,,x
+3493,2001,R224/T31,,,,Eucalyptus salicola,CCA4372,OK,,Eucalyptus salicola,Bisectae,Seeder,0.0877,19.66666603,219,0,0,4,0,0,4,Arid,X,,,,x
+3493,2001,R224/T32,,,,Eucalyptus salicola,CCA4373,OK,,Eucalyptus salicola,Bisectae,Seeder,0.0877,19.66666603,219,0,0,4,0,0,4,Arid,X,,,,x
+3467,2001,R224/T33,,,,Eucalyptus extensa,CCA4374,OK,,Eucalyptus extensa,Glandulosae' ms,Seeder,0.1509,17.29166603,331,0,0,4,0,0,4,Arid,X,,,,x
+3467,2001,R224/T34,,,,Eucalyptus extensa,CCA4375,OK,,Eucalyptus extensa,Glandulosae' ms,Seeder,0.1509,17.29166603,331,0,0,4,0,0,4,Arid,X,,,,x
+3467,2001,R224/T35,,,,Eucalyptus extensa,CCA4376,OK,,Eucalyptus extensa,Glandulosae' ms,Seeder,0.1509,17.29166603,331,0,0,4,0,0,4,Arid,X,,,,x
+3438,2001,R227/T01,,,,Eucalyptus astringens subsp. astringens,CCA4440,OK,,Eucalyptus astringens subsp. astringens,Glandulosae' ms,Seeder,0.1863,15.89999962,359,0,0,4,0,0,4,Arid,X,,,,x
+3438,2001,R227/T02,,,,Eucalyptus astringens subsp. astringens,CCA4441,OK,,Eucalyptus astringens subsp. astringens,Glandulosae' ms,Seeder,0.1863,15.89999962,359,0,0,4,0,0,4,Arid,X,,,,x
+3438,2001,R227/T03,,,,Eucalyptus astringens subsp. astringens,CCA4442,OK,,Eucalyptus astringens subsp. astringens,Glandulosae' ms,Seeder,0.1863,15.89999962,359,0,0,4,0,0,4,Arid,X,,,,x
+3438,2001,R227/T04,,,,Eucalyptus astringens subsp. astringens,CCA4443,OK,,Eucalyptus astringens subsp. astringens,Glandulosae' ms,Seeder,0.1863,15.89999962,359,0,0,4,0,0,4,Arid,X,,,,x
+3434,2001,R227/T09,,,,Eucalyptus gardneri subsp. gardneri,CCA4446,OK,,Eucalyptus gardneri subsp. gardneri,Glandulosae' ms,Seeder,0.1617,16.79166603,326,0,0,4,0,0,4,Arid,X,,,,x
+3434,2001,R227/T10,,,,Eucalyptus gardneri subsp. gardneri,CCA4447,OK,,Eucalyptus gardneri subsp. gardneri,Glandulosae' ms,Seeder,0.1617,16.79166603,326,0,0,4,0,0,4,Arid,X,,,,x
+3433,2001,R229/T01,,,,Eucalyptus falcata,CCA4499,OK,,Eucalyptus falcata,Bisectae,Seeder,0.1617,16.79166603,326,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Arid,X,,,,x
+3433,2001,R229/T02,,,,Eucalyptus falcata,CCA4500,OK,,Eucalyptus falcata,Bisectae,Seeder,0.1617,16.79166603,326,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Arid,X,,,,x
+3433,2001,R229/T04,,,,Eucalyptus falcata,CCA4501,OK,,Eucalyptus falcata,Bisectae,Seeder,0.1617,16.79166603,326,0.333333333,0.577350269,4,0.333333333,0.577350269,4,Arid,X,,,,x
+3766,2001,R229/T21,D.Nicolle,"Coorow, WA",Alive,Eucalyptus petraea,CCA4516,Very small,Not even for genomics,Eucalyptus petraea,Adnataria,Lignotuber,0.144,19.3125,350,0,0,4,0,0,4,Arid,X,x,,,x
+3766,2001,R229/T22,D.Nicolle,"Coorow, WA",Alive,Eucalyptus petraea,CCA4517,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.144,19.3125,350,0,0,4,0,0,4,Arid,X,x,,,x
+3766,2001,R229/T23,D.Nicolle,"Coorow, WA",Alive,Eucalyptus petraea,CCA4518,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.144,19.3125,350,0,0,4,0,0,4,Arid,X,x,,,x
+3766,2001,R229/T24,D.Nicolle,"Coorow, WA",Alive,Eucalyptus petraea,CCA4519,OK,,Eucalyptus petraea,Adnataria,Lignotuber,0.144,19.3125,350,0,0,4,0,0,4,Arid,X,x,,,x
+3742,2001,R231/T09,,,,Eucalyptus horistes subsp. 'southern smooth' ,CCA4560,OK,,Eucalyptus sp. 'Sullivan Soak' (aff. horistes),Bisectae,Lignotuber,0.2023,15.675,364,1.5,1.732050808,4,0,0,4,Semiarid,X,,,,x
+3742,2001,R231/T11,,,,Eucalyptus horistes subsp. 'southern smooth' ,CCA4562,OK,,Eucalyptus sp. 'Sullivan Soak' (aff. horistes),Bisectae,Lignotuber,0.2023,15.675,364,1.5,1.732050808,4,0,0,4,Semiarid,X,,,,x
+3742,2001,R231/T12,,,,Eucalyptus horistes subsp. 'southern smooth' ,CCA4563,OK,,Eucalyptus sp. 'Sullivan Soak' (aff. horistes),Bisectae,Lignotuber,0.2023,15.675,364,1.5,1.732050808,4,0,0,4,Semiarid,X,,,,x
+3579,2001,R233/T21,,,,Eucalyptus purpurata,CCA4620,OK,,Eucalyptus purpurata,Bisectae,Seeder,0.2346,16.4375,428,1,0.816496581,4,0.75,0.957427108,4,Semiarid,X,,,,x
+3579,2001,R233/T22,,,,Eucalyptus purpurata,CCA4621,OK,,Eucalyptus purpurata,Bisectae,Seeder,0.2346,16.4375,428,1,0.816496581,4,0.75,0.957427108,4,Semiarid,X,,,,x
+3579,2001,R233/T23,,,,Eucalyptus purpurata,CCA4622,OK,,Eucalyptus purpurata,Bisectae,Seeder,0.2346,16.4375,428,1,0.816496581,4,0.75,0.957427108,4,Semiarid,X,,,,x
+3579,2001,R233/T24,,,,Eucalyptus purpurata,CCA4623,OK,,Eucalyptus purpurata,Bisectae,Seeder,0.2346,16.4375,428,1,0.816496581,4,0.75,0.957427108,4,Semiarid,X,,,,x
+3565,2001,R234/T09,,,,Eucalyptus vesiculosa,CCA4637,OK,,Eucalyptus vesiculosa,Glandulosae' ms,Seeder,0.2492,15.83749962,420,0,0,4,0,0,4,Semiarid,X,,,,x
+3565,2001,R234/T10,,,,Eucalyptus vesiculosa,CCA4638,OK,,Eucalyptus vesiculosa,Glandulosae' ms,Seeder,0.2492,15.83749962,420,0,0,4,0,0,4,Semiarid,X,,,,x
+3536,2001,R235/T01,D.Nicolle,"Murchison River, WA",Alive,Eucalyptus cuprea,CCA4659,OK,,Eucalyptus cuprea,Adnataria,Lignotuber,0.1326,20.89999962,325,0,0,4,0,0,4,Arid,X,x,,,x
+3536,2001,R235/T02,D.Nicolle,"Murchison River, WA",Alive,Eucalyptus cuprea,CCA4660,OK,,Eucalyptus cuprea,Adnataria,Lignotuber,0.1326,20.89999962,325,0,0,4,0,0,4,Arid,X,x,,,x
+3536,2001,R235/T03,D.Nicolle,"Murchison River, WA",Alive,Eucalyptus cuprea,CCA4661,OK,,Eucalyptus cuprea,Adnataria,Lignotuber,0.1326,20.89999962,325,0,0,4,0,0,4,Arid,X,x,,,x
+3536,2001,R235/T04,D.Nicolle,"Murchison River, WA",Alive,Eucalyptus cuprea,CCA4662,OK,,Eucalyptus cuprea,Adnataria,Lignotuber,0.1326,20.89999962,325,0,0,4,0,0,4,Arid,X,x,,,x
+3474,2001,R235/T05,,,,Eucalyptus vittata,CCA4663,OK,,Eucalyptus vittata,Dumaria,Seeder,0.1201,17.70416641,270,0,0,4,0,0,4,Arid,X,,,,x
+3474,2001,R235/T06,,,,Eucalyptus vittata,CCA4664,OK,,Eucalyptus vittata,Dumaria,Seeder,0.1201,17.70416641,270,0,0,4,0,0,4,Arid,X,,,,x
+3474,2001,R235/T07,,,,Eucalyptus vittata,CCA4665,OK,,Eucalyptus vittata,Dumaria,Seeder,0.1201,17.70416641,270,0,0,4,0,0,4,Arid,X,,,,x
+3474,2001,R235/T08,,,,Eucalyptus vittata,CCA4666,OK,,Eucalyptus vittata,Dumaria,Seeder,0.1201,17.70416641,270,0,0,4,0,0,4,Arid,X,,,,x
+3183,2001,R235/T25,D.Nicolle,"Edillilie, SA",Alive,Eucalyptus behriana,CCA4679,OK,,Eucalyptus behriana,Adnataria,Lignotuber,0.2803,16.37916565,500,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,,x
+3183,2001,R235/T26,D.Nicolle,"Edillilie, SA",Alive,Eucalyptus behriana,CCA4680,OK,,Eucalyptus behriana,Adnataria,Lignotuber,0.2803,16.37916565,500,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,,x
+3183,2001,R235/T27,D.Nicolle,"Edillilie, SA",Alive,Eucalyptus behriana,CCA4681,OK,,Eucalyptus behriana,Adnataria,Lignotuber,0.2803,16.37916565,500,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,,x
+3183,2001,R235/T28,D.Nicolle,"Edillilie, SA",Alive,Eucalyptus behriana,CCA4682,OK,,Eucalyptus behriana,Adnataria,Lignotuber,0.2803,16.37916565,500,1.5,0.577350269,4,1.5,0.577350269,4,Semiarid,X,x,,,x
+3710,2001,R238/T09,,,,Eucalyptus preissiana subsp. Lobata,CCA4732,OK,Small,Eucalyptus preissiana subsp. lobata,Frutices' ms,Lignotuber,0.3315,16.3375,573,1.5,1,4,1.5,1,4,Semiarid,X,,,,x
+3710,2001,R238/T10,,,,Eucalyptus preissiana subsp. Lobata,CCA4733,OK,,Eucalyptus preissiana subsp. lobata,Frutices' ms,Lignotuber,0.3315,16.3375,573,1.5,1,4,1.5,1,4,Semiarid,X,,,,x
+3710,2001,R238/T11,,,,Eucalyptus preissiana subsp. Lobata,CCA4734,OK,,Eucalyptus preissiana subsp. lobata,Frutices' ms,Lignotuber,0.3315,16.3375,573,1.5,1,4,1.5,1,4,Semiarid,X,,,,x
+3710,2001,R238/T12,,,,Eucalyptus preissiana subsp. Lobata,CCA4735,OK,,Eucalyptus preissiana subsp. lobata,Frutices' ms,Lignotuber,0.3315,16.3375,573,1.5,1,4,1.5,1,4,Semiarid,X,,,,x
+3549,2001,R239/T05,,,,Eucalyptus drummondii,,,,Eucalyptus drummondii,Bisectae,Lignotuber,0.5722,16.13750076,1077,1,,,0.5,,,DrySubhumid,,,,,x
+636,1994,R053/T31,,"Pokolbin, NSW",,Eucalyptus pumila,,,,Eucalyptus pumila,Pumilio,Lignotuber,0.4952,17.32917,804,0,,,0.333333333,,,Semiarid,X,,,X,
+636,1994,R053/T32,,"Pokolbin, NSW",,Eucalyptus pumila,,,,Eucalyptus pumila,Pumilio,Lignotuber,0.4952,17.32917,804,0,,,0.333333333,,,Semiarid,X,,,X,
+636,1994,R053/T33,,"Pokolbin, NSW",,Eucalyptus pumila,,,,Eucalyptus pumila,Pumilio,Lignotuber,0.4952,17.32917,804,0,,,0.333333333,,,Semiarid,X,,,X,
+3549,2001,R239/T07,,,,Eucalyptus drummondii,,,,Eucalyptus drummondii,Bisectae,Lignotuber,0.5722,16.13750076,1077,1,,,0.5,,,DrySubhumid,,,,,x
+2614,2002,R199/T28,,,,Eucalyptus eremicola subsp. eremicola,,,,Eucalyptus eremicola subsp. eremicola,Bisectae,Lignotuber,0.0573,19.34166718,157,0,0,,0,0,,Arid,X,,,,x
+2614,2002,R199/T30,,,,Eucalyptus eremicola subsp. eremicola,,,,Eucalyptus eremicola subsp. eremicola,Bisectae,Lignotuber,0.0573,19.34166718,157,0,0,,0,0,,Arid,X,,,,x
+4172,2002,R200/T21,,"Cooper Creek, SA",,Eucalyptus largiflorens,CCA3989,OK,Small,Eucalyptus largiflorens,Adnataria,Combination,0.046,21.82917,136,0,0,4,0,0,4,Hyperarid,X,x,,,x
+4172,2002,R200/T22,,"Cooper Creek, SA",,Eucalyptus largiflorens,CCA3990,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.046,21.82917,136,0,0,4,0,0,4,Hyperarid,X,x,,,x
+4172,2002,R200/T23,,"Cooper Creek, SA",,Eucalyptus largiflorens,CCA3991,OK,Small,Eucalyptus largiflorens,Adnataria,Combination,0.046,21.82917,136,0,0,4,0,0,4,Hyperarid,X,x,,,x
+4172,2002,R200/T24,,"Cooper Creek, SA",,Eucalyptus largiflorens,CCA3992,OK,,Eucalyptus largiflorens,Adnataria,Combination,0.046,21.82917,136,0,0,4,0,0,4,Hyperarid,X,x,,,x
+4303,2002,R200/T29,,"Wiluna, WA",,Eucalyptus gongylocarpa,,,,Eucalyptus gongylocarpa,Limbatae,Combination,0.0838,22.24583,256,0,,,0,,,Arid,X,,,,x
+4303,2002,R200/T30,,"Wiluna, WA",,Eucalyptus gongylocarpa,,,,Eucalyptus gongylocarpa,Limbatae,Combination,0.0838,22.24583,256,0,,,0,,,Arid,X,,,,x
+4303,2002,R200/T31,,"Wiluna, WA",,Eucalyptus gongylocarpa,,,,Eucalyptus gongylocarpa,Limbatae,Combination,0.0838,22.24583,256,0,,,0,,,Arid,X,,,,x
+4279,2002,R201/T13,D.Nicolle,"Rudall River, WA",Alive,Eucalyptus rowleyi,,,,Eucalyptus rowleyi,Adnataria,Lignotuber,0.0767,24.8875,248,0,,,0,,,Arid,,x,,,x
+4279,2002,R201/T15,D.Nicolle,"Rudall River, WA",Alive,Eucalyptus rowleyi,,,,Eucalyptus rowleyi,Adnataria,Lignotuber,0.0767,24.8875,248,0,,,0,,,Arid,,x,,,x
+4279,2002,R201/T16,D.Nicolle,"Rudall River, WA",Alive,Eucalyptus rowleyi,,,,Eucalyptus rowleyi,Adnataria,Lignotuber,0.0767,24.8875,248,0,,,0,,,Arid,,x,,,x
+1191,2002,R201/T21,D.Nicolle,"Mt Nameless 1, WA",Alive,Eucalyptus aridimontana,,,,Eucalyptus aridomontana,Adnataria,Lignotuber,0.1349,22.64166641,397,0,,,0,,,Arid,,x,,,x
+4184,2002,R202/T08,,"Mt Isa, Qld",,Eucalyptus nudicaulis,CCA4019,OK,Small,Eucalyptus nudicaulis,Exsertaria,Lignotuber,0.1631,24.4,476,0,0,4,0,0,4,Arid,X,x,,,x
+4184,2002,R202/T09,,"Mt Isa, Qld",,Eucalyptus nudicaulis,CCA4020,OK,Small,Eucalyptus nudicaulis,Exsertaria,Lignotuber,0.1631,24.4,476,0,0,4,0,0,4,Arid,X,x,,,x
+4184,2002,R202/T10,,"Mt Isa, Qld",,Eucalyptus nudicaulis,CCA4021,OK,Small,Eucalyptus nudicaulis,Exsertaria,Lignotuber,0.1631,24.4,476,0,0,4,0,0,4,Arid,X,x,,,x
+4184,2002,R202/T11,,"Mt Isa, Qld",,Eucalyptus nudicaulis,CCA4022,OK,Small,Eucalyptus nudicaulis,Exsertaria,Lignotuber,0.1631,24.4,476,0,0,4,0,0,4,Arid,X,x,,,x
+4179,2002,R203/T10,D.Nicolle,"Dajarra, Qld",Alive,Eucalyptus normantonensis,CCA4039,OK,Small,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1211,24.25833,354,0,0,4,0,0,4,Arid,X,x,,,x
+4179,2002,R203/T11,D.Nicolle,"Dajarra, Qld",Alive,Eucalyptus normantonensis,CCA4040,OK,,Eucalyptus normantonensis,Adnataria,Lignotuber,0.1211,24.25833,354,0,0,4,0,0,4,Arid,X,x,,,x
+3816,2002,R206/T05,,,,Eucalyptus singularis,CCA4114,OK,,Eucalyptus singularis,Dumaria,Seeder,0.1855,15.92083,358,1,1,4,0.333333333,0.577350269,4,Arid,X,,,,x
+3816,2002,R206/T06,,,,Eucalyptus singularis,CCA4115,OK,,Eucalyptus singularis,Dumaria,Seeder,0.1855,15.92083,358,1,1,4,0.333333333,0.577350269,4,Arid,X,,,,x
+3816,2002,R206/T07,,,,Eucalyptus singularis,CCA4116,OK,,Eucalyptus singularis,Dumaria,Seeder,0.1855,15.92083,358,1,1,4,0.333333333,0.577350269,4,Arid,X,,,,x
+4241,2002,R207/T13,,"Mt House Station, WA",,Eucalyptus argillacea,CCA4136,OK,Small,Eucalyptus argillacea,Adnataria,Combination,0.3061,26.6125,823,0,0,3,0,0,3,Semiarid,X,x,,,x
+4241,2002,R207/T14,,"Mt House Station, WA",,Eucalyptus argillacea,CCA4137,OK,Small,Eucalyptus argillacea,Adnataria,Combination,0.3061,26.6125,823,0,0,3,0,0,3,Semiarid,X,x,,,x
+4241,2002,R207/T15,,"Mt House Station, WA",,Eucalyptus argillacea,CCA4138,OK,Small,Eucalyptus argillacea,Adnataria,Combination,0.3061,26.6125,823,0,0,3,0,0,3,Semiarid,X,x,,,x
+3796,2002,R207/T20,,Warby Range Vic,,Eucalyptus blakelyi ,CCA4140,Only genomics,,Eucalyptus blakelyi,Exsertaria,Combination,0.4651,14.44167,747,0,0,4,0,0,4,Semiarid,,x,,,x
+3796,2002,R207/T21,,Warby Range Vic,,Eucalyptus blakelyi ,CCA4141,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.4651,14.44167,747,0,0,4,0,0,4,Semiarid,,x,,,x
+3796,2002,R207/T22,,Warby Range Vic,,Eucalyptus blakelyi ,CCA4142,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.4651,14.44167,747,0,0,4,0,0,4,Semiarid,,x,,,x
+3796,2002,R207/T23,,Warby Range Vic,,Eucalyptus blakelyi ,CCA4143,OK,,Eucalyptus blakelyi,Exsertaria,Combination,0.4651,14.44167,747,0,0,4,0,0,4,Semiarid,,x,,,x
+3797,2002,R241/T16,,"Buckland Valley, Vic",,Eucalyptus neglecta,,,,Eucalyptus neglecta,Maidenaria,Lignotuber,0.78,11.80417,1080,2.5,,,2,,,Humid,X,,,,x
+3797,2002,R241/T17,,"Buckland Valley, Vic",,Eucalyptus neglecta,,,,Eucalyptus neglecta,Maidenaria,Lignotuber,0.78,11.80417,1080,2.5,,,2,,,Humid,X,,,,x
+4258,2002,R245/T09,,"Coongan River, WA",,Eucalyptus camaldulensis subsp. refulgens,CCA4869,OK,,Eucalyptus camaldulensis subsp. refulgens,Exsertaria,Combination,0.0998,27.53333,312,0,0,4,0.333333333,0.577350269,4,Arid,,x,,,x
+4258,2002,R245/T10,,"Coongan River, WA",,Eucalyptus camaldulensis subsp. refulgens,CCA4870,OK,,Eucalyptus camaldulensis subsp. refulgens,Exsertaria,Combination,0.0998,27.53333,312,0,0,4,0.333333333,0.577350269,4,Arid,,x,,,x
+4258,2002,R245/T12,,"Coongan River, WA",,Eucalyptus camaldulensis subsp. refulgens,CCA4871,OK,,Eucalyptus camaldulensis subsp. refulgens,Exsertaria,Combination,0.0998,27.53333,312,0,0,4,0.333333333,0.577350269,4,Arid,,x,,,x
+5233,2010,R300/T25,D.Nicolle,"Yunta, SA",Alive,Eucalyptus camaldulensis subsp. minima,,,,Eucalyptus camaldulensis subsp. minima,Exsertaria,Combination,0.1081,17.05833,248,0,,,0.5,,,Arid,,x,,,x
+5233,2010,R300/T26,D.Nicolle,"Yunta, SA",Alive,Eucalyptus camaldulensis subsp. minima,,,,Eucalyptus camaldulensis subsp. minima,Exsertaria,Combination,0.1081,17.05833,248,0,,,0.5,,,Arid,,x,,,x
+5233,2010,R300/T27,D.Nicolle,"Yunta, SA",Alive,Eucalyptus camaldulensis subsp. minima,,,,Eucalyptus camaldulensis subsp. minima,Exsertaria,Combination,0.1081,17.05833,248,0,,,0.5,,,Arid,,x,,,x
+6453,2013,R243/T09,,"Flora Range, Qld",,Eucalyptus crebra,,,,Eucalyptus crebra,Adnataria,Combination,0.3159,22.60417,672,0,,,0,,,Semiarid,,x,x,,x
