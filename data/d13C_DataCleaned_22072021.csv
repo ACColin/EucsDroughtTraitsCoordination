@@ -1,0 +1,626 @@
+RowTree,d13C,totalN,totalC,CurrentName,Voucher,Provenance,YearPlanted,FieldID,DNNumber,Taxon,Collector,Collector.s..,Latitude.degrees..south.,Latitude.minutes..south.,Latitude.seconds..south.,Longitude.degrees..east.,Longitude.minutes..east.,Longitude.seconds..east.,Row,Tree,Status.in.Feb.2016,Drought.stress..June.2019.,Time.since.death..June.2019.,X2006.dieback.death,Maturity.at.June.2019
+R029/T06,-26.99,1.2,48,Eucalyptus flindersii,-,"Devils Peak, SA",1993,CCA0475,NA,Eucalyptus flindersii,-,-,32,24,53,137,59,17,29,6,Alive,None evident,,None evident,Flowered
+R029/T07,-26.25,1,48.4,Eucalyptus flindersii,-,"Devils Peak, SA",1993,CCA0476,NA,Eucalyptus flindersii,-,-,32,24,53,137,59,17,29,7,Alive,None evident,,None evident,Flowered
+R029/T09,-26.37,1.4,49.1,Eucalyptus flindersii,-,"Devils Peak, SA",1993,CCA0478,NA,Eucalyptus flindersii,-,-,32,24,53,137,59,17,29,9,Alive,None evident,,None evident,Flowered
+R011/T27,-28.55,1.1,47.1,Eucalyptus melanoxylon,DN 143,"Lake Gilmore, WA",1993,CCA0073,143,Eucalyptus melanoxylon,D.Nicolle,143,32,40,16,121,32,23,11,27,Alive,None evident,,None evident,Flowered
+R011/T28,-26.34,0.9,48.1,Eucalyptus melanoxylon,DN 143,"Lake Gilmore, WA",1993,CCA0074,143,Eucalyptus melanoxylon,D.Nicolle,143,32,40,16,121,32,23,11,28,Alive,None evident,,None evident,Flowered
+R011/T30,-26.54,1.1,49.8,Eucalyptus melanoxylon,DN 143,"Lake Gilmore, WA",1993,CCA0075,143,Eucalyptus melanoxylon,D.Nicolle,143,32,40,16,121,32,23,11,30,Alive,None evident,,None evident,Flowered
+R016/T41,-27.17,1.6,49.7,Eucalyptus camphora subsp. camphora,DN 616,"Wingello, NSW",1994,CCA0215,616,Eucalyptus camphora subsp. camphora (E. aquatica),D.Nicolle,616,34,39,26,150,13,1,16,41,Alive,Moderate,,Severe,Flowered
+R016/T42,-29.19,1.6,48.5,Eucalyptus camphora subsp. camphora,DN 616,"Wingello, NSW",1994,CCA0216,616,Eucalyptus camphora subsp. camphora (E. aquatica),D.Nicolle,616,34,39,26,150,13,1,16,42,Alive,Moderate,,Severe,Flowered
+R016/T43,-29.66,1.4,49.4,Eucalyptus camphora subsp. camphora,DN 616,"Wingello, NSW",1994,CCA0217,616,Eucalyptus camphora subsp. camphora (E. aquatica),D.Nicolle,616,34,39,26,150,13,1,16,43,Alive,Severe,,Severe,Flowered
+R039/T09,-26.56,1.7,49.8,Eucalyptus lucasii,DN 545,"Wiluna, WA",1994,CCA0499,545,Eucalyptus lucasii,D.Nicolle,545,26,35,28,120,6,59,39,9,Alive,None evident,,None evident,Flowered
+R039/T11,-25.84,1.5,50.5,Eucalyptus lucasii,DN 545,"Wiluna, WA",1994,CCA0501,545,Eucalyptus lucasii,D.Nicolle,545,26,35,28,120,6,59,39,11,Alive,None evident,,None evident,Flowered
+R039/T12,-25.41,1.4,48.7,Eucalyptus lucasii,DN 545,"Wiluna, WA",1994,CCA0502,545,Eucalyptus lucasii,D.Nicolle,545,26,35,28,120,6,59,39,12,Alive,None evident,,None evident,Flowered
+R040/T12,-28.61,1.5,49.1,Eucalyptus porosa,DN 482,"Mt Wudinna, SA",1994,CCA0525,482,Eucalyptus porosa,D.Nicolle,482,32,59,9,135,32,49,40,12,Alive,None evident,,None evident,Flowered
+R040/T14,-27.29,1.3,50.2,Eucalyptus porosa,DN 482,"Mt Wudinna, SA",1994,CCA0527,482,Eucalyptus porosa,D.Nicolle,482,32,59,9,135,32,49,40,14,Alive,None evident,,None evident,Flowered
+R040/T15,-30.39,1.1,50.3,Eucalyptus porosa,DN 482,"Mt Wudinna, SA",1994,CCA0528,482,Eucalyptus porosa,D.Nicolle,482,32,59,9,135,32,49,40,15,Alive,None evident,,None evident,Flowered
+R041/T32,-28.4,0.7,48.2,Eucalyptus stoatei,DN 181,"Jerdacuttup, WA",1994,CCA0564,181,Eucalyptus stoatei,D.Nicolle,181,33,43,33,120,23,27,41,32,Alive,None evident,,None evident,Flowered
+R041/T33,-28.42,0.8,50.9,Eucalyptus stoatei,DN 181,"Jerdacuttup, WA",1994,CCA0565,181,Eucalyptus stoatei,D.Nicolle,181,33,43,33,120,23,27,41,33,Alive,None evident,,None evident,Flowered
+R041/T34,-27.64,0.8,50.6,Eucalyptus stoatei,DN 181,"Jerdacuttup, WA",1994,CCA0566,181,Eucalyptus stoatei,D.Nicolle,181,33,43,33,120,23,27,41,34,Alive,None evident,,None evident,Flowered
+R042/T08,-25.6,1,50.6,Eucalyptus sparsa,DN 427,"Everard Ranges, SA",1994,CCA0572,427,Eucalyptus sparsa,D.Nicolle,427,27,0,34,132,30,56,42,8,Alive,None evident,,None evident,Flowered
+R042/T10,-25.49,1.2,49,Eucalyptus sparsa,DN 427,"Everard Ranges, SA",1994,CCA0573,427,Eucalyptus sparsa,D.Nicolle,427,27,0,34,132,30,56,42,10,Alive,None evident,,None evident,Flowered
+R042/T11,-25.44,1.1,50.7,Eucalyptus sparsa,DN 427,"Everard Ranges, SA",1994,CCA0574,427,Eucalyptus sparsa,D.Nicolle,427,27,0,34,132,30,56,42,11,Alive,None evident,,None evident,Flowered
+R042/T32,-26.2,0.8,50.4,Eucalyptus utilis,DN 215,"Beaufort Inlet, WA",1994,CCA0588,215,Eucalyptus utilis,D.Nicolle,215,34,27,12,118,52,33,42,32,Alive,None evident,,None evident,Flowered
+R042/T34,-28.02,0.8,49.7,Eucalyptus utilis,DN 215,"Beaufort Inlet, WA",1994,CCA0590,215,Eucalyptus utilis,D.Nicolle,215,34,27,12,118,52,33,42,34,Alive,None evident,,None evident,Flowered
+R044/T01,-28.82,1,49.5,Eucalyptus cneorifolia,DN 75,"Waitpinga, SA",1994,CCA0615,75,Eucalyptus cneorifolia,D.Nicolle,75,35,34,,138,32,,44,1,Alive,Moderate,,None evident,Flowered
+R044/T03,-27.16,1.3,49.3,Eucalyptus cneorifolia,DN 75,"Waitpinga, SA",1994,CCA0616,75,Eucalyptus cneorifolia,D.Nicolle,75,35,34,,138,32,,44,3,Alive,Slight,,None evident,Flowered
+R044/T04,-28.64,0.9,49.5,Eucalyptus cneorifolia,DN 75,"Waitpinga, SA",1994,CCA0617,75,Eucalyptus cneorifolia,D.Nicolle,75,35,34,,138,32,,44,4,Alive,Moderate,,None evident,Flowered
+R045/T14,-29.75,0.8,47.2,Eucalyptus intertexta,DN 423,"Everard Ranges, SA",1994,CCA0651,423,Eucalyptus intertexta,D.Nicolle,423,27,2,20,132,32,55,45,14,Alive,None evident,,None evident,Flowered
+R045/T15,-29.15,0.9,47.7,Eucalyptus intertexta,DN 423,"Everard Ranges, SA",1994,CCA0652,423,Eucalyptus intertexta,D.Nicolle,423,27,2,20,132,32,55,45,15,Alive,None evident,,None evident,Flowered
+R045/T16,-29.13,1,48.6,Eucalyptus intertexta,DN 423,"Everard Ranges, SA",1994,CCA0653,423,Eucalyptus intertexta,D.Nicolle,423,27,2,20,132,32,55,45,16,Alive,None evident,,None evident,Flowered
+R046/T36,-29.39,1.1,49.3,Eucalyptus polyanthemos subsp. polyanthemos,DN 742,"Rylstone, NSW",1994,CCA0672,742,Eucalyptus polyanthemos subsp. polyanthemos,D.Nicolle,742,32,41,37,150,0,10,46,36,Alive,None evident,,None evident,Flowered
+R047/T05,-28.4,1.1,48.5,Eucalyptus conica,DN 747,"Bylong, NSW",1994,CCA0677,747,Eucalyptus conica,D.Nicolle,747,32,24,14,150,13,20,47,5,Alive,Slight,,Slight,Flowered
+R047/T06,-27.45,1.3,49.8,Eucalyptus conica,DN 747,"Bylong, NSW",1994,CCA0678,747,Eucalyptus conica,D.Nicolle,747,32,24,14,150,13,20,47,6,Alive,Slight,,None evident,Flowered
+R047/T08,-28.47,1.1,50.1,Eucalyptus conica,DN 747,"Bylong, NSW",1994,CCA0679,747,Eucalyptus conica,D.Nicolle,747,32,24,14,150,13,20,47,8,Alive,Slight,,Moderate,
+R047/T19,-28.98,1,48.3,Eucalyptus dawsonii,DN 743,"Ginghi, NSW",1994,CCA0687,743,Eucalyptus dawsonii,D.Nicolle,743,32,36,31,150,4,29,47,19,Alive,None evident,,None evident,Flowered
+R047/T20,-28.83,1.1,48.9,Eucalyptus dawsonii,DN 743,"Ginghi, NSW",1994,CCA0688,743,Eucalyptus dawsonii,D.Nicolle,743,32,36,31,150,4,29,47,20,Alive,Slight,,None evident,Flowered
+R047/T21,-28.13,1.2,49.3,Eucalyptus dawsonii,DN 743,"Ginghi, NSW",1994,CCA0689,743,Eucalyptus dawsonii,D.Nicolle,743,32,36,31,150,4,29,47,21,Alive,Slight,,None evident,Flowered
+R048/T13,-25.9,0.9,50,Eucalyptus melliodora,DN 777,"Rylstone, NSW",1994,CCA0704,777,Eucalyptus melliodora,D.Nicolle,777,32,42,44,149,57,58,48,13,Alive,Slight,,None evident,Flowered
+R048/T14,-28.91,1,48.2,Eucalyptus melliodora,DN 777,"Rylstone, NSW",1994,CCA0705,777,Eucalyptus melliodora,D.Nicolle,777,32,42,44,149,57,58,48,14,Alive,None evident,,None evident,Flowered
+R048/T15,-27.78,1.2,48.3,Eucalyptus melliodora,DN 777,"Rylstone, NSW",1994,CCA0706,777,Eucalyptus melliodora,D.Nicolle,777,32,42,44,149,57,58,48,15,Alive,Slight,,None evident,Flowered
+R048/T18,-28.75,1,47.7,Eucalyptus caleyi subsp. caleyi,DN 746,"Bylong, NSW",1994,CCA0709,746,Eucalyptus caleyi subsp. caleyi,D.Nicolle,746,32,24,13,150,13,41,48,18,Alive,None evident,,None evident,Flowered
+R048/T19,-29.09,0.9,47,Eucalyptus caleyi subsp. caleyi,DN 746,"Bylong, NSW",1994,CCA0710,746,Eucalyptus caleyi subsp. caleyi,D.Nicolle,746,32,24,13,150,13,41,48,19,Alive,None evident,,None evident,Flowered
+R048/T22,-29.56,1.1,49.2,Eucalyptus polybractea,DN 736,"West Wyalong, NSW",1994,CCA0713,736,Eucalyptus polybractea,D.Nicolle,736,33,53,32,147,4,24,48,22,Alive,None evident,,None evident,Flowered
+R048/T23,-29.8,0.9,49.3,Eucalyptus polybractea,DN 736,"West Wyalong, NSW",1994,CCA0714,736,Eucalyptus polybractea,D.Nicolle,736,33,53,32,147,4,24,48,23,Alive,None evident,,None evident,Flowered
+R048/T24,-28.8,1,49.9,Eucalyptus polybractea,DN 736,"West Wyalong, NSW",1994,CCA0715,736,Eucalyptus polybractea,D.Nicolle,736,33,53,32,147,4,24,48,24,Alive,None evident,,None evident,Flowered
+R048/T25,-28.27,1.3,48.7,Eucalyptus dwyeri,DN 751,"Wollar, NSW",1994,CCA0716,751,Eucalyptus dwyeri,D.Nicolle,751,32,18,7,150,2,50,48,25,Alive,None evident,,Moderate,Flowered
+R048/T28,-28.65,0.8,50.7,Eucalyptus dwyeri,DN 751,"Wollar, NSW",1994,CCA0719,751,Eucalyptus dwyeri,D.Nicolle,751,32,18,7,150,2,50,48,28,Alive,None evident,,None evident,Flowered
+R048/T27,-27.32,1,50.4,Eucalyptus dwyeri,DN 751,"Wollar, NSW",1994,CCA0718,751,Eucalyptus dwyeri,D.Nicolle,751,32,18,7,150,2,50,48,27,Alive,None evident,,Moderate,Flowered
+R049/T01,-28.06,1,48.9,Eucalyptus viridis,DN 729,"Hermidale, NSW",1994,CCA0728,729,Eucalyptus viridis,D.Nicolle,729,31,33,37,146,30,33,49,1,Alive,None evident,,None evident,Flowered
+R049/T02,-28.57,1.3,50.2,Eucalyptus viridis,DN 729,"Hermidale, NSW",1994,CCA0729,729,Eucalyptus viridis,D.Nicolle,729,31,33,37,146,30,33,49,2,Alive,None evident,,None evident,Flowered
+R049/T03,-28.79,1,49.6,Eucalyptus viridis,DN 729,"Hermidale, NSW",1994,CCA0730,729,Eucalyptus viridis,D.Nicolle,729,31,33,37,146,30,33,49,3,Alive,None evident,,None evident,Flowered
+R049/T05,-27.83,1,47.4,Eucalyptus woollsiana,DN 681,"Kogan, Qld",1994,CCA0732,681,Eucalyptus woollsiana (E. pilligaensis),D.Nicolle,681,27,9,4,150,39,31,49,5,Alive,None evident,,None evident,
+R049/T06,-28.04,1,46.7,Eucalyptus woollsiana,DN 681,"Kogan, Qld",1994,CCA0733,681,Eucalyptus woollsiana (E. pilligaensis),D.Nicolle,681,27,9,4,150,39,31,49,6,Alive,None evident,,None evident,
+R049/T08,-29.47,1,49.1,Eucalyptus woollsiana,DN 681,"Kogan, Qld",1994,CCA0735,681,Eucalyptus woollsiana (E. pilligaensis),D.Nicolle,681,27,9,4,150,39,31,49,8,Alive,None evident,,None evident,
+R049/T15,-26.84,1.1,49.8,Eucalyptus morrisii,DN 730,"Mt Boppy, NSW",1994,CCA0742,730,Eucalyptus morrisii,D.Nicolle,730,31,32,27,146,16,47,49,15,Alive,None evident,,None evident,Flowered
+R049/T17,-28.83,0.8,48,Eucalyptus melanophloia subsp. melanophloia,DN 690,"Wandoan, Qld",1994,CCA0743,690,Eucalyptus melanophloia subsp. melanophloia,D.Nicolle,690,26,16,2,150,2,53,49,17,Alive,None evident,,None evident,Flowered
+R049/T20,-28.74,1.2,50.2,Eucalyptus tereticornis subsp. tereticornis,DN 713,"Bororen, Qld",1994,CCA0746,713,Eucalyptus tereticornis subsp. tereticornis,D.Nicolle,713,24,6,41,151,25,54,49,20,Alive,Moderate,,None evident,
+R049/T21,-28.49,1.2,50,Eucalyptus tereticornis subsp. tereticornis,DN 713,"Bororen, Qld",1994,CCA0747,713,Eucalyptus tereticornis subsp. tereticornis,D.Nicolle,713,24,6,41,151,25,54,49,21,Alive,Moderate,,None evident,
+R049/T23,-28.36,1.2,50.3,Eucalyptus tereticornis subsp. tereticornis,DN 713,"Bororen, Qld",1994,CCA0749,713,Eucalyptus tereticornis subsp. tereticornis,D.Nicolle,713,24,6,41,151,25,54,49,23,Alive,Moderate,,None evident,
+R049/T24,-28.52,0.8,48.3,Eucalyptus moluccana,DN 712,"Gladstone, Qld",1994,CCA0750,712,Eucalyptus moluccana,D.Nicolle,712,23,48,4,150,57,12,49,24,Alive,Slight,,None evident,Flowered
+R049/T25,-28.39,0.7,47.8,Eucalyptus moluccana,DN 712,"Gladstone, Qld",1994,CCA0751,712,Eucalyptus moluccana,D.Nicolle,712,23,48,4,150,57,12,49,25,Alive,Slight,,None evident,Flowered
+R049/T26,-28.13,0.8,47.3,Eucalyptus moluccana,DN 712,"Gladstone, Qld",1994,CCA0752,712,Eucalyptus moluccana,D.Nicolle,712,23,48,4,150,57,12,49,26,Alive,None evident,,None evident,Flowered
+R050/T01,-28.24,0.9,46.9,Eucalyptus blakelyi,DN 722,"Inverell, NSW",1994,CCA0758,722,Eucalyptus blakelyi,D.Nicolle,722,29,44,45,151,33,38,50,1,Alive,None evident,,None evident,Flowered
+R050/T03,-28.23,1.3,51,Eucalyptus blakelyi,DN 722,"Inverell, NSW",1994,CCA0759,722,Eucalyptus blakelyi,D.Nicolle,722,29,44,45,151,33,38,50,3,Alive,None evident,,Severe,Flowered
+R050/T04,-27.47,1.4,49.1,Eucalyptus blakelyi,DN 722,"Inverell, NSW",1994,CCA0760,722,Eucalyptus blakelyi,D.Nicolle,722,29,44,45,151,33,38,50,4,Alive,None evident,,None evident,Flowered
+R050/T06,-29.08,1.2,49.9,Eucalyptus dealbata,DN 723,"Inverell, NSW",1994,CCA0762,723,Eucalyptus dealbata,D.Nicolle,723,29,54,13,150,29,14,50,6,Alive,Slight,,None evident,
+R050/T09,-28.31,1.2,46.4,Eucalyptus dealbata,DN 724,"Nandewar Range, NSW",1994,CCA0765,724,Eucalyptus dealbata,D.Nicolle,724,30,8,23,150,4,4,50,9,Alive,Moderate,,None evident,Flowered
+R050/T11,-27.12,1.1,49.7,Eucalyptus dealbata,DN 724,"Nandewar Range, NSW",1994,CCA0766,724,Eucalyptus dealbata,D.Nicolle,724,30,8,23,150,4,4,50,11,Alive,None evident,,None evident,Flowered
+R050/T15,-30.25,1.1,48.6,Eucalyptus fibrosa,DN 666,"Baryulgil, NSW",1994,CCA0770,666,Eucalyptus fibrosa,D.Nicolle,666,29,18,8,152,38,41,50,15,Alive,None evident,,None evident,Flowered
+R050/T13,-28.39,0.7,46.8,Eucalyptus fibrosa,DN 666,"Baryulgil, NSW",1994,CCA0768,666,Eucalyptus fibrosa,D.Nicolle,666,29,18,8,152,38,41,50,13,Alive,None evident,,None evident,Flowered
+R050/T16,-29.17,1.3,47.7,Eucalyptus fibrosa,DN 666,"Baryulgil, NSW",1994,CCA0771,666,Eucalyptus fibrosa,D.Nicolle,666,29,18,8,152,38,41,50,16,Alive,None evident,,None evident,Flowered
+R050/T21,-26.11,1.2,49.2,Eucalyptus kabiana,DN 720,"Mt Beerwah, Qld",1994,CCA0772,720,Eucalyptus kabiana,D.Nicolle,720,26,53,42,152,52,51,50,21,Alive,None evident,,None evident,Flowered
+R050/T22,-26.85,1.2,49.1,Eucalyptus kabiana,DN 720,"Mt Beerwah, Qld",1994,CCA0773,720,Eucalyptus kabiana,D.Nicolle,720,26,53,42,152,52,51,50,22,Alive,None evident,,None evident,Flowered
+R050/T23,-28.77,1.4,49.3,Eucalyptus kabiana,DN 720,"Mt Beerwah, Qld",1994,CCA0774,720,Eucalyptus kabiana,D.Nicolle,720,26,53,42,152,52,51,50,23,Alive,None evident,,None evident,Flowered
+R050/T33,-27.4,1.4,49.8,Eucalyptus banksii,DN 653,"Armidale, NSW",1994,CCA0780,653,Eucalyptus banksii,D.Nicolle,653,30,24,6,151,42,4,50,33,Alive,None evident,,None evident,Flowered
+R050/T35,-28.02,0.8,47.5,Eucalyptus banksii,DN 653,"Armidale, NSW",1994,CCA0781,653,Eucalyptus banksii,D.Nicolle,653,30,24,6,151,42,4,50,35,Alive,Slight,,None evident,Flowered
+R050/T36,-27.93,1.1,48.9,Eucalyptus banksii,DN 653,"Armidale, NSW",1994,CCA0782,653,Eucalyptus banksii,D.Nicolle,653,30,24,6,151,42,4,50,36,Alive,Slight,,None evident,Flowered
+R051/T01,-29.96,1.2,50.6,Eucalyptus elegans,DN 680,"Kogan, Qld",1994,CCA0783,680,Eucalyptus elegans,D.Nicolle,680,27,7,0,150,41,36,51,1,Alive,None evident,,None evident,Flowered
+R051/T03,-29.89,1.5,49.2,Eucalyptus elegans,DN 680,"Kogan, Qld",1994,CCA0784,680,Eucalyptus elegans,D.Nicolle,680,27,7,0,150,41,36,51,3,Alive,None evident,,None evident,
+R051/T04,-29.28,1.5,49.3,Eucalyptus elegans,DN 680,"Kogan, Qld",1994,CCA0785,680,Eucalyptus elegans,D.Nicolle,680,27,7,0,150,41,36,51,4,Alive,None evident,,None evident,
+R051/T07,-28.33,1,47.9,Eucalyptus argophloia,DN 686,"Burncluith, Qld",1994,CCA0788,686,Eucalyptus argophloia,D.Nicolle,686,26,37,52,150,44,5,51,7,Alive,None evident,,None evident,Flowered
+R051/T05,-29.05,1,49,Eucalyptus argophloia,DN 686,"Burncluith, Qld",1994,CCA0786,686,Eucalyptus argophloia,D.Nicolle,686,26,37,52,150,44,5,51,5,Alive,None evident,,None evident,Flowered
+R051/T08,-28.52,1,48.4,Eucalyptus argophloia,DN 686,"Burncluith, Qld",1994,CCA0789,686,Eucalyptus argophloia,D.Nicolle,686,26,37,52,150,44,5,51,8,Alive,None evident,,None evident,Flowered
+R051/T14,-26.2,1.3,51.8,Eucalyptus smithii,DN 598,"Mother Woila, NSW",1994,CCA0793,598,Eucalyptus smithii,D.Nicolle,598,36,0,15,149,39,28,51,14,Alive,Moderate,,Moderate,
+R051/T15,-28.27,1,51.3,Eucalyptus smithii,DN 598,"Mother Woila, NSW",1994,CCA0794,598,Eucalyptus smithii,D.Nicolle,598,36,0,15,149,39,28,51,15,Alive,Slight,,Severe,
+R051/T16,-27.24,2,50.1,Eucalyptus smithii,DN 598,"Mother Woila, NSW",1994,CCA0795,598,Eucalyptus smithii,D.Nicolle,598,36,0,15,149,39,28,51,16,Alive,Moderate,,Moderate,
+R052/T01,-25.32,1,50.3,Eucalyptus prava,DN 671,"Mt Norman, Qld",1994,CCA0800,671,Eucalyptus prava,D.Nicolle,671,28,52,,151,58,,52,1,Alive,Slight,,Moderate,Flowered
+R052/T04,-27.96,1.7,48.8,Eucalyptus prava,DN 671,"Mt Norman, Qld",1994,CCA0802,671,Eucalyptus prava,D.Nicolle,671,28,52,,151,58,,52,4,Alive,None evident,,Moderate,Flowered
+R052/T06,-28.09,1.5,49.5,Eucalyptus amplifolia subsp. sessiliflora,DN 668,"Tenterfield, NSW",1994,CCA0804,668,Eucalyptus amplifolia subsp. sessiliflora,D.Nicolle,668,29,4,47,152,0,16,52,6,Alive,Slight,,None evident,Flowered
+R052/T07,-28.45,1,49.3,Eucalyptus amplifolia subsp. sessiliflora,DN 668,"Tenterfield, NSW",1994,CCA0805,668,Eucalyptus amplifolia subsp. sessiliflora,D.Nicolle,668,29,4,47,152,0,16,52,7,Alive,None evident,,None evident,Flowered
+R052/T08,-29.22,1,50.1,Eucalyptus amplifolia subsp. sessiliflora,DN 668,"Tenterfield, NSW",1994,CCA0806,668,Eucalyptus amplifolia subsp. sessiliflora,D.Nicolle,668,29,4,47,152,0,16,52,8,Alive,Slight,,None evident,Flowered
+R052/T09,-29.01,1.4,49.4,Eucalyptus sideroxylon,DN 674,"Wallangarra, Qld",1994,CCA0807,674,Eucalyptus sideroxylon,D.Nicolle,674,28,54,3,151,54,28,52,9,Alive,None evident,,None evident,
+R052/T10,-30.57,1,50,Eucalyptus sideroxylon,DN 674,"Wallangarra, Qld",1994,CCA0808,674,Eucalyptus sideroxylon,D.Nicolle,674,28,54,3,151,54,28,52,10,Alive,None evident,,None evident,
+R052/T12,-30.01,1.4,51.4,Eucalyptus sideroxylon,DN 674,"Wallangarra, Qld",1994,CCA0810,674,Eucalyptus sideroxylon,D.Nicolle,674,28,54,3,151,54,28,52,12,Alive,None evident,,None evident,Flowered
+R053/T05,-28.64,1.2,50.1,Eucalyptus nubilis,DN 685,"Tara, Qld",1994,CCA0823,685,Eucalyptus nubilis (E. fibrosa subsp. nubila),D.Nicolle,685,27,3,22,150,30,34,53,5,Alive,None evident,,None evident,Flowered
+R053/T06,-30.2,0.9,50.3,Eucalyptus nubilis,DN 685,"Tara, Qld",1994,CCA0824,685,Eucalyptus nubilis (E. fibrosa subsp. nubila),D.Nicolle,685,27,3,22,150,30,34,53,6,Alive,None evident,,None evident,Flowered
+R053/T08,-30.63,0.7,50.5,Eucalyptus nubilis,DN 685,"Tara, Qld",1994,CCA0826,685,Eucalyptus nubilis (E. fibrosa subsp. nubila),D.Nicolle,685,27,3,22,150,30,34,53,8,Alive,None evident,,None evident,Flowered
+R053/T09,-28.94,1.2,50.6,Eucalyptus paniculata,DN 639,"Nelson Bay, NSW",1994,CCA0827,639,Eucalyptus paniculata (subsp. matutina),D.Nicolle,639,32,44,0,152,10,45,53,9,Alive,None evident,,None evident,Flowered
+R053/T10,-27.84,0.9,49.4,Eucalyptus paniculata,DN 639,"Nelson Bay, NSW",1994,CCA0828,639,Eucalyptus paniculata (subsp. matutina),D.Nicolle,639,32,44,0,152,10,45,53,10,Alive,None evident,,None evident,Flowered
+R053/T11,-27.77,1,49.7,Eucalyptus paniculata,DN 639,"Nelson Bay, NSW",1994,CCA0829,639,Eucalyptus paniculata (subsp. matutina),D.Nicolle,639,32,44,0,152,10,45,53,11,Alive,None evident,,None evident,Flowered
+R053/T17,-28.02,1.4,50,Eucalyptus amplifolia subsp. amplifolia,DN 604,"Nerriga, NSW",1994,CCA0833,604,Eucalyptus amplifolia subsp. amplifolia,D.Nicolle,604,35,5,41,150,6,56,53,17,Alive,Slight,,Slight,
+R053/T18,-27.67,1.5,50.1,Eucalyptus amplifolia subsp. amplifolia,DN 604,"Nerriga, NSW",1994,CCA0834,604,Eucalyptus amplifolia subsp. amplifolia,D.Nicolle,604,35,5,41,150,6,56,53,18,Alive,Slight,,None evident,Flowered
+R053/T19,-27.6,1.6,50.1,Eucalyptus amplifolia subsp. amplifolia,DN 604,"Nerriga, NSW",1994,CCA0835,604,Eucalyptus amplifolia subsp. amplifolia,D.Nicolle,604,35,5,41,150,6,56,53,19,Alive,None evident,,None evident,Flowered
+R053/T25,-32.04,0.8,51,Eucalyptus dura,DN 689,"Barakula State Forest, Qld",1994,CCA0841,689,Eucalyptus dura,D.Nicolle,689,26,21,9,150,52,5,53,25,Alive,None evident,,None evident,
+R053/T26,-29.96,0.9,49.9,Eucalyptus dura,DN 689,"Barakula State Forest, Qld",1994,CCA0842,689,Eucalyptus dura,D.Nicolle,689,26,21,9,150,52,5,53,26,Alive,None evident,,None evident,Flowered
+R053/T27,-27.14,1.3,49.9,Eucalyptus dura,DN 689,"Barakula State Forest, Qld",1994,CCA0843,689,Eucalyptus dura,D.Nicolle,689,26,21,9,150,52,5,53,27,Alive,None evident,,None evident,Flowered
+R053/T33,-30.06,1.3,48.8,Eucalyptus panda,DN 683,"Tara, Qld",1994,CCA0848,683,Eucalyptus panda,D.Nicolle,683,27,7,57,150,29,0,53,33,Alive,None evident,,None evident,Flowered
+R053/T35,-28.01,1.5,49.3,Eucalyptus panda,DN 683,"Tara, Qld",1994,CCA0849,683,Eucalyptus panda,D.Nicolle,683,27,7,57,150,29,0,53,35,Alive,None evident,,None evident,Flowered
+R053/T36,-28.25,1.1,48.4,Eucalyptus panda,DN 683,"Tara, Qld",1994,CCA0850,683,Eucalyptus panda,D.Nicolle,683,27,7,57,150,29,0,53,36,Alive,None evident,,None evident,Flowered
+R054/T13,-29.03,1.1,49,Eucalyptus siderophloia,DN 717,"Gympie, Qld",1994,CCA0856,717,Eucalyptus siderophloia,D.Nicolle,717,26,8,8,152,34,50,54,13,Alive,Slight,,None evident,Flowered
+R054/T14,-29.16,0.9,47.1,Eucalyptus siderophloia,DN 717,"Gympie, Qld",1994,CCA0857,717,Eucalyptus siderophloia,D.Nicolle,717,26,8,8,152,34,50,54,14,Alive,Slight,,None evident,Flowered
+R054/T15,-27.48,1.1,49.2,Eucalyptus siderophloia,DN 717,"Gympie, Qld",1994,CCA0858,717,Eucalyptus siderophloia,D.Nicolle,717,26,8,8,152,34,50,54,15,Alive,None evident,,None evident,Flowered
+R054/T16,-30.16,1.1,49.5,Eucalyptus cambageana,DN 697,"Moura, Qld",1994,CCA0859,697,Eucalyptus cambageana,D.Nicolle,697,24,42,24,150,0,52,54,16,Alive,None evident,,None evident,Flowered
+R054/T18,-28.7,1,49.7,Eucalyptus cambageana,DN 697,"Moura, Qld",1994,CCA0860,697,Eucalyptus cambageana,D.Nicolle,697,24,42,24,150,0,52,54,18,Alive,None evident,,None evident,Flowered
+R054/T19,-28.67,1.2,50.5,Eucalyptus cambageana,DN 697,"Moura, Qld",1994,CCA0861,697,Eucalyptus cambageana,D.Nicolle,697,24,42,24,150,0,52,54,19,Alive,None evident,,None evident,Flowered
+R054/T21,-25.06,1.3,46.2,Eucalyptus orgadophila,DN 698,"Rolleston, Qld",1994,CCA0863,698,Eucalyptus orgadophila,D.Nicolle,698,24,34,37,148,54,2,54,21,Alive,Slight,,None evident,Flowered
+R054/T22,-28.95,1.4,47.8,Eucalyptus orgadophila,DN 698,"Rolleston, Qld",1994,CCA0864,698,Eucalyptus orgadophila,D.Nicolle,698,24,34,37,148,54,2,54,22,Alive,None evident,,None evident,Flowered
+R054/T23,-29.54,1,47.5,Eucalyptus orgadophila,DN 698,"Rolleston, Qld",1994,CCA0865,698,Eucalyptus orgadophila,D.Nicolle,698,24,34,37,148,54,2,54,23,Alive,None evident,,None evident,Flowered
+R056/T08,-28.54,1.2,49.4,Eucalyptus parramattensis subsp. decadens,DN 641,"Williamstown, NSW",1994,CCA0895,641,Eucalyptus parramattensis subsp. decadens,D.Nicolle,641,32,46,59,151,53,14,56,8,Alive,Slight,,Moderate,Flowered
+R056/T09,-27.32,1.1,49.3,Eucalyptus parramattensis subsp. decadens,DN 641,"Williamstown, NSW",1994,CCA0896,641,Eucalyptus parramattensis subsp. decadens,D.Nicolle,641,32,46,59,151,53,14,56,9,Alive,Slight,,Moderate,Flowered
+R056/T10,-27.89,1.3,50.2,Eucalyptus parramattensis subsp. decadens,DN 641,"Williamstown, NSW",1994,CCA0897,641,Eucalyptus parramattensis subsp. decadens,D.Nicolle,641,32,46,59,151,53,14,56,10,Alive,Slight,,None evident,Flowered
+R058/T01,-27.38,0.9,49.9,Eucalyptus mckieana?,DN 659,"Tingha, NSW",1994,CCA0921,659,Eucalyptus mckieana,D.Nicolle,659,29,59,0,151,27,42,58,1,Alive,None evident,,None evident,
+R058/T03,-26.55,0.8,51.2,Eucalyptus mckieana?,DN 659,"Tingha, NSW",1994,CCA0922,659,Eucalyptus mckieana,D.Nicolle,659,29,59,0,151,27,42,58,3,Alive,None evident,,None evident,
+R058/T04,-29.19,0.8,51.4,Eucalyptus hallii,DN 716,"Goodwood, Qld",1994,CCA0923,716,Eucalyptus hallii,D.Nicolle,716,25,10,12,152,22,20,58,4,Alive,None evident,,None evident,
+R058/T05,-29.07,0.9,50.1,Eucalyptus hallii,DN 716,"Goodwood, Qld",1994,CCA0924,716,Eucalyptus hallii,D.Nicolle,716,25,10,12,152,22,20,58,5,Alive,None evident,,None evident,Flowered
+R058/T06,-29.38,0.8,49.8,Eucalyptus hallii,DN 716,"Goodwood, Qld",1994,CCA0925,716,Eucalyptus hallii,D.Nicolle,716,25,10,12,152,22,20,58,6,Alive,None evident,,None evident,Flowered
+R058/T12,-28.43,1.2,50.1,Eucalyptus ancophila,DN 646,"Eungai Creek, NSW",1994,CCA0927,646,Eucalyptus ancophila,D.Nicolle,646,30,48,59,152,51,12,58,12,Alive,None evident,,None evident,Flowered
+R058/T14,-27.58,0.9,50.2,Eucalyptus ancophila,DN 646,"Eungai Creek, NSW",1994,CCA0929,646,Eucalyptus ancophila,D.Nicolle,646,30,48,59,152,51,12,58,14,Alive,None evident,,None evident,Flowered
+R058/T15,-26.96,1.2,49.7,Eucalyptus ancophila,DN 646,"Eungai Creek, NSW",1994,CCA0930,646,Eucalyptus ancophila,D.Nicolle,646,30,48,59,152,51,12,58,15,Alive,Slight,,None evident,Flowered
+R059/T12,-29.35,1.1,48.7,Eucalyptus populnea subsp. populnea,DN 679,"Kogan, Qld",1994,CCA0940,679,Eucalyptus populnea subsp. populnea,D.Nicolle,679,27,7,0,150,41,36,59,12,Alive,Slight,,None evident,
+R059/T13,-29.05,1.1,49.9,Eucalyptus populnea subsp. populnea,DN 679,"Kogan, Qld",1994,CCA0941,679,Eucalyptus populnea subsp. populnea,D.Nicolle,679,27,7,0,150,41,36,59,13,Alive,Moderate,,None evident,
+R059/T15,-28.14,1,49.1,Eucalyptus populnea subsp. populnea,DN 679,"Kogan, Qld",1994,CCA0943,679,Eucalyptus populnea subsp. populnea,D.Nicolle,679,27,7,0,150,41,36,59,15,Alive,Slight,,None evident,Flowered
+R060/T01,-27.17,1.2,50.6,Eucalyptus vicina,DN 728,"Hermidale, NSW",1994,CCA0947,728,Eucalyptus vicina,D.Nicolle,728,31,33,4,146,41,29,60,1,Alive,None evident,,None evident,Flowered
+R060/T02,-29.23,1,48.5,Eucalyptus vicina,DN 728,"Hermidale, NSW",1994,CCA0948,728,Eucalyptus vicina,D.Nicolle,728,31,33,4,146,41,29,60,2,Alive,None evident,,None evident,Flowered
+R060/T03,-27.48,1.5,51.4,Eucalyptus vicina,DN 728,"Hermidale, NSW",1994,CCA0949,728,Eucalyptus vicina,D.Nicolle,728,31,33,4,146,41,29,60,3,Alive,None evident,,None evident,Flowered
+R060/T29,-26.35,1.9,52.4,Eucalyptus interstans,DN 667,"Drake, NSW",1994,CCA0956,667,Eucalyptus interstans,D.Nicolle,667,28,55,44,152,23,38,60,29,Alive,Slight,,Moderate,Flowered
+R060/T30,-26.49,1.7,50.2,Eucalyptus interstans,DN 667,"Drake, NSW",1994,CCA0957,667,Eucalyptus interstans,D.Nicolle,667,28,55,44,152,23,38,60,30,Alive,Moderate,,Moderate,Flowered
+R060/T32,-28.17,1.9,50.2,Eucalyptus interstans,DN 667,"Drake, NSW",1994,CCA0959,667,Eucalyptus interstans,D.Nicolle,667,28,55,44,152,23,38,60,32,Alive,None evident,,Moderate,Flowered
+R060/T33,-28.99,1.2,49.5,Eucalyptus bridgesiana,DN 570,"Beechworth, Vic",1994,CCA0960,570,Eucalyptus bridgesiana,D.Nicolle,570,36,19,13,146,40,45,60,33,Alive,Moderate,,Moderate,
+R060/T34,-29.47,0.9,46.7,Eucalyptus bridgesiana,DN 570,"Beechworth, Vic",1994,CCA0961,570,Eucalyptus bridgesiana,D.Nicolle,570,36,19,13,146,40,45,60,34,Alive,Slight,,Moderate,Flowered
+R060/T36,-29.34,1.1,47.9,Eucalyptus bridgesiana,DN 570,"Beechworth, Vic",1994,CCA0963,570,Eucalyptus bridgesiana,D.Nicolle,570,36,19,13,146,40,45,60,36,Alive,Slight,,Slight,Flowered
+R061/T13,-27.08,1.2,48.4,Eucalyptus fusiformis,DN 645,"Macksville, NSW",1994,CCA0970,645,Eucalyptus fusiformis,D.Nicolle,645,30,54,9,152,51,12,61,13,Alive,Slight,,None evident,Flowered
+R061/T14,-27.03,1.4,49.7,Eucalyptus fusiformis,DN 645,"Macksville, NSW",1994,CCA0971,645,Eucalyptus fusiformis,D.Nicolle,645,30,54,9,152,51,12,61,14,Alive,Slight,,None evident,Flowered
+R061/T15,-27.65,1.4,50.1,Eucalyptus fusiformis,DN 645,"Macksville, NSW",1994,CCA0972,645,Eucalyptus fusiformis,D.Nicolle,645,30,54,9,152,51,12,61,15,Alive,Moderate,,None evident,Flowered
+R061/T29,-29.74,1.3,49,Eucalyptus paniculata,DN 643,"Bulahdelah, NSW",1994,CCA0980,643,Eucalyptus fergusonii subsp. fergusonii,D.Nicolle,643,32,14,55,152,11,30,61,29,Alive,None evident,,None evident,Flowered
+R061/T30,-28.63,1.7,50.3,Eucalyptus paniculata,DN 643,"Bulahdelah, NSW",1994,CCA0981,643,Eucalyptus fergusonii subsp. fergusonii,D.Nicolle,643,32,14,55,152,11,30,61,30,Alive,None evident,,None evident,Flowered
+R061/T31,-27.92,1.2,51.1,Eucalyptus paniculata,DN 643,"Bulahdelah, NSW",1994,CCA0982,643,Eucalyptus fergusonii subsp. fergusonii,D.Nicolle,643,32,14,55,152,11,30,61,31,Alive,None evident,,None evident,Flowered
+R070/T13,-29.44,0.7,48.9,Eucalyptus densa subsp. densa,DN 1111,"Lake King, WA",1995,CCA1224,1111,Eucalyptus densa,D.Nicolle,1111,33,4,21,120,13,1,70,13,Alive,None evident,,None evident,Flowered
+R070/T15,-28.89,0.7,50.7,Eucalyptus densa subsp. densa,DN 1111,"Lake King, WA",1995,CCA1225,1111,Eucalyptus densa,D.Nicolle,1111,33,4,21,120,13,1,70,15,Alive,None evident,,None evident,Flowered
+R062/T25,-28.45,1.4,48,Eucalyptus foecunda,DN 1152,"Bold Park, WA",1995,CCA1006,1152,Eucalyptus foecunda subsp. foecunda,D.Nicolle,1152,31,56,31,115,46,47,62,25,Alive,Slight,,None evident,Flowered
+R062/T26,-28.2,1.5,49.1,Eucalyptus foecunda,DN 1152,"Bold Park, WA",1995,CCA1007,1152,Eucalyptus foecunda subsp. foecunda,D.Nicolle,1152,31,56,31,115,46,47,62,26,Alive,Slight,,None evident,Flowered
+R062/T27,-28.27,1.2,47.2,Eucalyptus foecunda,DN 1152,"Bold Park, WA",1995,CCA1008,1152,Eucalyptus foecunda subsp. foecunda,D.Nicolle,1152,31,56,31,115,46,47,62,27,Alive,None evident,,None evident,Flowered
+R063/T17,-30.06,0.9,48.3,Eucalyptus victrix,DN 1178,"Lake Macleod, WA",1995,CCA1033,1178,Eucalyptus victrix,D.Nicolle,1178,24,1,4,113,29,17,63,17,Alive,Slight,,None evident,Flowered
+R063/T19,-29.04,1.1,49.1,Eucalyptus victrix,DN 1178,"Lake Macleod, WA",1995,CCA1035,1178,Eucalyptus victrix,D.Nicolle,1178,24,1,4,113,29,17,63,19,Alive,None evident,,None evident,Flowered
+R063/T20,-28.93,0.9,51.5,Eucalyptus victrix,DN 1178,"Lake Macleod, WA",1995,CCA1036,1178,Eucalyptus victrix,D.Nicolle,1178,24,1,4,113,29,17,63,20,Alive,Slight,,None evident,
+R066/T19,-28.44,0.8,47.1,Eucalyptus normantonensis,DN 1207,"MacDonnell Ranges, NT",1995,CCA1130,1207,Eucalyptus normantonensis,D.Nicolle,1207,23,38,9,132,34,2,66,19,Alive,None evident,,None evident,
+R066/T20,-28.31,0.8,50.5,Eucalyptus normantonensis,DN 1207,"MacDonnell Ranges, NT",1995,CCA1131,1207,Eucalyptus normantonensis,D.Nicolle,1207,23,38,9,132,34,2,66,20,Alive,None evident,,None evident,Flowered
+R066/T21,-27.62,1.3,48.7,Eucalyptus normantonensis,DN 1207,"MacDonnell Ranges, NT",1995,CCA1132,1207,Eucalyptus normantonensis,D.Nicolle,1207,23,38,9,132,34,2,66,21,Alive,None evident,,None evident,Flowered
+R066/T25,-30.26,1.4,48.4,Eucalyptus camaldulensis subsp. arida,DN 1206,"MacDonnell Ranges, NT",1995,CCA1135,1206,Eucalyptus camaldulensis subsp. arida,D.Nicolle,1206,23,12,15,131,33,37,66,25,Alive,Severe,,None evident,
+R066/T26,-28.84,1.7,49.8,Eucalyptus camaldulensis subsp. arida,DN 1206,"MacDonnell Ranges, NT",1995,CCA1136,1206,Eucalyptus camaldulensis subsp. arida,D.Nicolle,1206,23,12,15,131,33,37,66,26,Alive,Severe,,None evident,
+R066/T27,-28.83,1.3,48.5,Eucalyptus camaldulensis subsp. arida,DN 1206,"MacDonnell Ranges, NT",1995,CCA1137,1206,Eucalyptus camaldulensis subsp. arida,D.Nicolle,1206,23,12,15,131,33,37,66,27,Alive,Severe,,None evident,
+R066/T29,-28.51,1.1,50,Eucalyptus largiflorens,DN 980,"Wentworth, NSW",1995,CCA1139,980,Eucalyptus largiflorens,D.Nicolle,980,34,0,48,141,55,33,66,29,Alive,None evident,,None evident,
+R066/T32,-27.94,1,51,Eucalyptus largiflorens,DN 980,"Wentworth, NSW",1995,CCA1142,980,Eucalyptus largiflorens,D.Nicolle,980,34,0,48,141,55,33,66,32,Alive,None evident,,None evident,Flowered
+R066/T33,-29.8,1,50.3,Eucalyptus largiflorens,DN 980,"Wentworth, NSW",1995,CCA1143,980,Eucalyptus largiflorens,D.Nicolle,980,34,0,48,141,55,33,66,33,Alive,None evident,,None evident,Flowered
+R066/T34,-28.82,0.9,49.8,Eucalyptus odorata,DN 822,"Kangaroo Island, SA",1995,CCA1144,822,Eucalyptus odorata,D.Nicolle,822,35,41,35,137,31,52,66,34,Alive,None evident,,None evident,Flowered
+R066/T36,-28.33,1.3,49,Eucalyptus odorata,DN 822,"Kangaroo Island, SA",1995,CCA1146,822,Eucalyptus odorata,D.Nicolle,822,35,41,35,137,31,52,66,36,Alive,None evident,,None evident,Flowered
+R066/T37,-28.53,0.9,51.1,Eucalyptus odorata,DN 822,"Kangaroo Island, SA",1995,CCA1147,822,Eucalyptus odorata,D.Nicolle,822,35,41,35,137,31,52,66,37,Alive,None evident,,None evident,Flowered
+R068/T10,-27.69,1.5,49,Eucalyptus absita,DN 1154,"Badgingarra, WA",1995,CCA1184,1154,Eucalyptus absita,D.Nicolle,1154,30,26,13,115,34,32,68,10,Alive,Moderate,,None evident,Flowered
+R069/T23,-28.09,1.4,48.9,Eucalyptus sporadica,DN 1122,"Ravensthorpe Range, WA",1995,CCA1207,1122,Eucalyptus sporadica,D.Nicolle,1122,33,30,43,120,2,20,69,23,Alive,None evident,,None evident,Flowered
+R069/T25,-27.66,1,48.3,Eucalyptus sporadica,DN 1122,"Ravensthorpe Range, WA",1995,CCA1209,1122,Eucalyptus sporadica,D.Nicolle,1122,33,30,43,120,2,20,69,25,Alive,None evident,,None evident,Flowered
+R069/T26,-27.99,1,50,Eucalyptus sporadica,DN 1122,"Ravensthorpe Range, WA",1995,CCA1210,1122,Eucalyptus sporadica,D.Nicolle,1122,33,30,43,120,2,20,69,26,Alive,None evident,,None evident,Flowered
+R069/T32,-26.09,1.5,49.2,Eucalyptus rudis subsp. rudis,DN 1131,"Pallinup River, WA",1995,CCA1212,1131,Eucalyptus rudis subsp. rudis,D.Nicolle,1131,34,24,21,118,43,48,69,32,Alive,Severe,,Severe,Flowered
+R069/T34,-26.71,1.9,49.3,Eucalyptus rudis subsp. rudis,DN 1131,"Pallinup River, WA",1995,CCA1214,1131,Eucalyptus rudis subsp. rudis,D.Nicolle,1131,34,24,21,118,43,48,69,34,Alive,Moderate,,Severe,Flowered
+R065/T15,-27.41,0.7,47.5,Eucalyptus occidentalis,DN 1095,"Cape Arid, WA",1995,CCA1099,1095,Eucalyptus occidentalis,D.Nicolle,1095,33,43,23,123,22,2,65,15,Alive,None evident,,None evident,Flowered
+R065/T16,-27.16,0.7,50.2,Eucalyptus occidentalis,DN 1095,"Cape Arid, WA",1995,CCA1100,1095,Eucalyptus occidentalis,D.Nicolle,1095,33,43,23,123,22,2,65,16,Alive,None evident,,None evident,Flowered
+R065/T17,-27.59,0.7,47.3,Eucalyptus occidentalis,DN 1095,"Cape Arid, WA",1995,CCA1101,1095,Eucalyptus occidentalis,D.Nicolle,1095,33,43,23,123,22,2,65,17,Alive,None evident,,None evident,Flowered
+R070/T37,-27.89,1.1,51.1,Eucalyptus megacarpa,DN 1137,"Two Peoples Bay, WA",1995,CCA1242,1137,Eucalyptus megacarpa,D.Nicolle,1137,34,55,6,118,11,13,70,37,Alive,Moderate,,None evident,Flowered
+R070/T40,-27.75,0.8,49,Eucalyptus megacarpa,DN 1137,"Two Peoples Bay, WA",1995,CCA1245,1137,Eucalyptus megacarpa,D.Nicolle,1137,34,55,6,118,11,13,70,40,Alive,Slight,,Severe,Flowered
+R071/T08,-26.96,0.9,51.4,Eucalyptus rugosa,DN 806,"Kangaroo Island, SA",1995,CCA1252,806,Eucalyptus rugosa,D.Nicolle,806,36,0,41,136,44,9,71,8,Alive,Slight,,None evident,
+R071/T10,-27.68,0.8,50.8,Eucalyptus rugosa,DN 806,"Kangaroo Island, SA",1995,CCA1254,806,Eucalyptus rugosa,D.Nicolle,806,36,0,41,136,44,9,71,10,Alive,Slight,,None evident,Flowered
+R071/T11,-27.63,0.9,50.8,Eucalyptus rugosa,DN 806,"Kangaroo Island, SA",1995,CCA1255,806,Eucalyptus rugosa,D.Nicolle,806,36,0,41,136,44,9,71,11,Alive,Slight,,None evident,
+R071/T13,-27.02,0.8,52.6,Eucalyptus pleurocarpa,DN 154,"Grass Patch, WA",1995,CCA1257,154,Eucalyptus pleurocarpa,D.Nicolle,154,33,9,28,121,38,25,71,13,Alive,None evident,,Severe,Flowered
+R071/T15,-28.48,0.9,52.1,Eucalyptus pleurocarpa,DN 154,"Grass Patch, WA",1995,CCA1258,154,Eucalyptus pleurocarpa,D.Nicolle,154,33,9,28,121,38,25,71,15,Alive,Slight,,Moderate,Flowered
+R071/T28,-27.21,1.5,51,Eucalyptus camaldulensis subsp. camaldulensis,DN 823,"Kangaroo Island, SA",1995,CCA1266,823,Eucalyptus camaldulensis subsp. camaldulensis,D.Nicolle,823,35,41,50,137,31,21,71,28,Alive,Slight,,None evident,Flowered
+R071/T29,-26.95,1.6,51,Eucalyptus camaldulensis subsp. camaldulensis,DN 823,"Kangaroo Island, SA",1995,CCA1267,823,Eucalyptus camaldulensis subsp. camaldulensis,D.Nicolle,823,35,41,50,137,31,21,71,29,Alive,None evident,,None evident,Flowered
+R071/T30,-28.22,1.3,52.3,Eucalyptus camaldulensis subsp. camaldulensis,DN 823,"Kangaroo Island, SA",1995,CCA1268,823,Eucalyptus camaldulensis subsp. camaldulensis,D.Nicolle,823,35,41,50,137,31,21,71,30,Alive,None evident,,None evident,Flowered
+R072/T04,-27.17,1.1,52.2,Eucalyptus megacornuta,DN 1121,"Ravensthorpe Range, WA",1995,CCA1272,1121,Eucalyptus megacornuta,D.Nicolle,1121,33,30,43,120,2,20,72,4,Alive,None evident,,None evident,Flowered
+R072/T05,-27.6,1.1,50.6,Eucalyptus megacornuta,DN 1121,"Ravensthorpe Range, WA",1995,CCA1273,1121,Eucalyptus megacornuta,D.Nicolle,1121,33,30,43,120,2,20,72,5,Alive,None evident,,None evident,Flowered
+R072/T07,-25.87,0.7,52.6,Eucalyptus megacornuta,DN 1121,"Ravensthorpe Range, WA",1995,CCA1275,1121,Eucalyptus megacornuta,D.Nicolle,1121,33,30,43,120,2,20,72,7,Alive,None evident,,None evident,Flowered
+R073/T01,-28.24,1,50.2,Eucalyptus gillenii,DN 1209,"Mt Gillen, WA",1995,CCA1301,1209,Eucalyptus gillenii,D.Nicolle,1209,23,43,30,133,51,26,73,1,Alive,None evident,,None evident,Flowered
+R073/T02,-28.96,1,52.1,Eucalyptus gillenii,DN 1209,"Mt Gillen, WA",1995,CCA1302,1209,Eucalyptus gillenii,D.Nicolle,1209,23,43,30,133,51,26,73,2,Alive,None evident,,None evident,Flowered
+R073/T03,-29.47,1,52,Eucalyptus gillenii,DN 1209,"Mt Gillen, WA",1995,CCA1303,1209,Eucalyptus gillenii,D.Nicolle,1209,23,43,30,133,51,26,73,3,Alive,None evident,,None evident,Flowered
+R074/T13,-29.03,1.2,49.8,Eucalyptus behriana,DN 783,"Tarlee, SA",1995,CCA1333,783,Eucalyptus behriana,D.Nicolle,783,34,20,74,138,46,73,74,13,Alive,None evident,,None evident,Flowered
+R074/T15,-28.12,1.3,49.4,Eucalyptus behriana,DN 783,"Tarlee, SA",1995,CCA1334,783,Eucalyptus behriana,D.Nicolle,783,34,20,74,138,46,73,74,15,Alive,None evident,,None evident,Flowered
+R074/T16,-28.37,1,48.3,Eucalyptus behriana,DN 783,"Tarlee, SA",1995,CCA1335,783,Eucalyptus behriana,D.Nicolle,783,34,20,74,138,46,73,74,16,Alive,None evident,,None evident,Flowered
+R074/T28,-28.12,1,51.6,Eucalyptus petiolaris,DN 945,"Koppio Hills, SA",1995,CCA1340,945,Eucalyptus petiolaris (yellow flower morph),D.Nicolle,945,34,29,9,135,51,27,74,28,Alive,None evident,,Moderate,Flowered
+R074/T30,-27.24,1.2,51,Eucalyptus petiolaris,DN 945,"Koppio Hills, SA",1995,CCA1341,945,Eucalyptus petiolaris (yellow flower morph),D.Nicolle,945,34,29,9,135,51,27,74,30,Alive,None evident,,Moderate,Flowered
+R074/T31,-29.45,1,49.7,Eucalyptus petiolaris,DN 945,"Koppio Hills, SA",1995,CCA1342,945,Eucalyptus petiolaris (yellow flower morph),D.Nicolle,945,34,29,9,135,51,27,74,31,Alive,Moderate,,Moderate,Flowered
+R075/T02,-29.5,1.1,51.4,Eucalyptus albopurpurea,DN 825,"Kangaroo Island, SA",1995,CCA1345,825,Eucalyptus albopurpurea (atypical form),D.Nicolle,825,35,44,49,137,38,18,75,2,Alive,None evident,,None evident,Flowered
+R075/T04,-28.54,0.8,51.8,Eucalyptus albopurpurea,DN 825,"Kangaroo Island, SA",1995,CCA1347,825,Eucalyptus albopurpurea (atypical form),D.Nicolle,825,35,44,49,137,38,18,75,4,Alive,None evident,,None evident,Flowered
+R075/T05,-28.6,0.9,50.9,Eucalyptus albopurpurea,DN 825,"Kangaroo Island, SA",1995,CCA1348,825,Eucalyptus albopurpurea (atypical form),D.Nicolle,825,35,44,49,137,38,18,75,5,Alive,None evident,,None evident,
+R075/T15,-25.26,1.6,50.1,Eucalyptus albopurpurea,DN 942,"Port Lincoln 1, SA",1995,CCA1356,942,Eucalyptus albopurpurea,D.Nicolle,942,34,50,23,135,41,54,75,15,Alive,None evident,,None evident,Flowered
+R075/T16,-27.7,1.2,52,Eucalyptus albopurpurea,DN 942,"Port Lincoln 1, SA",1995,CCA1357,942,Eucalyptus albopurpurea,D.Nicolle,942,34,50,23,135,41,54,75,16,Alive,None evident,,None evident,Flowered
+R076/T21,-26.88,1.2,48.3,Eucalyptus fergusonii subsp. dorsiventralis,DN 634,"Wollombi, NSW",1995,CCA1371,634,Eucalyptus fergusonii subsp. dorsiventralis,D.Nicolle,634,32,52,15,151,1,15,76,21,Alive,Slight,,None evident,Flowered
+R076/T22,-25.3,1.1,49.4,Eucalyptus fergusonii subsp. dorsiventralis,DN 634,"Wollombi, NSW",1995,CCA1372,634,Eucalyptus fergusonii subsp. dorsiventralis,D.Nicolle,634,32,52,15,151,1,15,76,22,Alive,Slight,,None evident,Flowered
+R076/T23,-25.67,0.9,48.5,Eucalyptus fergusonii subsp. dorsiventralis,DN 634,"Wollombi, NSW",1995,CCA1373,634,Eucalyptus fergusonii subsp. dorsiventralis,D.Nicolle,634,32,52,15,151,1,15,76,23,Alive,Slight,,None evident,Flowered
+R085/T05,-27.35,1.3,53.2,Eucalyptus notactites,DN 177,"Lucky Bay, WA",1996,CCA1446,177,Eucalyptus notactites,D.Nicolle,177,33,58,55,122,12,56,85,5,Alive,None evident,,None evident,Flowered
+R085/T06,-28.76,1,53.8,Eucalyptus notactites,DN 177,"Lucky Bay, WA",1996,CCA1447,177,Eucalyptus notactites,D.Nicolle,177,33,58,55,122,12,56,85,6,Alive,None evident,,Moderate,Flowered
+R085/T07,-26.96,0.9,51.9,Eucalyptus notactites,DN 177,"Lucky Bay, WA",1996,CCA1448,177,Eucalyptus notactites,D.Nicolle,177,33,58,55,122,12,56,85,7,Alive,Slight,,None evident,Flowered
+R085/T17,-28.88,1,53,Eucalyptus astringens subsp. redacta,DN 214,"Beaufort Inlet, WA",1996,CCA1454,214,Eucalyptus astringens subsp. redacta,D.Nicolle,214,34,27,12,118,52,33,85,17,Alive,None evident,,None evident,Flowered
+R085/T18,-27.98,0.9,52.4,Eucalyptus astringens subsp. redacta,DN 214,"Beaufort Inlet, WA",1996,CCA1455,214,Eucalyptus astringens subsp. redacta,D.Nicolle,214,34,27,12,118,52,33,85,18,Alive,None evident,,None evident,Flowered
+R085/T19,-30.31,0.8,52.4,Eucalyptus astringens subsp. redacta,DN 214,"Beaufort Inlet, WA",1996,CCA1456,214,Eucalyptus astringens subsp. redacta,D.Nicolle,214,34,27,12,118,52,33,85,19,Alive,None evident,,None evident,Flowered
+R086/T16,-29.78,1.5,51.7,Eucalyptus coolabah,DN 1355,"Palmer River, NT",1996,CCA1478,1355,Eucalyptus coolabah,D.Nicolle,1355,24,44,10,133,10,58,86,16,Alive,None evident,,None evident,
+R086/T17,-28.83,1.4,50.5,Eucalyptus coolabah,DN 1355,"Palmer River, NT",1996,CCA1479,1355,Eucalyptus coolabah,D.Nicolle,1355,24,44,10,133,10,58,86,17,Alive,None evident,,None evident,
+R087/T07,-29.32,1.1,47.3,Eucalyptus melanophloia subsp. nana,DN 1330,"Mount Isa, Qld",1996,CCA1495,1330,Eucalyptus melanophloia subsp. nana,D.Nicolle,1330,20,52,48,139,27,11,87,7,Alive,None evident,,None evident,Flowered
+R087/T08,-29.04,1.2,47.5,Eucalyptus melanophloia subsp. nana,DN 1330,"Mount Isa, Qld",1996,CCA1496,1330,Eucalyptus melanophloia subsp. nana,D.Nicolle,1330,20,52,48,139,27,11,87,8,Alive,None evident,,None evident,Flowered
+R087/T09,-28.5,1,48.3,Eucalyptus melanophloia subsp. nana,DN 1330,"Mount Isa, Qld",1996,CCA1497,1330,Eucalyptus melanophloia subsp. nana,D.Nicolle,1330,20,52,48,139,27,11,87,9,Alive,None evident,,None evident,Flowered
+R087/T22,-30.26,1.1,48.2,Eucalyptus sp. Adelaide,DN 1364,"Happy Valley, SA",1996,CCA1508,1364,Eucalyptus microcarpa (Adelaide variant),D.Nicolle,1364,35,5,9,138,33,38,87,22,Alive,None evident,,None evident,Flowered
+R087/T25,-29.77,1.2,52.2,Eucalyptus sp. Adelaide,DN 1364,"Happy Valley, SA",1996,CCA1511,1364,Eucalyptus microcarpa (Adelaide variant),D.Nicolle,1364,35,5,9,138,33,38,87,25,Alive,Slight,,None evident,Flowered
+R087/T26,-29.26,1.1,51,Eucalyptus sp. Adelaide,DN 1364,"Happy Valley, SA",1996,CCA1512,1364,Eucalyptus microcarpa (Adelaide variant),D.Nicolle,1364,35,5,9,138,33,38,87,26,Alive,None evident,,None evident,Flowered
+R087/T28,-29.8,1.2,51.3,Eucalyptus ammophila,DN 1284,"Barcaldine, Qld",1996,CCA1514,1284,Eucalyptus ammophila,D.Nicolle,1284,23,33,36,145,43,6,87,28,Alive,None evident,,None evident,Flowered
+R087/T30,-29.1,2.1,52.8,Eucalyptus ammophila,DN 1284,"Barcaldine, Qld",1996,CCA1515,1284,Eucalyptus ammophila,D.Nicolle,1284,23,33,36,145,43,6,87,30,Alive,Slight,,None evident,Flowered
+R087/T31,-29.21,1.3,50.5,Eucalyptus ammophila,DN 1284,"Barcaldine, Qld",1996,CCA1516,1284,Eucalyptus ammophila,D.Nicolle,1284,23,33,36,145,43,6,87,31,Alive,None evident,,None evident,Flowered
+R088/T05,-28.27,1.8,50.5,Eucalyptus wimmerensis,DN 1590,"Bordertown, SA",1996,CCA1523,1590,Eucalyptus wimmerensis,D.Nicolle,1590,36,3,55,140,44,1,88,5,Alive,None evident,,None evident,Flowered
+R088/T06,-29.38,1.2,49.1,Eucalyptus wimmerensis,DN 1590,"Bordertown, SA",1996,CCA1524,1590,Eucalyptus wimmerensis,D.Nicolle,1590,36,3,55,140,44,1,88,6,Alive,Slight,,None evident,Flowered
+R088/T08,-29.23,1.4,49.8,Eucalyptus wimmerensis,DN 1590,"Bordertown, SA",1996,CCA1526,1590,Eucalyptus wimmerensis,D.Nicolle,1590,36,3,55,140,44,1,88,8,Alive,None evident,,None evident,Flowered
+R088/T35,-27.67,1.3,50.7,Eucalyptus microcarpa,DN 1220,"West Wyalong, NSW",1996,CCA1543,1220,Eucalyptus microcarpa,D.Nicolle,1220,33,54,13,147,18,4,88,35,Alive,Slight,,None evident,Flowered
+R088/T37,-28.58,1,49.5,Eucalyptus microcarpa,DN 1220,"West Wyalong, NSW",1996,CCA1545,1220,Eucalyptus microcarpa,D.Nicolle,1220,33,54,13,147,18,4,88,37,Alive,Slight,,None evident,Flowered
+R088/T38,-28.17,1.1,50.5,Eucalyptus microcarpa,DN 1220,"West Wyalong, NSW",1996,CCA1546,1220,Eucalyptus microcarpa,D.Nicolle,1220,33,54,13,147,18,4,88,38,Alive,None evident,,None evident,Flowered
+R089/T15,-28.39,1.3,52.8,Eucalyptus sicilifolia,DN 1276,"Springsure, Qld",1996,CCA1556,1276,Eucalyptus sicilifolia,D.Nicolle,1276,24,4,59,148,4,31,89,15,Alive,None evident,,None evident,Flowered
+R089/T16,-27.9,1,50.9,Eucalyptus sicilifolia,DN 1276,"Springsure, Qld",1996,CCA1557,1276,Eucalyptus sicilifolia,D.Nicolle,1276,24,4,59,148,4,31,89,16,Alive,None evident,,None evident,Flowered
+R089/T17,-29.68,1.1,52,Eucalyptus sicilifolia,DN 1276,"Springsure, Qld",1996,CCA1558,1276,Eucalyptus sicilifolia,D.Nicolle,1276,24,4,59,148,4,31,89,17,Alive,None evident,,None evident,Flowered
+R089/T19,-27.75,0.7,50.4,Eucalyptus tholiformis,DN 1279,"Springsure, Qld",1996,CCA1560,1279,Eucalyptus tholiformis,D.Nicolle,1279,24,23,49,147,22,17,89,19,Alive,None evident,,None evident,
+R089/T20,-27.86,1,49.5,Eucalyptus tholiformis,DN 1279,"Springsure, Qld",1996,CCA1561,1279,Eucalyptus tholiformis,D.Nicolle,1279,24,23,49,147,22,17,89,20,Alive,None evident,,None evident,
+R089/T22,-29.9,0.9,51.8,Eucalyptus tholiformis,DN 1279,"Springsure, Qld",1996,CCA1563,1279,Eucalyptus tholiformis,D.Nicolle,1279,24,23,49,147,22,17,89,22,Alive,None evident,,None evident,Flowered
+R089/T26,-28.01,1.3,49.4,Eucalyptus suffulgens,DN 1267,"Isla Gorge, Qld",1996,CCA1565,1267,Eucalyptus suffulgens,D.Nicolle,1267,25,11,33,149,58,16,89,26,Alive,None evident,,None evident,Flowered
+R089/T27,-28.9,1,50.2,Eucalyptus suffulgens,DN 1267,"Isla Gorge, Qld",1996,CCA1566,1267,Eucalyptus suffulgens,D.Nicolle,1267,25,11,33,149,58,16,89,27,Alive,Moderate,,None evident,Flowered
+R089/T29,-29.22,0.9,50,Eucalyptus suffulgens,DN 1267,"Isla Gorge, Qld",1996,CCA1567,1267,Eucalyptus suffulgens,D.Nicolle,1267,25,11,33,149,58,16,89,29,Alive,None evident,,None evident,Flowered
+R090/T01,-29.45,1.2,51.1,Eucalyptus thozetiana,DN 1281,"Jericho, Qld",1996,CCA1574,1281,Eucalyptus thozetiana,D.Nicolle,1281,23,37,11,146,15,22,90,1,Alive,None evident,,None evident,Flowered
+R090/T09,-26.51,1.4,51.3,Eucalyptus tereticornis subsp. rotunda,DN 1272,"Carnarvon Range, Qld",1996,CCA1581,1272,Eucalyptus tereticornis subsp. rotunda,D.Nicolle,1272,24,54,37,148,2,33,90,9,Alive,Slight,,None evident,
+R090/T10,-27.85,1.6,51.5,Eucalyptus tereticornis subsp. rotunda,DN 1272,"Carnarvon Range, Qld",1996,CCA1582,1272,Eucalyptus tereticornis subsp. rotunda,D.Nicolle,1272,24,54,37,148,2,33,90,10,Alive,Slight,,None evident,
+R090/T11,-27.9,1.6,50.8,Eucalyptus tereticornis subsp. rotunda,DN 1272,"Carnarvon Range, Qld",1996,CCA1583,1272,Eucalyptus tereticornis subsp. rotunda,D.Nicolle,1272,24,54,37,148,2,33,90,11,Alive,Slight,,None evident,
+R090/T17,-29.64,1.2,51.3,Eucalyptus brownii,DN 1293,"Pentland, Qld",1996,CCA1587,1293,Eucalyptus brownii,D.Nicolle,1293,20,33,32,145,21,44,90,17,Alive,Slight,,None evident,Flowered
+R090/T19,-29.67,1.1,51.5,Eucalyptus brownii,DN 1293,"Pentland, Qld",1996,CCA1588,1293,Eucalyptus brownii,D.Nicolle,1293,20,33,32,145,21,44,90,19,Alive,None evident,,None evident,Flowered
+R090/T21,-29.23,1,52.3,Eucalyptus corynodes,DN 1264,"Cracow, Qld",1996,CCA1590,1264,Eucalyptus corynodes,D.Nicolle,1264,25,27,37,150,18,15,90,21,Alive,None evident,,None evident,Flowered
+R090/T22,-28.73,1.2,51.4,Eucalyptus corynodes,DN 1264,"Cracow, Qld",1996,CCA1591,1264,Eucalyptus corynodes,D.Nicolle,1264,25,27,37,150,18,15,90,22,Alive,Slight,,None evident,Flowered
+R090/T24,-27.35,1.1,52,Eucalyptus exilipes,DN 1289,"White Mountains, Qld",1996,CCA1592,1289,Eucalyptus exilipes,D.Nicolle,1289,20,42,39,145,13,20,90,24,Alive,None evident,,None evident,Flowered
+R090/T26,-27.69,1.2,52.9,Eucalyptus infera,DN 1254,"Durikai State Forest, Qld",1996,CCA1594,1254,Eucalyptus infera,D.Nicolle,1254,28,23,58,151,42,11,90,26,Alive,None evident,,None evident,Flowered
+R090/T27,-28.99,1.4,52.4,Eucalyptus infera,DN 1254,"Durikai State Forest, Qld",1996,CCA1595,1254,Eucalyptus infera,D.Nicolle,1254,28,23,58,151,42,11,90,27,Alive,None evident,,None evident,Flowered
+R090/T28,-28.38,1.4,52.5,Eucalyptus infera,DN 1254,"Durikai State Forest, Qld",1996,CCA1596,1254,Eucalyptus infera,D.Nicolle,1254,28,23,58,151,42,11,90,28,Alive,None evident,,None evident,Flowered
+R090/T30,-31.26,1.2,51,Eucalyptus decorticans,DN 1260,"Eidsvold, Qld",1996,CCA1598,1260,Eucalyptus decorticans,D.Nicolle,1260,25,22,51,151,9,2,90,30,Alive,Slight,,Slight,Flowered
+R090/T31,-30.59,1.3,52.2,Eucalyptus decorticans,DN 1260,"Eidsvold, Qld",1996,CCA1599,1260,Eucalyptus decorticans,D.Nicolle,1260,25,22,51,151,9,2,90,31,Alive,Slight,,None evident,Flowered
+R090/T33,-29.06,1.5,52.5,Eucalyptus decorticans,DN 1260,"Eidsvold, Qld",1996,CCA1600,1260,Eucalyptus decorticans,D.Nicolle,1260,25,22,51,151,9,2,90,33,Alive,Slight,,Slight,Flowered
+R091/T02,-28.27,0.9,50.5,Eucalyptus persistens,DN 1291,"White Mountains, Qld",1996,CCA1605,1291,Eucalyptus persistens,D.Nicolle,1291,20,39,40,145,15,15,91,2,Alive,None evident,,None evident,Flowered
+R091/T03,-28.15,1.2,49.7,Eucalyptus persistens,DN 1291,"White Mountains, Qld",1996,CCA1606,1291,Eucalyptus persistens,D.Nicolle,1291,20,39,40,145,15,15,91,3,Alive,None evident,,None evident,Flowered
+R091/T04,-29.15,1,48.6,Eucalyptus persistens,DN 1291,"White Mountains, Qld",1996,CCA1607,1291,Eucalyptus persistens,D.Nicolle,1291,20,39,40,145,15,15,91,4,Alive,Slight,,None evident,Flowered
+R091/T32,-29.61,0.9,50.5,Eucalyptus atrata,DN 1308,"Herberton, Qld",1996,CCA1620,1308,Eucalyptus atrata,D.Nicolle,1308,17,23,13,145,19,56,91,32,Alive,None evident,,None evident,Flowered
+R091/T33,-28.85,1,50.7,Eucalyptus atrata,DN 1308,"Herberton, Qld",1996,CCA1621,1308,Eucalyptus atrata,D.Nicolle,1308,17,23,13,145,19,56,91,33,Alive,None evident,,None evident,Flowered
+R091/T34,-29.46,1,51.2,Eucalyptus atrata,DN 1308,"Herberton, Qld",1996,CCA1622,1308,Eucalyptus atrata,D.Nicolle,1308,17,23,13,145,19,56,91,34,Alive,None evident,,None evident,Flowered
+R092/T19,-29,1.6,51.8,Eucalyptus chloroclada,DN 1255,"Warwick, Qld",1996,CCA1633,1255,Eucalyptus chloroclada,D.Nicolle,1255,28,18,1,151,55,30,92,19,Alive,None evident,,None evident,
+R092/T20,-29.24,1.2,51.7,Eucalyptus chloroclada,DN 1255,"Warwick, Qld",1996,CCA1634,1255,Eucalyptus chloroclada,D.Nicolle,1255,28,18,1,151,55,30,92,20,Alive,None evident,,None evident,
+R092/T21,-30.26,1.5,56.5,Eucalyptus chloroclada,DN 1255,"Warwick, Qld",1996,CCA1635,1255,Eucalyptus chloroclada,D.Nicolle,1255,28,18,1,151,55,30,92,21,Alive,None evident,,None evident,
+R093/T03,-30.07,1.5,49.3,Eucalyptus lockyeri,DN 1323,"Ravenshoe, Qld",1996,CCA1642,1323,Eucalyptus lockyeri,D.Nicolle,1323,17,35,19,145,27,53,93,3,Alive,Moderate,,None evident,Flowered
+R093/T04,-27.61,2.1,50.8,Eucalyptus lockyeri,DN 1323,"Ravenshoe, Qld",1996,CCA1643,1323,Eucalyptus lockyeri,D.Nicolle,1323,17,35,19,145,27,53,93,4,Alive,Slight,,None evident,Flowered
+R093/T08,-27.53,2,50.1,Eucalyptus camaldulensis subsp. simulata,DN 1314,"Laura, Qld",1996,CCA1644,1314,Eucalyptus camaldulensis subsp. simulata,D.Nicolle,1314,15,33,19,144,26,21,93,8,Alive,Moderate,,Severe,
+R093/T09,-27.93,1.6,49.8,Eucalyptus camaldulensis subsp. simulata,DN 1314,"Laura, Qld",1996,CCA1645,1314,Eucalyptus camaldulensis subsp. simulata,D.Nicolle,1314,15,33,19,144,26,21,93,9,Alive,Moderate,,None evident,
+R093/T12,-29.09,1.6,49.7,Eucalyptus camaldulensis subsp. simulata,DN 1314,"Laura, Qld",1996,CCA1647,1314,Eucalyptus camaldulensis subsp. simulata,D.Nicolle,1314,15,33,19,144,26,21,93,12,Alive,Slight,,Moderate,Budded
+R094/T01,-28.3,1.1,51.8,Eucalyptus granitica,DN 1305,"Herberton, Qld",1996,CCA1657,1305,Eucalyptus granitica,D.Nicolle,1305,17,23,14,145,20,46,94,1,Alive,Slight,,None evident,Flowered
+R094/T02,-28.91,1,52.3,Eucalyptus granitica,DN 1305,"Herberton, Qld",1996,CCA1658,1305,Eucalyptus granitica,D.Nicolle,1305,17,23,14,145,20,46,94,2,Alive,None evident,,None evident,Flowered
+R094/T03,-29.71,0.8,51.1,Eucalyptus granitica,DN 1305,"Herberton, Qld",1996,CCA1659,1305,Eucalyptus granitica,D.Nicolle,1305,17,23,14,145,20,46,94,3,Alive,None evident,,None evident,Flowered
+R094/T10,-28.82,1,52.2,Eucalyptus pulverulenta,DN 1226,"Lithgow, NSW",1996,CCA1662,1226,Eucalyptus pulverulenta,D.Nicolle,1226,33,32,51,150,6,36,94,10,Alive,Moderate,,Moderate,Flowered
+R094/T11,-28.72,1,50.6,Eucalyptus pulverulenta,DN 1226,"Lithgow, NSW",1996,CCA1663,1226,Eucalyptus pulverulenta,D.Nicolle,1226,33,32,51,150,6,36,94,11,Alive,Moderate,,Severe,Flowered
+R094/T12,-28.59,1.4,50,Eucalyptus pulverulenta,DN 1226,"Lithgow, NSW",1996,CCA1664,1226,Eucalyptus pulverulenta,D.Nicolle,1226,33,32,51,150,6,36,94,12,Alive,Moderate,,Moderate,Flowered
+R094/T18,-29.22,1,50.9,Eucalyptus insulana,DN 1309,"Walkamin, Qld",1996,CCA1670,1309,Eucalyptus insulana,D.Nicolle,1309,17,5,46,145,31,46,94,18,Alive,None evident,,None evident,Flowered
+R094/T20,-29.13,0.9,53.7,Eucalyptus insulana,DN 1309,"Walkamin, Qld",1996,CCA1671,1309,Eucalyptus insulana,D.Nicolle,1309,17,5,46,145,31,46,94,20,Alive,Slight,,Slight,Flowered
+R094/T21,-29.49,1.3,52.4,Eucalyptus insulana,DN 1309,"Walkamin, Qld",1996,CCA1672,1309,Eucalyptus insulana,D.Nicolle,1309,17,5,46,145,31,46,94,21,Alive,Slight,,None evident,Flowered
+R094/T26,-29.15,1,51.5,Eucalyptus cullenii,DN 1322,"Lakeland, Qld",1996,CCA1676,1322,Eucalyptus cullenii,D.Nicolle,1322,15,57,42,144,49,55,94,26,Alive,None evident,,None evident,Flowered
+R094/T27,-29.73,1,52.4,Eucalyptus cullenii,DN 1322,"Lakeland, Qld",1996,CCA1677,1322,Eucalyptus cullenii,D.Nicolle,1322,15,57,42,144,49,55,94,27,Alive,None evident,,None evident,Flowered
+R095/T02,-27.23,1.3,51.5,Eucalyptus bancroftii,DN 1241,"Wells Crossing, NSW",1996,CCA1683,1241,Eucalyptus bancroftii,D.Nicolle,1241,29,54,6,153,3,53,95,2,Alive,Moderate,,Moderate,Flowered
+R095/T03,-26.94,1.2,50.2,Eucalyptus bancroftii,DN 1241,"Wells Crossing, NSW",1996,CCA1684,1241,Eucalyptus bancroftii,D.Nicolle,1241,29,54,6,153,3,53,95,3,Alive,Slight,,Moderate,Flowered
+R095/T21,-29.54,1.3,50.7,Eucalyptus propinqua,DN 1239,"Telegraph Point, NSW",1996,CCA1692,1239,Eucalyptus propinqua,D.Nicolle,1239,31,16,59,152,48,49,95,21,Alive,Moderate,,Severe,Flowered
+R095/T22,-28.87,1.3,50.8,Eucalyptus propinqua,DN 1239,"Telegraph Point, NSW",1996,CCA1693,1239,Eucalyptus propinqua,D.Nicolle,1239,31,16,59,152,48,49,95,22,Alive,Severe,,Moderate,Flowered
+R095/T24,-26.77,1.4,49.4,Eucalyptus propinqua,DN 1239,"Telegraph Point, NSW",1996,CCA1694,1239,Eucalyptus propinqua,D.Nicolle,1239,31,16,59,152,48,49,95,24,Alive,Slight,,Severe,Flowered
+R133/T05,-28.65,1.1,50.1,Eucalyptus albens,DN 1676,"Melrose, SA",1997,CCA2856,1676,Eucalyptus albens,D.Nicolle,1676,32,55,3,138,9,32,133,5,Alive,None evident,,None evident,Flowered
+R133/T06,-28.02,1.1,49,Eucalyptus albens,DN 1676,"Melrose, SA",1997,CCA2857,1676,Eucalyptus albens,D.Nicolle,1676,32,55,3,138,9,32,133,6,Alive,None evident,,None evident,Flowered
+R133/T07,-28.76,0.9,49.4,Eucalyptus albens,DN 1676,"Melrose, SA",1997,CCA2858,1676,Eucalyptus albens,D.Nicolle,1676,32,55,3,138,9,32,133,7,Alive,None evident,,None evident,Flowered
+R137/T19,-27.63,1.3,51.8,Eucalyptus fasciculosa,DN 1716,"Salt Creek, SA",1997,CCA2961,1716,Eucalyptus fasciculosa,D.Nicolle,1716,36,16,54,139,43,55,137,19,Alive,None evident,,Severe,
+R137/T20,-27.21,1.3,49.4,Eucalyptus fasciculosa,DN 1716,"Salt Creek, SA",1997,CCA2962,1716,Eucalyptus fasciculosa,D.Nicolle,1716,36,16,54,139,43,55,137,20,Alive,Slight,,Moderate,
+R137/T21,-27.96,1.1,50.9,Eucalyptus fasciculosa,DN 1716,"Salt Creek, SA",1997,CCA2963,1716,Eucalyptus fasciculosa,D.Nicolle,1716,36,16,54,139,43,55,137,21,Alive,None evident,,Slight,
+R138/T16,-28.15,1.2,50.7,Eucalyptus tricarpa,DN 1727,"Aireys Inlet, Vic",1997,CCA2977,1727,Eucalyptus tricarpa,D.Nicolle,1727,38,27,13,144,6,36,138,16,Alive,Slight,,Moderate,Flowered
+R138/T17,-28.8,1.2,50.8,Eucalyptus tricarpa,DN 1727,"Aireys Inlet, Vic",1997,CCA2978,1727,Eucalyptus tricarpa,D.Nicolle,1727,38,27,13,144,6,36,138,17,Alive,Slight,,Moderate,Flowered
+R138/T18,-29.95,1,51,Eucalyptus tricarpa,DN 1727,"Aireys Inlet, Vic",1997,CCA2979,1727,Eucalyptus tricarpa,D.Nicolle,1727,38,27,13,144,6,36,138,18,Alive,None evident,,Moderate,Flowered
+R141/T17,-27.32,0.7,53.7,Eucalyptus spectatrix,DN 1751,"Bega, NSW",1997,CCA3031,1751,Eucalyptus spectatrix,D.Nicolle,1751,36,39,32,149,54,19,141,17,Alive,None evident,,None evident,Flowered
+R141/T18,-27.12,0.8,51.2,Eucalyptus spectatrix,DN 1751,"Bega, NSW",1997,CCA3032,1751,Eucalyptus spectatrix,D.Nicolle,1751,36,39,32,149,54,19,141,18,Alive,Slight,,None evident,Flowered
+R141/T20,-26.85,0.7,53,Eucalyptus spectatrix,DN 1751,"Bega, NSW",1997,CCA3034,1751,Eucalyptus spectatrix,D.Nicolle,1751,36,39,32,149,54,19,141,20,Alive,Slight,,None evident,
+R141/T29,-28.98,1,50.9,Eucalyptus bosistoana,DN 1733,"Metung, Vic",1997,CCA3041,1733,Eucalyptus bosistoana,D.Nicolle,1733,37,52,40,147,51,15,141,29,Alive,None evident,,None evident,Flowered
+R141/T30,-28.05,1.1,52.9,Eucalyptus bosistoana,DN 1733,"Metung, Vic",1997,CCA3042,1733,Eucalyptus bosistoana,D.Nicolle,1733,37,52,40,147,51,15,141,30,Alive,None evident,,None evident,Flowered
+R141/T33,-28.96,0.9,51.3,Eucalyptus kartzoffiana,DN 1765,"Araluen, NSW",1997,CCA3045,1765,Eucalyptus kartzoffiana,D.Nicolle,1765,35,36,14,149,45,56,141,33,Alive,Severe,,None evident,Flowered
+R141/T34,-30.2,1.2,51.4,Eucalyptus kartzoffiana,DN 1765,"Araluen, NSW",1997,CCA3046,1765,Eucalyptus kartzoffiana,D.Nicolle,1765,35,36,14,149,45,56,141,34,Alive,Slight,,None evident,Flowered
+R141/T35,-28.13,1.1,52.9,Eucalyptus kartzoffiana,DN 1765,"Araluen, NSW",1997,CCA3047,1765,Eucalyptus kartzoffiana,D.Nicolle,1765,35,36,14,149,45,56,141,35,Alive,Slight,,None evident,Flowered
+R142/T10,-28.4,1.3,49.6,Eucalyptus polyanthemos subsp. vestita,DN 1738,"Orbost, Vic",1997,CCA3053,1738,Eucalyptus polyanthemos subsp. vestita (subsp. longior),D.Nicolle,1738,37,42,5,148,19,42,142,10,Alive,Slight,,None evident,Flowered
+R142/T11,-29.04,1.2,49.7,Eucalyptus polyanthemos subsp. vestita,DN 1738,"Orbost, Vic",1997,CCA3054,1738,Eucalyptus polyanthemos subsp. vestita (subsp. longior),D.Nicolle,1738,37,42,5,148,19,42,142,11,Alive,None evident,,None evident,Flowered
+R142/T12,-28.48,0.9,49.3,Eucalyptus polyanthemos subsp. vestita,DN 1738,"Orbost, Vic",1997,CCA3055,1738,Eucalyptus polyanthemos subsp. vestita (subsp. longior),D.Nicolle,1738,37,42,5,148,19,42,142,12,Alive,None evident,,Moderate,Flowered
+R142/T31,-28.38,1.2,49.6,Eucalyptus baueriana,DN 1734,"Metung, Vic",1997,CCA3064,1734,Eucalyptus baueriana,D.Nicolle,1734,37,52,40,147,51,15,142,31,Alive,Slight,,Slight,Flowered
+R142/T32,-27.64,1.4,48.9,Eucalyptus baueriana,DN 1734,"Metung, Vic",1997,CCA3065,1734,Eucalyptus baueriana,D.Nicolle,1734,37,52,40,147,51,15,142,32,Alive,Moderate,,None evident,Flowered
+R142/T33,-25.76,1.3,48.8,Eucalyptus baueriana,DN 1734,"Metung, Vic",1997,CCA3066,1734,Eucalyptus baueriana,D.Nicolle,1734,37,52,40,147,51,15,142,33,Alive,Severe,,Moderate,Flowered
+R143/T33,-29.43,0.9,50.4,Eucalyptus parvula x E. ?viminalis,DN 591,"Numeralla, NSW",1997,CCA3088,591,Eucalyptus parvula x E. viminalis subsp. viminalis,D.Nicolle,591,36,18,28,149,30,41,143,33,Alive,Dead,3 - 6 months,None evident,
+R143/T15,-29.58,1.5,50.4,Eucalyptus parramattensis subsp. parramattensis,DN 1763,"Thirlmere, NSW",1997,CCA3076,1763,Eucalyptus parramattensis subsp. parramattensis,D.Nicolle,1763,34,13,2,150,33,1,143,15,Alive,None evident,,None evident,Flowered
+R143/T16,-28.92,1.5,50.5,Eucalyptus parramattensis subsp. parramattensis,DN 1763,"Thirlmere, NSW",1997,CCA3077,1763,Eucalyptus parramattensis subsp. parramattensis,D.Nicolle,1763,34,13,2,150,33,1,143,16,Alive,None evident,,None evident,Flowered
+R143/T26,-27.44,1.1,51.6,Eucalyptus beyeriana,DN 1761,"Bargo, NSW",1997,CCA3085,1761,Eucalyptus beyeriana,D.Nicolle,1761,34,18,45,150,35,15,143,26,Alive,Slight,,None evident,Flowered
+R143/T27,-28.57,1.3,49.6,Eucalyptus beyeriana,DN 1761,"Bargo, NSW",1997,CCA3086,1761,Eucalyptus beyeriana,D.Nicolle,1761,34,18,45,150,35,15,143,27,Alive,Slight,,None evident,Flowered
+R143/T28,-29.63,0.8,47.2,Eucalyptus beyeriana,DN 1761,"Bargo, NSW",1997,CCA3087,1761,Eucalyptus beyeriana,D.Nicolle,1761,34,18,45,150,35,15,143,28,Alive,Slight,,None evident,Flowered
+R144/T01,-27.89,1.2,51.8,Eucalyptus maidenii,DN 1764,"Araluen, NSW",1997,CCA3092,1764,Eucalyptus maidenii,D.Nicolle,1764,35,34,21,149,48,35,144,1,Alive,Slight,,Slight,Flowered
+R144/T04,-29.02,0.9,52.8,Eucalyptus maidenii,DN 1764,"Araluen, NSW",1997,CCA3094,1764,Eucalyptus maidenii,D.Nicolle,1764,35,34,21,149,48,35,144,4,Alive,Slight,,Slight,
+R144/T28,-27.57,1.2,49.9,Eucalyptus tereticornis subsp. mediana,DN 1736,"Metung, Vic",1997,CCA3108,1736,Eucalyptus tereticornis subsp. mediana,D.Nicolle,1736,37,50,40,147,51,8,144,28,Alive,None evident,,None evident,Flowered
+R144/T29,-27.86,1,48.3,Eucalyptus tereticornis subsp. mediana,DN 1736,"Metung, Vic",1997,CCA3109,1736,Eucalyptus tereticornis subsp. mediana,D.Nicolle,1736,37,50,40,147,51,8,144,29,Alive,None evident,,None evident,Flowered
+R144/T30,-28.32,1.3,49.9,Eucalyptus tereticornis subsp. mediana,DN 1736,"Metung, Vic",1997,CCA3110,1736,Eucalyptus tereticornis subsp. mediana,D.Nicolle,1736,37,50,40,147,51,8,144,30,Alive,None evident,,None evident,Flowered
+R145/T01,-28.08,1.4,49.7,Eucalyptus leucoxylon subsp. pruinosa,DN 1798,"Kingston SE, SA",1997,CCA3116,1798,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,1798,36,49,35,139,55,13,145,1,Alive,None evident,,None evident,Flowered
+R145/T03,-28.36,1.3,49.3,Eucalyptus leucoxylon subsp. pruinosa,DN 1798,"Kingston SE, SA",1997,CCA3118,1798,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,1798,36,49,35,139,55,13,145,3,Alive,None evident,,None evident,Flowered
+R145/T04,-27.53,1.3,49.9,Eucalyptus leucoxylon subsp. pruinosa,DN 1798,"Kingston SE, SA",1997,CCA3119,1798,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,1798,36,49,35,139,55,13,145,4,Alive,None evident,,None evident,Flowered
+R083/T20,-29.57,0.9,51.9,Eucalyptus ochrophloia,DN 2119,"Charleville, Qld",1998,CCA1418,2119,Eucalyptus ochrophloia,D.Nicolle,2119,26,30,15,146,4,55,83,20,Alive,None evident,,None evident,
+R083/T21,-29.92,0.8,49,Eucalyptus ochrophloia,DN 2119,"Charleville, Qld",1998,CCA1419,2119,Eucalyptus ochrophloia,D.Nicolle,2119,26,30,15,146,4,55,83,21,Alive,None evident,,None evident,
+R083/T22,-28.93,1.2,52.7,Eucalyptus ochrophloia,DN 2119,"Charleville, Qld",1998,CCA1420,2119,Eucalyptus ochrophloia,D.Nicolle,2119,26,30,15,146,4,55,83,22,Alive,None evident,,None evident,
+R084/T17,-28.69,1,48.6,Eucalyptus aenea,DN 2083,"Gungal, NSW",1998,CCA1436,2083,Eucalyptus aenea,D.Nicolle,2083,32,17,34,150,24,40,84,17,Alive,None evident,,None evident,Flowered
+R084/T18,-27.32,1.1,50.7,Eucalyptus aenea,DN 2083,"Gungal, NSW",1998,CCA1437,2083,Eucalyptus aenea,D.Nicolle,2083,32,17,34,150,24,40,84,18,Alive,None evident,,None evident,Flowered
+R084/T19,-27.89,1,48.9,Eucalyptus aenea,DN 2083,"Gungal, NSW",1998,CCA1438,2083,Eucalyptus aenea,D.Nicolle,2083,32,17,34,150,24,40,84,19,Alive,None evident,,None evident,Flowered
+R150/T01,-29.2,0.9,52,Eucalyptus rhombica,DN 2104,"Karara, Qld",1998,CCA3154,2104,Eucalyptus rhombica,D.Nicolle,2104,28,7,43,151,30,56,150,1,Alive,None evident,,None evident,Flowered
+R150/T03,-28.24,1,52,Eucalyptus rhombica,DN 2104,"Karara, Qld",1998,CCA3156,2104,Eucalyptus rhombica,D.Nicolle,2104,28,7,43,151,30,56,150,3,Alive,None evident,,None evident,Flowered
+R150/T04,-28.75,1,51.8,Eucalyptus rhombica,DN 2104,"Karara, Qld",1998,CCA3157,2104,Eucalyptus rhombica,D.Nicolle,2104,28,7,43,151,30,56,150,4,Alive,None evident,,None evident,Flowered
+R150/T09,-27.78,1,50.8,Eucalyptus virens,DN 2116,"Carnarvon Range, Qld",1998,CCA3160,2116,Eucalyptus virens,D.Nicolle,2116,25,11,59,147,56,10,150,9,Alive,None evident,,None evident,Flowered
+R150/T11,-25.79,1.2,50.2,Eucalyptus virens,DN 2116,"Carnarvon Range, Qld",1998,CCA3162,2116,Eucalyptus virens,D.Nicolle,2116,25,11,59,147,56,10,150,11,Alive,None evident,,None evident,
+R150/T12,-25.81,1,51.2,Eucalyptus virens,DN 2116,"Carnarvon Range, Qld",1998,CCA3163,2116,Eucalyptus virens,D.Nicolle,2116,25,11,59,147,56,10,150,12,Alive,None evident,,None evident,Flowered
+R151/T09,-27.3,1.8,50.9,Eucalyptus major,DN 2107,"Helidon Hills, Qld",1998,CCA3176,2107,Eucalyptus major,D.Nicolle,2107,27,31,7,152,9,39,151,9,Alive,Slight,,None evident,
+R151/T10,-27.66,1.7,51.4,Eucalyptus major,DN 2107,"Helidon Hills, Qld",1998,CCA3177,2107,Eucalyptus major,D.Nicolle,2107,27,31,7,152,9,39,151,10,Alive,Slight,,None evident,Flowered
+R151/T18,-28.8,0.9,51.2,Eucalyptus taurina,DN 2106,"Helidon Hills, Qld",1998,CCA3180,2106,Eucalyptus taurina,D.Nicolle,2106,27,31,36,152,9,22,151,18,Alive,Moderate,,Slight,Flowered
+R151/T19,-29.98,1,50.4,Eucalyptus taurina,DN 2106,"Helidon Hills, Qld",1998,CCA3181,2106,Eucalyptus taurina,D.Nicolle,2106,27,31,36,152,9,22,151,19,Alive,Slight,,None evident,Flowered
+R151/T20,-28.76,1,50.3,Eucalyptus taurina,DN 2106,"Helidon Hills, Qld",1998,CCA3182,2106,Eucalyptus taurina,D.Nicolle,2106,27,31,36,152,9,22,151,20,Alive,Slight,,None evident,Flowered
+R151/T22,-27.75,1.2,48.4,Eucalyptus melanoleuca,DN 2111,"Yarraman, Qld",1998,CCA3184,2111,Eucalyptus melanoleuca,D.Nicolle,2111,26,47,12,151,57,27,151,22,Alive,None evident,,None evident,Flowered
+R151/T23,-28.75,1.2,49.2,Eucalyptus melanoleuca,DN 2111,"Yarraman, Qld",1998,CCA3185,2111,Eucalyptus melanoleuca,D.Nicolle,2111,26,47,12,151,57,27,151,23,Alive,None evident,,None evident,Flowered
+R151/T24,-30.84,0.9,49.2,Eucalyptus melanoleuca,DN 2111,"Yarraman, Qld",1998,CCA3186,2111,Eucalyptus melanoleuca,D.Nicolle,2111,26,47,12,151,57,27,151,24,Alive,Slight,,None evident,Flowered
+R151/T29,-29.71,0.7,47.9,Eucalyptus ophitica,DN 2099,"Baryulgil, NSW",1998,CCA3190,2099,Eucalyptus ophitica,D.Nicolle,2099,29,17,38,152,38,11,151,29,Alive,Slight,,None evident,Flowered
+R151/T30,-30.04,0.8,49.8,Eucalyptus ophitica,DN 2099,"Baryulgil, NSW",1998,CCA3191,2099,Eucalyptus ophitica,D.Nicolle,2099,29,17,38,152,38,11,151,30,Alive,Slight,,None evident,Flowered
+R151/T32,-29.47,0.8,50.4,Eucalyptus ophitica,DN 2099,"Baryulgil, NSW",1998,CCA3193,2099,Eucalyptus ophitica,D.Nicolle,2099,29,17,38,152,38,11,151,32,Alive,Slight,,None evident,Flowered
+R152/T09,-28.6,1.1,50.3,Eucalyptus fracta,DN 2081,"Broken Back Range, NSW",1998,CCA3198,2081,Eucalyptus fracta,D.Nicolle,2081,32,46,2,151,12,26,152,9,Alive,None evident,,None evident,Flowered
+R152/T10,-26.91,0.9,49.6,Eucalyptus fracta,DN 2081,"Broken Back Range, NSW",1998,CCA3199,2081,Eucalyptus fracta,D.Nicolle,2081,32,46,2,151,12,26,152,10,Alive,None evident,,None evident,Flowered
+R152/T11,-28.72,0.9,51.2,Eucalyptus fracta,DN 2081,"Broken Back Range, NSW",1998,CCA3200,2081,Eucalyptus fracta,D.Nicolle,2081,32,46,2,151,12,26,152,11,Alive,Slight,,None evident,Flowered
+R152/T17,-27.56,0.8,55.1,Eucalyptus diversifolia subsp. diversifolia,DN 1991,"Cape Nelson, Vic",1998,CCA3202,1991,Eucalyptus diversifolia subsp. diversifolia (subsp. megacarpa),D.Nicolle,1991,38,24,31,141,32,39,152,17,Alive,None evident,,None evident,Flowered
+R152/T19,-29.13,0.8,54.3,Eucalyptus diversifolia subsp. diversifolia,DN 1991,"Cape Nelson, Vic",1998,CCA3203,1991,Eucalyptus diversifolia subsp. diversifolia (subsp. megacarpa),D.Nicolle,1991,38,24,31,141,32,39,152,19,Alive,None evident,,None evident,Flowered
+R152/T20,-28.79,0.9,54.2,Eucalyptus diversifolia subsp. diversifolia,DN 1991,"Cape Nelson, Vic",1998,CCA3204,1991,Eucalyptus diversifolia subsp. diversifolia (subsp. megacarpa),D.Nicolle,1991,38,24,31,141,32,39,152,20,Alive,None evident,,None evident,Flowered
+R153/T01,-26.02,1.3,48.6,Eucalyptus hypostomatica,DN 2080,"Paxton, NSW",1998,CCA3208,2080,Eucalyptus rudderi (E. hypostomatica),D.Nicolle,2080,32,59,48,151,15,42,153,1,Alive,Moderate,,None evident,Flowered
+R153/T02,-27.14,1.2,49.2,Eucalyptus hypostomatica,DN 2080,"Paxton, NSW",1998,CCA3209,2080,Eucalyptus rudderi (E. hypostomatica),D.Nicolle,2080,32,59,48,151,15,42,153,2,Alive,Slight,,Moderate,Flowered
+R153/T04,-27.62,1.2,49.8,Eucalyptus hypostomatica,DN 2080,"Paxton, NSW",1998,CCA3211,2080,Eucalyptus rudderi (E. hypostomatica),D.Nicolle,2080,32,59,48,151,15,42,153,4,Alive,Moderate,,Slight,Flowered
+R155/T10,-27.47,1.2,50.4,Eucalyptus largeana,DN 2086,"Craven, NSW",1998,CCA3228,2086,Eucalyptus largeana,D.Nicolle,2086,32,10,7,151,53,17,155,10,Alive,Slight,,Moderate,Flowered
+R155/T11,-28.83,1.2,51.5,Eucalyptus largeana,DN 2086,"Craven, NSW",1998,CCA3229,2086,Eucalyptus largeana,D.Nicolle,2086,32,10,7,151,53,17,155,11,Alive,Moderate,,Slight,Flowered
+R155/T12,-28.04,1.3,50.9,Eucalyptus largeana,DN 2086,"Craven, NSW",1998,CCA3230,2086,Eucalyptus largeana,D.Nicolle,2086,32,10,7,151,53,17,155,12,Alive,Slight,,None evident,Flowered
+R156/T14,-28.64,1,44.9,Eucalyptus paedoglauca,DN 1298,"Mt Stuart, Qld",1998,CCA3236,1298,Eucalyptus paedoglauca,D.Nicolle,1298,19,21,39,146,48,30,156,14,Alive,None evident,,None evident,
+R156/T15,-29.19,1.1,49.7,Eucalyptus paedoglauca,DN 1298,"Mt Stuart, Qld",1998,CCA3237,1298,Eucalyptus paedoglauca,D.Nicolle,1298,19,21,39,146,48,30,156,15,Alive,None evident,,None evident,
+R156/T16,-29.77,1.1,50.8,Eucalyptus paedoglauca,DN 1298,"Mt Stuart, Qld",1998,CCA3238,1298,Eucalyptus paedoglauca,D.Nicolle,1298,19,21,39,146,48,30,156,16,Alive,Slight,,None evident,
+R156/T21,-29.74,1.5,51.1,Eucalyptus glaucina,DN 2085,"Paterson, NSW",1998,CCA3239,2085,Eucalyptus glaucina,D.Nicolle,2085,32,33,54,151,36,8,156,21,Alive,Slight,,None evident,Flowered
+R156/T23,-28.34,1.6,49.8,Eucalyptus glaucina,DN 2085,"Paterson, NSW",1998,CCA3241,2085,Eucalyptus glaucina,D.Nicolle,2085,32,33,54,151,36,8,156,23,Alive,None evident,,None evident,Flowered
+R156/T24,-27.98,1.2,48.5,Eucalyptus glaucina,DN 2085,"Paterson, NSW",1998,CCA3242,2085,Eucalyptus glaucina,D.Nicolle,2085,32,33,54,151,36,8,156,24,Alive,Slight,,None evident,Flowered
+R158/T17,-26.77,1.2,51.1,Eucalyptus squamosa,DN 2072,"Glenbrook, NSW",1998,CCA3250,2072,Eucalyptus squamosa,D.Nicolle,2072,33,47,42,150,34,14,158,17,Alive,None evident,,None evident,
+R158/T19,-26.83,0.9,51.6,Eucalyptus squamosa,DN 2072,"Glenbrook, NSW",1998,CCA3252,2072,Eucalyptus squamosa,D.Nicolle,2072,33,47,42,150,34,14,158,19,Alive,None evident,,None evident,Flowered
+R158/T20,-23.99,1.4,51.7,Eucalyptus squamosa,DN 2072,"Glenbrook, NSW",1998,CCA3253,2072,Eucalyptus squamosa,D.Nicolle,2072,33,47,42,150,34,14,158,20,Alive,None evident,,None evident,Flowered
+R158/T29,-28.98,1.4,52.5,Eucalyptus seeana,DN 2089,"Lake Cathie, NSW",1998,CCA3254,2089,Eucalyptus seeana,D.Nicolle,2089,31,31,28,152,47,33,158,29,Alive,Moderate,,Slight,Flowered
+R158/T30,-29.82,1.9,52.1,Eucalyptus seeana,DN 2089,"Lake Cathie, NSW",1998,CCA3255,2089,Eucalyptus seeana,D.Nicolle,2089,31,31,28,152,47,33,158,30,Alive,Slight,,None evident,Flowered
+R158/T31,-30.24,1.3,52.4,Eucalyptus seeana,DN 2089,"Lake Cathie, NSW",1998,CCA3256,2089,Eucalyptus seeana,D.Nicolle,2089,31,31,28,152,47,33,158,31,Alive,Slight,,Severe,Flowered
+R159/T09,-26.41,0.9,49.9,Eucalyptus curtisii,DN 2108,"Beerwah, Qld",1998,CCA3261,2108,Eucalyptus curtisii,D.Nicolle,2108,26,51,52,152,59,6,159,9,Alive,Slight,,None evident,
+R159/T12,-27.24,1,50.6,Eucalyptus curtisii,DN 2108,"Beerwah, Qld",1998,CCA3262,2108,Eucalyptus curtisii,D.Nicolle,2108,26,51,52,152,59,6,159,12,Alive,Slight,,None evident,Flowered
+R165/T08,-29,1.1,47.4,Eucalyptus tardecidens,DN 2521,"Maitland Downs, Qld",1999,CCA3315,2521,Eucalyptus tardecidens,D.Nicolle,2521,16,22,42,144,44,10,165,8,Alive,None evident,,None evident,Flowered
+R165/T10,-28.85,1,49.4,Eucalyptus tardecidens,DN 2521,"Maitland Downs, Qld",1999,CCA3317,2521,Eucalyptus tardecidens,D.Nicolle,2521,16,22,42,144,44,10,165,10,Alive,None evident,,None evident,Flowered
+R165/T11,-27.13,1.1,49.4,Eucalyptus tardecidens,DN 2521,"Maitland Downs, Qld",1999,CCA3318,2521,Eucalyptus tardecidens,D.Nicolle,2521,16,22,42,144,44,10,165,11,Alive,None evident,,None evident,
+R165/T27,-28.85,2,51.2,Eucalyptus brassiana,DN 2512,"Coen, Qld",1999,CCA3324,2512,Eucalyptus brassiana,D.Nicolle,2512,14,36,54,143,27,4,165,27,Alive,Slight,,None evident,Flowered
+R165/T28,-28.49,1.8,50.1,Eucalyptus brassiana,DN 2512,"Coen, Qld",1999,CCA3325,2512,Eucalyptus brassiana,D.Nicolle,2512,14,36,54,143,27,4,165,28,Alive,Severe,,None evident,
+R165/T30,-27.69,1.7,49.8,Eucalyptus brassiana,DN 2512,"Coen, Qld",1999,CCA3327,2512,Eucalyptus brassiana,D.Nicolle,2512,14,36,54,143,27,4,165,30,Alive,Moderate,,None evident,Flowered
+R165/T32,-29.59,1.2,50.5,Eucalyptus staigeriana,DN 2520,"Maitland Downs, Qld",1999,CCA3329,2520,Eucalyptus staigeriana,D.Nicolle,2520,16,12,10,144,45,7,165,32,Alive,None evident,,None evident,Flowered
+R165/T33,-30.66,1.3,50.9,Eucalyptus staigeriana,DN 2520,"Maitland Downs, Qld",1999,CCA3330,2520,Eucalyptus staigeriana,D.Nicolle,2520,16,12,10,144,45,7,165,33,Alive,None evident,,None evident,Flowered
+R165/T34,-30.43,1.2,50.5,Eucalyptus staigeriana,DN 2520,"Maitland Downs, Qld",1999,CCA3331,2520,Eucalyptus staigeriana,D.Nicolle,2520,16,12,10,144,45,7,165,34,Alive,None evident,,None evident,
+R166/T01,-28.91,1.1,48,Eucalyptus sp. Mt Garnet,DN 2506,"Mt Garnet, Qld",1999,CCA3332,2506,Eucalyptus moluccana (northern variant),D.Nicolle,2506,17,43,39,145,2,51,166,1,Alive,Slight,,None evident,Flowered
+R166/T02,-27.91,1.2,49.2,Eucalyptus sp. Mt Garnet,DN 2506,"Mt Garnet, Qld",1999,CCA3333,2506,Eucalyptus moluccana (northern variant),D.Nicolle,2506,17,43,39,145,2,51,166,2,Alive,None evident,,None evident,Flowered
+R166/T03,-28.29,1.1,49.4,Eucalyptus sp. Mt Garnet,DN 2506,"Mt Garnet, Qld",1999,CCA3334,2506,Eucalyptus moluccana (northern variant),D.Nicolle,2506,17,43,39,145,2,51,166,3,Alive,Moderate,,None evident,Flowered
+R166/T06,-28.3,1.1,49.1,Eucalyptus shirleyi,DN 2508,"Lappa Junction, Qld",1999,CCA3337,2508,Eucalyptus shirleyi ,D.Nicolle,2508,17,37,28,144,59,7,166,6,Alive,None evident,,None evident,Flowered
+R166/T07,-28.07,1.1,46.8,Eucalyptus shirleyi,DN 2508,"Lappa Junction, Qld",1999,CCA3338,2508,Eucalyptus shirleyi ,D.Nicolle,2508,17,37,28,144,59,7,166,7,Alive,None evident,,None evident,Flowered
+R166/T08,-28.9,0.9,46.8,Eucalyptus shirleyi,DN 2508,"Lappa Junction, Qld",1999,CCA3339,2508,Eucalyptus shirleyi ,D.Nicolle,2508,17,37,28,144,59,7,166,8,Alive,None evident,,None evident,Flowered
+R166/T17,-29.96,1.4,48.8,Eucalyptus decolor,DN 2545,"Boynedale, Qld",1999,CCA3343,2545,Eucalyptus decolor,D.Nicolle,2545,24,11,51,151,16,32,166,17,Alive,None evident,,None evident,Flowered
+R166/T19,-31.25,1,49.2,Eucalyptus decolor,DN 2545,"Boynedale, Qld",1999,CCA3345,2545,Eucalyptus decolor,D.Nicolle,2545,24,11,51,151,16,32,166,19,Alive,Slight,,None evident,Flowered
+R166/T20,-30.43,1.2,49.5,Eucalyptus decolor,DN 2545,"Boynedale, Qld",1999,CCA3346,2545,Eucalyptus decolor,D.Nicolle,2545,24,11,51,151,16,32,166,20,Alive,None evident,,None evident,Flowered
+R168/T14,-29.28,1,49.2,Eucalyptus longicornis,DN 2241,"Wagin, WA",1999,CCA3379,2241,Eucalyptus longicornis,D.Nicolle,2241,33,5,36,117,14,24,168,14,Alive,None evident,,None evident,Flowered
+R168/T15,-29.65,0.9,50,Eucalyptus longicornis,DN 2241,"Wagin, WA",1999,CCA3380,2241,Eucalyptus longicornis,D.Nicolle,2241,33,5,36,117,14,24,168,15,Alive,None evident,,None evident,Flowered
+R168/T16,-29.43,1.3,49.9,Eucalyptus longicornis,DN 2241,"Wagin, WA",1999,CCA3381,2241,Eucalyptus longicornis,D.Nicolle,2241,33,5,36,117,14,24,168,16,Alive,None evident,,None evident,Flowered
+R170/T05,-29.35,0.8,46.9,Eucalyptus quadricostata,DN 2533,"Pentland, Qld",1999,CCA3409,2533,Eucalyptus quadricostata,D.Nicolle,2533,20,28,50,145,18,58,170,5,Alive,None evident,,None evident,Flowered
+R170/T06,-29.24,1,47.3,Eucalyptus quadricostata,DN 2533,"Pentland, Qld",1999,CCA3410,2533,Eucalyptus quadricostata,D.Nicolle,2533,20,28,50,145,18,58,170,6,Alive,None evident,,None evident,Flowered
+R170/T07,-28.85,0.8,46.6,Eucalyptus quadricostata,DN 2533,"Pentland, Qld",1999,CCA3411,2533,Eucalyptus quadricostata,D.Nicolle,2533,20,28,50,145,18,58,170,7,Alive,None evident,,None evident,Flowered
+R170/T14,-28.53,1.2,50.5,Eucalyptus newbeyi,DN 212,"Beaufort Inlet, WA",1999,CCA3415,212,Eucalyptus newbeyi,D.Nicolle,212,34,27,12,118,52,33,170,14,Alive,None evident,,None evident,Flowered
+R170/T15,-27,1.4,51.2,Eucalyptus newbeyi,DN 212,"Beaufort Inlet, WA",1999,CCA3416,212,Eucalyptus newbeyi,D.Nicolle,212,34,27,12,118,52,33,170,15,Alive,None evident,,None evident,Flowered
+R170/T16,-28.92,1.2,52.2,Eucalyptus newbeyi,DN 212,"Beaufort Inlet, WA",1999,CCA3417,212,Eucalyptus newbeyi,D.Nicolle,212,34,27,12,118,52,33,170,16,Alive,None evident,,None evident,Flowered
+R171/T27,-28.02,0.9,49.1,Eucalyptus wandoo subsp. wandoo,DN 230,"Stirling Range, WA",1999,CCA3441,230,Eucalyptus wandoo subsp. wandoo,D.Nicolle,230,32,21,13,118,4,9,171,27,Alive,None evident,,None evident,
+R171/T28,-27.6,1,48.2,Eucalyptus wandoo subsp. wandoo,DN 230,"Stirling Range, WA",1999,CCA3442,230,Eucalyptus wandoo subsp. wandoo,D.Nicolle,230,32,21,13,118,4,9,171,28,Alive,None evident,,None evident,Flowered
+R171/T30,-28.87,0.9,49.9,Eucalyptus wandoo subsp. wandoo,DN 230,"Stirling Range, WA",1999,CCA3444,230,Eucalyptus wandoo subsp. wandoo,D.Nicolle,230,32,21,13,118,4,9,171,30,Alive,None evident,,None evident,Flowered
+R174/T13,-29.18,1.1,49.8,Eucalyptus camaldulensis subsp. acuta,DN 2553,"Dirranbandi, Qld",1999,CCA3490,2553,Eucalyptus camaldulensis subsp. acuta,D.Nicolle,2553,28,42,12,148,10,9,174,13,Alive,Slight,,None evident,
+R174/T14,-27.92,1.4,50.2,Eucalyptus camaldulensis subsp. acuta,DN 2553,"Dirranbandi, Qld",1999,CCA3491,2553,Eucalyptus camaldulensis subsp. acuta,D.Nicolle,2553,28,42,12,148,10,9,174,14,Alive,Slight,,None evident,Flowered
+R174/T15,-27.92,1.1,50.5,Eucalyptus camaldulensis subsp. acuta,DN 2553,"Dirranbandi, Qld",1999,CCA3492,2553,Eucalyptus camaldulensis subsp. acuta,D.Nicolle,2553,28,42,12,148,10,9,174,15,Alive,Slight,,None evident,
+R174/T21,-27.31,0.9,49.6,Eucalyptus arachnaea subsp. arrecta,DN 2216,"Morawa, WA",1999,CCA3498,2216,Eucalyptus arachnaea subsp. arrecta,D.Nicolle,2216,29,9,14,115,44,29,174,21,Alive,None evident,,None evident,Flowered
+R174/T22,-26.43,0.8,49.3,Eucalyptus arachnaea subsp. arrecta,DN 2216,"Morawa, WA",1999,CCA3499,2216,Eucalyptus arachnaea subsp. arrecta,D.Nicolle,2216,29,9,14,115,44,29,174,22,Alive,None evident,,None evident,Flowered
+R175/T16,-27.87,1,48.9,Eucalyptus intertexta,DN 2554,"Gongolgon, NSW",1999,CCA3519,2554,Eucalyptus intertexta,D.Nicolle,2554,30,23,26,146,50,44,175,16,Alive,Slight,,None evident,Flowered
+R175/T17,-28.26,1,48.5,Eucalyptus intertexta,DN 2554,"Gongolgon, NSW",1999,CCA3520,2554,Eucalyptus intertexta,D.Nicolle,2554,30,23,26,146,50,44,175,17,Alive,Slight,,None evident,Flowered
+R175/T18,-27.73,1.3,50.8,Eucalyptus intertexta,DN 2554,"Gongolgon, NSW",1999,CCA3521,2554,Eucalyptus intertexta,D.Nicolle,2554,30,23,26,146,50,44,175,18,Alive,Slight,,None evident,
+R177/T01,-27.61,1.2,49.2,Eucalyptus lucens,DN 1353,"Mt Hermannsburg, NT",1999,CCA3549,1353,Eucalyptus lucens,D.Nicolle,1353,24,0,0,132,39,3,177,1,Alive,None evident,,None evident,Flowered
+R177/T02,-27.01,1.1,48.9,Eucalyptus lucens,DN 1353,"Mt Hermannsburg, NT",1999,CCA3550,1353,Eucalyptus lucens,D.Nicolle,1353,24,0,0,132,39,3,177,2,Alive,None evident,,None evident,Flowered
+R177/T03,-28.28,1.1,50.7,Eucalyptus lucens,DN 1353,"Mt Hermannsburg, NT",1999,CCA3551,1353,Eucalyptus lucens,D.Nicolle,1353,24,0,0,132,39,3,177,3,Alive,None evident,,None evident,Flowered
+R177/T12,-29.33,1,51.4,Eucalyptus largiflorens,DN 2556,"Mulyungarie, SA",1999,CCA3557,2556,Eucalyptus largiflorens (green-leaf variant),D.Nicolle,2556,31,46,21,140,53,28,177,12,Alive,None evident,,None evident,Flowered
+R177/T13,-28.84,0.8,48.9,Eucalyptus largiflorens,DN 2556,"Mulyungarie, SA",1999,CCA3558,2556,Eucalyptus largiflorens (green-leaf variant),D.Nicolle,2556,31,46,21,140,53,28,177,13,Alive,None evident,,None evident,Flowered
+R178/T05,-28.08,0.9,52,Eucalyptus brockwayi,DN 2168,"Norseman, WA",1999,CCA3569,2168,Eucalyptus brockwayi,D.Nicolle,2168,32,9,16,121,42,12,178,5,Alive,None evident,,None evident,Flowered
+R178/T07,-28.15,0.9,51.7,Eucalyptus brockwayi,DN 2168,"Norseman, WA",1999,CCA3571,2168,Eucalyptus brockwayi,D.Nicolle,2168,32,9,16,121,42,12,178,7,Alive,None evident,,None evident,Flowered
+R178/T09,-29.29,1.1,50,Eucalyptus leucoxylon subsp. pruinosa,DN 2566,"Wilmington, SA",1999,CCA3572,2566,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2566,32,42,20,138,1,37,178,9,Alive,None evident,,None evident,Flowered
+R178/T11,-29.17,1.2,51.2,Eucalyptus leucoxylon subsp. pruinosa,DN 2566,"Wilmington, SA",1999,CCA3573,2566,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2566,32,42,20,138,1,37,178,11,Alive,None evident,,None evident,Flowered
+R178/T12,-29.32,1.2,51.3,Eucalyptus leucoxylon subsp. pruinosa,DN 2566,"Wilmington, SA",1999,CCA3574,2566,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2566,32,42,20,138,1,37,178,12,Alive,None evident,,None evident,Flowered
+R178/T13,-28.53,1.3,50,Eucalyptus camaldulensis subsp. arida,DN 2555,"Silverton, NSW",1999,CCA3575,2555,Eucalyptus camaldulensis subsp. arida,D.Nicolle,2555,31,53,18,141,15,25,178,13,Alive,None evident,,None evident,Flowered
+R178/T14,-28.76,1.2,51.5,Eucalyptus camaldulensis subsp. arida,DN 2555,"Silverton, NSW",1999,CCA3576,2555,Eucalyptus camaldulensis subsp. arida,D.Nicolle,2555,31,53,18,141,15,25,178,14,Alive,None evident,,None evident,Flowered
+R178/T16,-28.15,1.2,49.6,Eucalyptus camaldulensis subsp. arida,DN 2555,"Silverton, NSW",1999,CCA3578,2555,Eucalyptus camaldulensis subsp. arida,D.Nicolle,2555,31,53,18,141,15,25,178,16,Alive,None evident,,None evident,Flowered
+R168/T07,-28.33,1,47.6,Eucalyptus drepanophylla,DN 2532,"Lolworth Range, Qld",1999,CCA3373,2532,Eucalyptus drepanophylla,D.Nicolle,2532,20,15,58,145,30,53,168,7,Alive,None evident,,None evident,
+R168/T09,-28.69,0.9,48.7,Eucalyptus drepanophylla,DN 2532,"Lolworth Range, Qld",1999,CCA3375,2532,Eucalyptus drepanophylla,D.Nicolle,2532,20,15,58,145,30,53,168,9,Alive,None evident,,None evident,
+R168/T10,-28.55,0.9,46.8,Eucalyptus drepanophylla,DN 2532,"Lolworth Range, Qld",1999,CCA3376,2532,Eucalyptus drepanophylla,D.Nicolle,2532,20,15,58,145,30,53,168,10,Alive,Slight,,None evident,
+R182/T34,-28.28,1.1,49.8,Eucalyptus intertexta,DN 2677,"Warburton, WA",2000,CCA3627,2677,Eucalyptus intertexta,D.Nicolle,2677,27,12,12,126,26,25,182,34,Alive,None evident,,None evident,Flowered
+R182/T37,-28.68,1.6,48.7,Eucalyptus intertexta,DN 2677,"Warburton, WA",2000,CCA3629,2677,Eucalyptus intertexta,D.Nicolle,2677,27,12,12,126,26,25,182,37,Alive,None evident,,None evident,Flowered
+R185/T28,-29.25,0.9,49.2,Eucalyptus coolabah,DN 2957,"Wilcannia, NSW",2000,CCA3711,2957,Eucalyptus coolabah,D.Nicolle,2957,31,34,29,143,23,26,185,28,Alive,None evident,,None evident,Flowered
+R185/T29,-30.23,1.2,50.7,Eucalyptus coolabah,DN 2957,"Wilcannia, NSW",2000,CCA3712,2957,Eucalyptus coolabah,D.Nicolle,2957,31,34,29,143,23,26,185,29,Alive,None evident,,None evident,Flowered
+R185/T30,-30.09,1,50.2,Eucalyptus coolabah,DN 2957,"Wilcannia, NSW",2000,CCA3713,2957,Eucalyptus coolabah,D.Nicolle,2957,31,34,29,143,23,26,185,30,Alive,None evident,,None evident,Flowered
+R185/T37,-27.71,1.1,51.5,Eucalyptus petraea,DN 2761,"Diemals Station, WA",2000,CCA3719,2761,Eucalyptus petraea,D.Nicolle,2761,28,57,50,118,52,2,185,37,Alive,None evident,,None evident,Flowered
+R185/T38,-26.28,1.1,50.7,Eucalyptus petraea,DN 2761,"Diemals Station, WA",2000,CCA3720,2761,Eucalyptus petraea,D.Nicolle,2761,28,57,50,118,52,2,185,38,Alive,None evident,,None evident,Flowered
+R185/T39,-26.18,2.3,51.7,Eucalyptus petraea,DN 2761,"Diemals Station, WA",2000,CCA3721,2761,Eucalyptus petraea,D.Nicolle,2761,28,57,50,118,52,2,185,39,Alive,None evident,,None evident,
+R186/T11,-27.12,1,49.2,Eucalyptus populnea subsp. bimbil,DN 2954,"Nyngan, NSW",2000,CCA3729,2954,Eucalyptus populnea subsp. bimbil,D.Nicolle,2954,31,29,12,147,6,35,186,11,Alive,Slight,,None evident,
+R186/T12,-27.46,1.2,50.7,Eucalyptus populnea subsp. bimbil,DN 2954,"Nyngan, NSW",2000,CCA3730,2954,Eucalyptus populnea subsp. bimbil,D.Nicolle,2954,31,29,12,147,6,35,186,12,Alive,Slight,,None evident,
+R186/T13,-27.42,1.3,48.5,Eucalyptus populnea subsp. bimbil,DN 2954,"Nyngan, NSW",2000,CCA3731,2954,Eucalyptus populnea subsp. bimbil,D.Nicolle,2954,31,29,12,147,6,35,186,13,Alive,None evident,,None evident,Budded
+R187/T05,-28.97,1.5,50.8,Eucalyptus leucoxylon subsp. pruinosa,DN 2897,"Barham, NSW",2000,CCA3751,2897,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2897,35,36,54,144,8,19,187,4.5,Alive,Slight,,None evident,Flowered
+R187/T05,-28.97,1.5,50.8,Eucalyptus leucoxylon subsp. pruinosa,DN 2897,"Barham, NSW",2000,CCA3751,2897,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2897,35,36,54,144,8,19,187,5,Alive,Slight,,None evident,Flowered
+R187/T06,-28.41,1.3,50.3,Eucalyptus leucoxylon subsp. pruinosa,DN 2897,"Barham, NSW",2000,CCA3752,2897,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2897,35,36,54,144,8,19,187,6,Alive,Moderate,,None evident,Flowered
+R187/T07,-28.68,1.2,50.7,Eucalyptus leucoxylon subsp. pruinosa,DN 2897,"Barham, NSW",2000,CCA3753,2897,Eucalyptus leucoxylon subsp. pruinosa,D.Nicolle,2897,35,36,54,144,8,19,187,7,Alive,Moderate,,None evident,Flowered
+R187/T08,-28.31,1,48.6,Eucalyptus microcarpa,DN 2895,"Boundary Bend, Vic",2000,CCA3754,2895,Eucalyptus microcarpa ,D.Nicolle,2895,34,43,12,143,6,55,187,8,Alive,None evident,,None evident,
+R187/T09,-30.77,1,48.1,Eucalyptus microcarpa,DN 2895,"Boundary Bend, Vic",2000,CCA3755,2895,Eucalyptus microcarpa ,D.Nicolle,2895,34,43,12,143,6,55,187,9,Alive,None evident,,None evident,
+R187/T10,-28.99,1.1,49.2,Eucalyptus microcarpa,DN 2895,"Boundary Bend, Vic",2000,CCA3756,2895,Eucalyptus microcarpa ,D.Nicolle,2895,34,43,12,143,6,55,187,10,Alive,None evident,,None evident,
+R187/T24,-28.85,1.1,51.3,Eucalyptus longicornis,DN 2283,"Lake Johnston, WA",2000,CCA3765,2283,Eucalyptus longicornis,D.Nicolle,2283,32,14,16,120,30,39,187,24,Alive,None evident,,None evident,Flowered
+R187/T25,-28.34,1,50.4,Eucalyptus longicornis,DN 2283,"Lake Johnston, WA",2000,CCA3766,2283,Eucalyptus longicornis,D.Nicolle,2283,32,14,16,120,30,39,187,25,Alive,None evident,,None evident,Flowered
+R187/T26,-28.03,1.2,51.2,Eucalyptus longicornis,DN 2283,"Lake Johnston, WA",2000,CCA3767,2283,Eucalyptus longicornis,D.Nicolle,2283,32,14,16,120,30,39,187,26,Alive,None evident,,None evident,Flowered
+R188/T01,-26.62,1.2,50.4,Eucalyptus odorata,DN 2580,"Serviceton, Vic",2000,CCA3776,2580,Eucalyptus odorata (E. silvestris),D.Nicolle,2580,36,20,57,140,59,52,188,1,Alive,None evident,,None evident,Flowered
+R188/T02,-27.75,0.8,48.7,Eucalyptus odorata,DN 2580,"Serviceton, Vic",2000,CCA3777,2580,Eucalyptus odorata (E. silvestris),D.Nicolle,2580,36,20,57,140,59,52,188,2,Alive,None evident,,None evident,Flowered
+R188/T03,-28.98,1,48,Eucalyptus odorata,DN 2580,"Serviceton, Vic",2000,CCA3778,2580,Eucalyptus odorata (E. silvestris),D.Nicolle,2580,36,20,57,140,59,52,188,3,Alive,None evident,,None evident,Flowered
+R188/T05,-25.6,0.9,52,Eucalyptus valens,DN 158,"Truslove, WA",2000,CCA3780,158,Eucalyptus valens,D.Nicolle,158,33,21,0,121,46,22,188,5,Alive,Slight,,None evident,Flowered
+R188/T06,-26.79,0.8,51.9,Eucalyptus valens,DN 158,"Truslove, WA",2000,CCA3781,158,Eucalyptus valens,D.Nicolle,158,33,21,0,121,46,22,188,6,Alive,None evident,,None evident,Flowered
+R188/T08,-28.55,0.7,52.5,Eucalyptus valens,DN 158,"Truslove, WA",2000,CCA3783,158,Eucalyptus valens,D.Nicolle,158,33,21,0,121,46,22,188,8,Alive,None evident,,None evident,Flowered
+R188/T13,-29.35,0.8,54.1,Eucalyptus froggattii,DN 2583,"Mitre, Vic",2000,CCA3787,2583,Eucalyptus froggattii,D.Nicolle,2583,36,40,44,141,44,8,188,13,Alive,None evident,,None evident,Flowered
+R188/T14,-27.93,0.8,50.8,Eucalyptus froggattii,DN 2583,"Mitre, Vic",2000,CCA3788,2583,Eucalyptus froggattii,D.Nicolle,2583,36,40,44,141,44,8,188,14,Alive,None evident,,None evident,Flowered
+R188/T15,-28.86,0.8,51.8,Eucalyptus froggattii,DN 2583,"Mitre, Vic",2000,CCA3789,2583,Eucalyptus froggattii,D.Nicolle,2583,36,40,44,141,44,8,188,15,Alive,None evident,,None evident,Flowered
+R189/T01,-27.89,1.3,50.8,Eucalyptus polyanthemos subsp. polyanthemos,DN 2899,"Adelong, NSW",2000,CCA3804,2899,Eucalyptus polyanthemos subsp. polyanthemos,D.Nicolle,2899,35,15,57,147,56,22,189,1,Alive,Slight,,None evident,Flowered
+R189/T03,-27.81,1.8,48.9,Eucalyptus polyanthemos subsp. polyanthemos,DN 2899,"Adelong, NSW",2000,CCA3806,2899,Eucalyptus polyanthemos subsp. polyanthemos,D.Nicolle,2899,35,15,57,147,56,22,189,3,Alive,Slight,,None evident,Flowered
+R189/T04,-27.92,0.9,50.5,Eucalyptus polyanthemos subsp. polyanthemos,DN 2899,"Adelong, NSW",2000,CCA3807,2899,Eucalyptus polyanthemos subsp. polyanthemos,D.Nicolle,2899,35,15,57,147,56,22,189,4,Alive,None evident,,None evident,Flowered
+R189/T23,-29.95,1.1,50.6,Eucalyptus albens,DN 2898,"Wagga Wagga, NSW",2000,CCA3820,2898,Eucalyptus albens,D.Nicolle,2898,35,6,21,147,12,1,189,23,Alive,None evident,,None evident,Flowered
+R189/T24,-29.2,1.1,49.8,Eucalyptus albens,DN 2898,"Wagga Wagga, NSW",2000,CCA3821,2898,Eucalyptus albens,D.Nicolle,2898,35,6,21,147,12,1,189,24,Alive,None evident,,None evident,Flowered
+R189/T26,-28.02,1.3,49.9,Eucalyptus albens,DN 2898,"Wagga Wagga, NSW",2000,CCA3823,2898,Eucalyptus albens,D.Nicolle,2898,35,6,21,147,12,1,189,26,Alive,None evident,,None evident,Flowered
+R189/T28,-29.66,1.2,49.9,Eucalyptus leucoxylon subsp. stephaniae,DN 2581,"Little Desert, Vic",2000,CCA3825,2581,Eucalyptus leucoxylon subsp. stephaniae,D.Nicolle,2581,36,33,32,141,39,4,189,28,Alive,None evident,,None evident,Flowered
+R189/T29,-29.79,1.4,50.6,Eucalyptus leucoxylon subsp. stephaniae,DN 2581,"Little Desert, Vic",2000,CCA3826,2581,Eucalyptus leucoxylon subsp. stephaniae,D.Nicolle,2581,36,33,32,141,39,4,189,29,Alive,None evident,,None evident,Flowered
+R189/T31,-28.68,0.7,51.5,Eucalyptus clivicola,DN 193,"Ravensthorpe, WA",2000,CCA3827,193,Eucalyptus clivicola,D.Nicolle,193,33,42,3,120,11,16,189,31,Alive,None evident,,None evident,Flowered
+R189/T33,-28.64,0.6,51.6,Eucalyptus clivicola,DN 193,"Ravensthorpe, WA",2000,CCA3828,193,Eucalyptus clivicola,D.Nicolle,193,33,42,3,120,11,16,189,33,Alive,None evident,,None evident,Flowered
+R190/T17,-28.31,1.5,51.5,Eucalyptus leucoxylon subsp. leucoxylon,DN 2585,"Bacchus Marsh, Vic",2000,CCA3841,2585,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),D.Nicolle,2585,37,39,42,144,21,51,190,17,Alive,None evident,,None evident,Flowered
+R190/T18,-27.81,1.9,49.9,Eucalyptus leucoxylon subsp. leucoxylon,DN 2585,"Bacchus Marsh, Vic",2000,CCA3842,2585,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),D.Nicolle,2585,37,39,42,144,21,51,190,18,Alive,None evident,,None evident,Flowered
+R190/T20,-29.24,1.3,52,Eucalyptus leucoxylon subsp. leucoxylon,DN 2585,"Bacchus Marsh, Vic",2000,CCA3844,2585,Eucalyptus leucoxylon subsp. leucoxylon (subsp. connata),D.Nicolle,2585,37,39,42,144,21,51,190,20,Alive,None evident,,None evident,Flowered
+R190/T22,-30.38,1.5,50.3,Eucalyptus caleyi subsp. ovendenii,DN 2930,"Gibraltar Rock, NSW",2000,CCA3845,2930,Eucalyptus caleyi subsp. ovendenii,D.Nicolle,2930,29,5,48,151,42,59,190,22,Alive,None evident,,None evident,Flowered
+R190/T23,-29.79,0.9,49,Eucalyptus caleyi subsp. ovendenii,DN 2930,"Gibraltar Rock, NSW",2000,CCA3846,2930,Eucalyptus caleyi subsp. ovendenii,D.Nicolle,2930,29,5,48,151,42,59,190,23,Alive,None evident,,None evident,Flowered
+R190/T26,-30.82,1.4,49.6,Eucalyptus exserta,DN 2932,"Inglewood, Qld",2000,CCA3849,2932,Eucalyptus exserta,D.Nicolle,2932,28,29,26,151,27,5,190,26,Alive,None evident,,None evident,
+R190/T27,-28.75,1.2,49.6,Eucalyptus exserta,DN 2932,"Inglewood, Qld",2000,CCA3850,2932,Eucalyptus exserta,D.Nicolle,2932,28,29,26,151,27,5,190,27,Alive,None evident,,None evident,Flowered
+R190/T28,-30.86,1.4,50.9,Eucalyptus exserta,DN 2932,"Inglewood, Qld",2000,CCA3851,2932,Eucalyptus exserta,D.Nicolle,2932,28,29,26,151,27,5,190,28,Alive,None evident,,None evident,Flowered
+R191/T09,-28.3,1.8,50.4,Eucalyptus tereticornis subsp. basaltica,DN 2937,"Crows Nest, Qld",2000,CCA3860,2937,Eucalyptus tereticornis subsp. basaltica,D.Nicolle,2937,27,27,14,152,12,10,191,9,Alive,None evident,,None evident,Flowered
+R191/T11,-29.76,1.5,50.5,Eucalyptus tereticornis subsp. basaltica,DN 2937,"Crows Nest, Qld",2000,CCA3862,2937,Eucalyptus tereticornis subsp. basaltica,D.Nicolle,2937,27,27,14,152,12,10,191,11,Alive,None evident,,None evident,Flowered
+R191/T12,-28.01,2.1,52.9,Eucalyptus tereticornis subsp. basaltica,DN 2937,"Crows Nest, Qld",2000,CCA3863,2937,Eucalyptus tereticornis subsp. basaltica,D.Nicolle,2937,27,27,14,152,12,10,191,12,Alive,None evident,,None evident,Flowered
+R191/T29,-29.52,1.1,50.3,Eucalyptus scopulorum,DN 2927,"Peregrine Point, NSW",2000,CCA3872,2927,Eucalyptus scopulorum,D.Nicolle,2927,29,36,45,152,12,10,191,29,Alive,None evident,,None evident,Flowered
+R191/T30,-29.51,0.9,51,Eucalyptus scopulorum,DN 2927,"Peregrine Point, NSW",2000,CCA3873,2927,Eucalyptus scopulorum,D.Nicolle,2927,29,36,45,152,12,10,191,30,Alive,None evident,,None evident,Flowered
+R191/T31,-28.98,0.9,50.9,Eucalyptus scopulorum,DN 2927,"Peregrine Point, NSW",2000,CCA3874,2927,Eucalyptus scopulorum,D.Nicolle,2927,29,36,45,152,12,10,191,31,Alive,None evident,,None evident,Flowered
+R192/T05,-28.05,0.9,49.7,Eucalyptus bosistoana,DN 2902,"Nerrigundah, NSW",2000,CCA3877,2902,Eucalyptus bosistoana,D.Nicolle,2902,36,10,42,149,47,50,192,5,Alive,None evident,,None evident,Flowered
+R192/T07,-29.42,1,48.8,Eucalyptus bosistoana,DN 2902,"Nerrigundah, NSW",2000,CCA3879,2902,Eucalyptus bosistoana,D.Nicolle,2902,36,10,42,149,47,50,192,7,Alive,None evident,,None evident,Flowered
+R192/T08,-29.13,1,51.2,Eucalyptus bosistoana,DN 2902,"Nerrigundah, NSW",2000,CCA3880,2902,Eucalyptus bosistoana,D.Nicolle,2902,36,10,42,149,47,50,192,8,Alive,None evident,,None evident,Flowered
+R192/T21,-25.91,1.6,48.7,Eucalyptus magnificata,DN 2945,"Enmore, NSW",2000,CCA3886,2945,Eucalyptus magnificata ,D.Nicolle,2945,30,43,9,151,43,20,192,21,Alive,None evident,,None evident,Flowered
+R192/T22,-26.87,1.9,50.7,Eucalyptus magnificata,DN 2945,"Enmore, NSW",2000,CCA3887,2945,Eucalyptus magnificata ,D.Nicolle,2945,30,43,9,151,43,20,192,22,Alive,None evident,,None evident,Flowered
+R192/T24,-25.72,1.3,48.4,Eucalyptus magnificata,DN 2945,"Enmore, NSW",2000,CCA3889,2945,Eucalyptus magnificata ,D.Nicolle,2945,30,43,9,151,43,20,192,24,Alive,Moderate,,Moderate,Flowered
+R193/T09,-28.65,1.6,51.6,Eucalyptus rubida subsp. barbigarorum,DN 2939,"Glen Innes, NSW",2000,CCA3895,2939,Eucalyptus rubida subsp. barbigarorum,D.Nicolle,2939,29,38,39,151,48,57,193,9,Alive,Severe,,None evident,
+R193/T29,-28.08,0.7,52.6,Eucalyptus stenostoma,DN 2900,"Belowra, NSW",2000,CCA3902,2900,Eucalyptus stenostoma,D.Nicolle,2900,36,6,23,149,39,36,193,29,Alive,None evident,,None evident,Flowered
+R193/T30,-26.66,1.1,51.4,Eucalyptus stenostoma,DN 2900,"Belowra, NSW",2000,CCA3903,2900,Eucalyptus stenostoma,D.Nicolle,2900,36,6,23,149,39,36,193,30,Alive,Slight,,None evident,Flowered
+R194/T13,-29.45,1.1,50.6,Eucalyptus rummeryi,DN 1245,"Mallanganee, NSW",2000,CCA3910,1245,Eucalyptus rummeryi,D.Nicolle,1245,28,55,59,152,42,18,194,13,Alive,Moderate,,None evident,Flowered
+R194/T14,-27.16,1.3,48.9,Eucalyptus rummeryi,DN 1245,"Mallanganee, NSW",2000,CCA3911,1245,Eucalyptus rummeryi,D.Nicolle,1245,28,55,59,152,42,18,194,14,Alive,Moderate,,None evident,
+R196/T02,-28.59,1.3,50.2,Eucalyptus fergusonii subsp. fergusonii,DN 2918,"Karuah, NSW",2000,CCA3926,2918,Eucalyptus fergusonii subsp. fergusonii,D.Nicolle,2918,32,38,25,151,59,23,196,2,Alive,None evident,,None evident,Flowered
+R196/T03,-29.57,1.2,49.3,Eucalyptus fergusonii subsp. fergusonii,DN 2918,"Karuah, NSW",2000,CCA3927,2918,Eucalyptus fergusonii subsp. fergusonii,D.Nicolle,2918,32,38,25,151,59,23,196,3,Alive,None evident,,None evident,Flowered
+R196/T10,-29.06,1.2,49.3,Eucalyptus rudderi,DN 2920,"Taree, NSW",2000,CCA3929,2920,Eucalyptus rudderi,D.Nicolle,2920,32,2,38,152,22,9,196,10,Alive,Slight,,None evident,Flowered
+R196/T11,-28.73,1.3,48.9,Eucalyptus rudderi,DN 2920,"Taree, NSW",2000,CCA3930,2920,Eucalyptus rudderi,D.Nicolle,2920,32,2,38,152,22,9,196,11,Alive,Slight,,None evident,Flowered
+R196/T12,-28.78,1.4,51.3,Eucalyptus rudderi,DN 2920,"Taree, NSW",2000,CCA3931,2920,Eucalyptus rudderi,D.Nicolle,2920,32,2,38,152,22,9,196,12,Alive,Slight,,None evident,Flowered
+R197/T18,-27.82,1.1,50.7,Eucalyptus tetrapleura,DN 1242,"Wells Crossing, NSW",2000,CCA3942,1242,Eucalyptus tetrapleura,D.Nicolle,1242,29,54,6,153,3,53,197,18,Alive,None evident,,None evident,
+R197/T19,-28.34,0.9,51.6,Eucalyptus tetrapleura,DN 1242,"Wells Crossing, NSW",2000,CCA3943,1242,Eucalyptus tetrapleura,D.Nicolle,1242,29,54,6,153,3,53,197,19,Alive,Slight,,None evident,Flowered
+R197/T20,-28.34,1,50.2,Eucalyptus tetrapleura,DN 1242,"Wells Crossing, NSW",2000,CCA3944,1242,Eucalyptus tetrapleura,D.Nicolle,1242,29,54,6,153,3,53,197,20,Alive,Slight,,None evident,Flowered
+R198/T09,-25.66,1.9,51.8,Eucalyptus microcorys,DN 1238,"Johns River, NSW",2000,CCA3946,1238,Eucalyptus microcorys,D.Nicolle,1238,31,41,30,152,44,3,198,9,Alive,Moderate,,None evident,Flowered
+R198/T10,-26.16,1.8,49.9,Eucalyptus microcorys,DN 1238,"Johns River, NSW",2000,CCA3947,1238,Eucalyptus microcorys,D.Nicolle,1238,31,41,30,152,44,3,198,10,Alive,Moderate,,None evident,Flowered
+R198/T12,-28.18,1.6,49.6,Eucalyptus microcorys,DN 1238,"Johns River, NSW",2000,CCA3949,1238,Eucalyptus microcorys,D.Nicolle,1238,31,41,30,152,44,3,198,12,Alive,Moderate,,None evident,Flowered
+R198/T15,-28.93,1.2,47.9,Eucalyptus paniculata,DN 2903,"Batemans Bay, NSW",2000,CCA3951,2903,Eucalyptus paniculata,D.Nicolle,2903,35,46,9,150,8,57,198,15,Alive,Slight,,None evident,Flowered
+R198/T16,-29.5,1,50.3,Eucalyptus paniculata,DN 2903,"Batemans Bay, NSW",2000,CCA3952,2903,Eucalyptus paniculata,D.Nicolle,2903,35,46,9,150,8,57,198,16,Alive,Moderate,,None evident,Flowered
+R198/T17,-30.84,1,49.8,Eucalyptus paniculata,DN 2903,"Batemans Bay, NSW",2000,CCA3953,2903,Eucalyptus paniculata,D.Nicolle,2903,35,46,9,150,8,57,198,17,Alive,Moderate,,None evident,Flowered
+R220/T06,-28.57,1,52.5,Eucalyptus lehmannii subsp. parallela,DN 3704,"No Tree Hill, WA",2001,CCA4222,3704,Eucalyptus lehmannii subsp. parallela,D.Nicolle,3704,33,46,57,120,3,6,220,6,Alive,Slight,,None evident,Flowered
+R220/T07,-26.08,0.8,51.4,Eucalyptus lehmannii subsp. parallela,DN 3704,"No Tree Hill, WA",2001,CCA4223,3704,Eucalyptus lehmannii subsp. parallela,D.Nicolle,3704,33,46,57,120,3,6,220,7,Alive,Slight,,None evident,Flowered
+R220/T08,-26.74,1,50.3,Eucalyptus lehmannii subsp. parallela,DN 3704,"No Tree Hill, WA",2001,CCA4224,3704,Eucalyptus lehmannii subsp. parallela,D.Nicolle,3704,33,46,57,120,3,6,220,8,Alive,Slight,,None evident,Flowered
+R220/T13,-27.24,1.1,50.3,Eucalyptus albopurpurea,DN 3180,"Sleaford, SA",2001,CCA4229,3180,Eucalyptus albopurpurea,D.Nicolle,3180,34,49,59,135,43,59,220,13,Alive,None evident,,None evident,Flowered
+R220/T15,-27.52,1.1,52.1,Eucalyptus albopurpurea,DN 3180,"Sleaford, SA",2001,CCA4231,3180,Eucalyptus albopurpurea,D.Nicolle,3180,34,49,59,135,43,59,220,15,Alive,Slight,,None evident,Flowered
+R220/T16,-27.88,1.2,51.9,Eucalyptus albopurpurea,DN 3180,"Sleaford, SA",2001,CCA4232,3180,Eucalyptus albopurpurea,D.Nicolle,3180,34,49,59,135,43,59,220,16,Alive,Slight,,None evident,Flowered
+R323/T25,-27.66,0.7,54.7,Eucalyptus rigens,NA,NA,2001,NA,NA,Eucalyptus rigens,D.Nicolle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R323/T26,-26.83,0.7,52.9,Eucalyptus rigens,NA,NA,2001,NA,NA,Eucalyptus rigens,D.Nicolle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R323/T28,-27.11,0.6,52.5,Eucalyptus rigens,NA,NA,2001,NA,NA,Eucalyptus rigens,D.Nicolle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R221/T21,-26.89,0.9,54.6,Eucalyptus frenchiana,DN 3660,"Disappointment Rock, WA",2001,CCA4264,3660,Eucalyptus frenchiana,D.Nicolle,3660,32,10,24,121,8,15,221,21,Alive,None evident,,None evident,Flowered
+R221/T22,-27.65,0.9,52.8,Eucalyptus frenchiana,DN 3660,"Disappointment Rock, WA",2001,CCA4265,3660,Eucalyptus frenchiana,D.Nicolle,3660,32,10,24,121,8,15,221,22,Alive,None evident,,None evident,Flowered
+R221/T23,-27.85,0.9,51.9,Eucalyptus frenchiana,DN 3660,"Disappointment Rock, WA",2001,CCA4266,3660,Eucalyptus frenchiana,D.Nicolle,3660,32,10,24,121,8,15,221,23,Alive,None evident,,None evident,Flowered
+R221/T30,-28.42,0.7,52.6,Eucalyptus distuberosa subsp. aerata,DN 3657,"Bronzite Ridge, WA",2001,CCA4273,3657,Eucalyptus distuberosa subsp. aerata,D.Nicolle,3657,32,11,29,121,17,6,221,30,Alive,None evident,,None evident,Flowered
+R221/T31,-29.39,0.8,54.1,Eucalyptus distuberosa subsp. aerata,DN 3657,"Bronzite Ridge, WA",2001,CCA4274,3657,Eucalyptus distuberosa subsp. aerata,D.Nicolle,3657,32,11,29,121,17,6,221,31,Alive,None evident,,None evident,Flowered
+R221/T32,-28.25,0.9,51.9,Eucalyptus distuberosa subsp. aerata,DN 3657,"Bronzite Ridge, WA",2001,CCA4275,3657,Eucalyptus distuberosa subsp. aerata,D.Nicolle,3657,32,11,29,121,17,6,221,32,Alive,None evident,,None evident,Flowered
+R221/T33,-29.93,0.8,52.9,Eucalyptus distuberosa subsp. distuberosa,DN 3480,"Yellowdine, WA",2001,CCA4276,3480,Eucalyptus distuberosa subsp. distuberosa ,D.Nicolle,3480,31,9,53,119,50,19,221,33,Alive,None evident,,None evident,Flowered
+R221/T34,-29.84,0.9,51.4,Eucalyptus distuberosa subsp. distuberosa,DN 3480,"Yellowdine, WA",2001,CCA4277,3480,Eucalyptus distuberosa subsp. distuberosa ,D.Nicolle,3480,31,9,53,119,50,19,221,34,Alive,None evident,,None evident,Flowered
+R222/T35,-28.7,1,52.6,Eucalyptus sp. North Balladonia,DN 3625,"south of Zanthus, WA",2001,CCA4312,3625,Eucalyptus sp. North Balladonia (aff. sheathiana),D.Nicolle,3625,31,23,33,123,47,32,222,35,Alive,None evident,,None evident,Flowered
+R222/T36,-27.44,1.1,53.3,Eucalyptus caesia subsp. caesia,DN 3679,"King Rocks, WA",2001,CCA4313,3679,Eucalyptus caesia subsp. caesia,D.Nicolle,3679,32,19,35,119,9,24,222,36,Alive,Slight,,None evident,Flowered
+R222/T37,-27.73,1.2,52.8,Eucalyptus caesia subsp. caesia,DN 3679,"King Rocks, WA",2001,CCA4314,3679,Eucalyptus caesia subsp. caesia,D.Nicolle,3679,32,19,35,119,9,24,222,37,Alive,Moderate,,Slight,Flowered
+R222/T38,-27.96,0.9,52,Eucalyptus caesia subsp. caesia,DN 3679,"King Rocks, WA",2001,CCA4315,3679,Eucalyptus caesia subsp. caesia,D.Nicolle,3679,32,19,35,119,9,24,222,38,Alive,None evident,,Moderate,Flowered
+R224/T13,-26.93,0.7,52,Eucalyptus creta,DN 3606,"Mt Ney, WA",2001,CCA4355,3606,Eucalyptus creta,D.Nicolle,3606,33,4,18,122,49,0,224,13,Alive,None evident,,None evident,Flowered
+R224/T14,-26.74,0.4,52.8,Eucalyptus creta,DN 3606,"Mt Ney, WA",2001,CCA4356,3606,Eucalyptus creta,D.Nicolle,3606,33,4,18,122,49,0,224,14,Alive,None evident,,None evident,Flowered
+R224/T15,-27.04,0.6,52.1,Eucalyptus creta,DN 3606,"Mt Ney, WA",2001,CCA4357,3606,Eucalyptus creta,D.Nicolle,3606,33,4,18,122,49,0,224,15,Alive,None evident,,None evident,Flowered
+R224/T21,-29.42,1.7,48.4,Eucalyptus camaldulensis subsp. arida,DN 3523,"Northampton, WA",2001,CCA4363,3523,Eucalyptus camaldulensis subsp. arida,D.Nicolle,3523,28,19,10,114,32,21,224,21,Alive,Moderate,,Moderate,
+R224/T22,-27.45,1.6,47.6,Eucalyptus camaldulensis subsp. arida,DN 3523,"Northampton, WA",2001,CCA4364,3523,Eucalyptus camaldulensis subsp. arida,D.Nicolle,3523,28,19,10,114,32,21,224,22,Alive,Severe,,None evident,
+R224/T23,-28.24,1.7,52.7,Eucalyptus camaldulensis subsp. arida,DN 3523,"Northampton, WA",2001,CCA4365,3523,Eucalyptus camaldulensis subsp. arida,D.Nicolle,3523,28,19,10,114,32,21,224,23,Alive,Severe,,None evident,Flowered
+R224/T29,-27.83,0.8,50.6,Eucalyptus salicola,DN 3493,"Bimbijy Station, WA",2001,CCA4371,3493,Eucalyptus salicola,D.Nicolle,3493,29,46,52,118,14,20,224,29,Alive,None evident,,None evident,Flowered
+R224/T31,-27.55,0.8,50.2,Eucalyptus salicola,DN 3493,"Bimbijy Station, WA",2001,CCA4372,3493,Eucalyptus salicola,D.Nicolle,3493,29,46,52,118,14,20,224,31,Alive,None evident,,None evident,Flowered
+R224/T32,-28.43,0.8,50.1,Eucalyptus salicola,DN 3493,"Bimbijy Station, WA",2001,CCA4373,3493,Eucalyptus salicola,D.Nicolle,3493,29,46,52,118,14,20,224,32,Alive,None evident,,None evident,Flowered
+R224/T33,-26.7,0.9,49.7,Eucalyptus extensa,DN 3467,"Marvel Loch, WA",2001,CCA4374,3467,Eucalyptus extensa,D.Nicolle,3467,31,38,5,119,34,14,224,33,Alive,None evident,,None evident,Flowered
+R224/T34,-26.92,0.8,49.7,Eucalyptus extensa,DN 3467,"Marvel Loch, WA",2001,CCA4375,3467,Eucalyptus extensa,D.Nicolle,3467,31,38,5,119,34,14,224,34,Alive,None evident,,None evident,Flowered
+R224/T35,-28.17,1,50.8,Eucalyptus extensa,DN 3467,"Marvel Loch, WA",2001,CCA4376,3467,Eucalyptus extensa,D.Nicolle,3467,31,38,5,119,34,14,224,35,Alive,None evident,,None evident,Flowered
+R227/T01,-28.16,0.8,52.7,Eucalyptus astringens subsp. astringens,DN 3438,"Dragon Rocks, WA",2001,CCA4440,3438,Eucalyptus astringens subsp. astringens,D.Nicolle,3438,32,44,1,119,0,19,227,1,Alive,None evident,,None evident,Flowered
+R227/T02,-29.03,0.9,53,Eucalyptus astringens subsp. astringens,DN 3438,"Dragon Rocks, WA",2001,CCA4441,3438,Eucalyptus astringens subsp. astringens,D.Nicolle,3438,32,44,1,119,0,19,227,2,Alive,None evident,,None evident,Flowered
+R227/T04,-29.7,0.6,51.9,Eucalyptus astringens subsp. astringens,DN 3438,"Dragon Rocks, WA",2001,CCA4443,3438,Eucalyptus astringens subsp. astringens,D.Nicolle,3438,32,44,1,119,0,19,227,4,Alive,None evident,,None evident,Flowered
+R227/T09,-27.56,1,53.7,Eucalyptus gardneri subsp. gardneri,DN 3434,"Kulin, WA",2001,CCA4446,3434,Eucalyptus gardneri subsp. gardneri,D.Nicolle,3434,32,44,44,118,9,4,227,9,Alive,None evident,,None evident,Flowered
+R227/T10,-29.07,0.9,53,Eucalyptus gardneri subsp. gardneri,DN 3434,"Kulin, WA",2001,CCA4447,3434,Eucalyptus gardneri subsp. gardneri,D.Nicolle,3434,32,44,44,118,9,4,227,10,Alive,None evident,,None evident,Flowered
+R229/T01,-27.95,0.8,54.2,Eucalyptus falcata,DN 3433,"Cargannocking Hill, WA",2001,CCA4499,3433,Eucalyptus falcata,D.Nicolle,3433,32,44,44,118,9,4,229,1,Alive,Slight,,None evident,Flowered
+R229/T02,-28.07,0.9,51.4,Eucalyptus falcata,DN 3433,"Cargannocking Hill, WA",2001,CCA4500,3433,Eucalyptus falcata,D.Nicolle,3433,32,44,44,118,9,4,229,2,Alive,None evident,,None evident,Flowered
+R229/T04,-27.24,0.8,50.3,Eucalyptus falcata,DN 3433,"Cargannocking Hill, WA",2001,CCA4501,3433,Eucalyptus falcata,D.Nicolle,3433,32,44,44,118,9,4,229,4,Alive,None evident,,None evident,Flowered
+R229/T22,-27.56,0.9,51.3,Eucalyptus petraea,DN 3766,"Coorow, WA",2001,CCA4517,3766,Eucalyptus petraea,D.Nicolle,3766,29,55,24,116,6,44,229,22,Alive,None evident,,None evident,
+R229/T23,-26.19,0.8,53.2,Eucalyptus petraea,DN 3766,"Coorow, WA",2001,CCA4518,3766,Eucalyptus petraea,D.Nicolle,3766,29,55,24,116,6,44,229,23,Alive,None evident,,None evident,Flowered
+R231/T09,-28.13,0.9,50.6,Eucalyptus latens,DN 3742,"Ongerup, WA",2001,CCA4560,3742,Eucalyptus horistes subsp. 'southern smooth' ,D.Nicolle,3742,33,40,36,118,20,39,231,9,Alive,Slight,,None evident,Flowered
+R231/T11,-26.21,1.3,48.1,Eucalyptus latens,DN 3742,"Ongerup, WA",2001,CCA4562,3742,Eucalyptus horistes subsp. 'southern smooth' ,D.Nicolle,3742,33,40,36,118,20,39,231,11,Alive,Slight,,None evident,Flowered
+R231/T12,-26.24,1.3,49.5,Eucalyptus latens,DN 3742,"Ongerup, WA",2001,CCA4563,3742,Eucalyptus horistes subsp. 'southern smooth' ,D.Nicolle,3742,33,40,36,118,20,39,231,12,Alive,None evident,,None evident,Flowered
+R233/T21,-28.14,0.7,52.3,Eucalyptus purpurata,DN 3579,"Bandalup Hill, WA",2001,CCA4620,3579,Eucalyptus purpurata,D.Nicolle,3579,33,40,7,120,24,3,233,21,Alive,Slight,,Slight,Flowered
+R233/T23,-27.17,0.8,52.6,Eucalyptus purpurata,DN 3579,"Bandalup Hill, WA",2001,CCA4622,3579,Eucalyptus purpurata,D.Nicolle,3579,33,40,7,120,24,3,233,23,Alive,None evident,,None evident,Flowered
+R233/T24,-26.95,0.8,51.8,Eucalyptus purpurata,DN 3579,"Bandalup Hill, WA",2001,CCA4623,3579,Eucalyptus purpurata,D.Nicolle,3579,33,40,7,120,24,3,233,24,Alive,Slight,,Moderate,Flowered
+R234/T09,-27.94,1.1,51.8,Eucalyptus vesiculosa,DN 3565,"Corackerup, WA",2001,CCA4637,3565,Eucalyptus vesiculosa,D.Nicolle,3565,34,13,18,118,39,21,234,9,Alive,None evident,,None evident,Flowered
+R234/T10,-28.17,0.8,53.1,Eucalyptus vesiculosa,DN 3565,"Corackerup, WA",2001,CCA4638,3565,Eucalyptus vesiculosa,D.Nicolle,3565,34,13,18,118,39,21,234,10,Alive,None evident,,None evident,Flowered
+R235/T01,-26.71,1.5,52.8,Eucalyptus cuprea,DN 3536,"Murchison River, WA",2001,CCA4659,3536,Eucalyptus cuprea,D.Nicolle,3536,27,44,54,114,40,30,235,1,Alive,None evident,,None evident,Flowered
+R235/T02,-28.15,1.2,53.9,Eucalyptus cuprea,DN 3536,"Murchison River, WA",2001,CCA4660,3536,Eucalyptus cuprea,D.Nicolle,3536,27,44,54,114,40,30,235,2,Alive,None evident,,None evident,Flowered
+R235/T04,-26.93,1.4,53.3,Eucalyptus cuprea,DN 3536,"Murchison River, WA",2001,CCA4662,3536,Eucalyptus cuprea,D.Nicolle,3536,27,44,54,114,40,30,235,4,Alive,None evident,,None evident,
+R235/T05,-27.37,0.9,53.4,Eucalyptus vittata,DN 3474,"Yellowdine, WA",2001,CCA4663,3474,Eucalyptus vittata,D.Nicolle,3474,31,17,29,119,47,44,235,5,Alive,None evident,,None evident,Flowered
+R235/T06,-28.1,1,52.5,Eucalyptus vittata,DN 3474,"Yellowdine, WA",2001,CCA4664,3474,Eucalyptus vittata,D.Nicolle,3474,31,17,29,119,47,44,235,6,Alive,None evident,,None evident,Flowered
+R235/T08,-26.85,1,53.7,Eucalyptus vittata,DN 3474,"Yellowdine, WA",2001,CCA4666,3474,Eucalyptus vittata,D.Nicolle,3474,31,17,29,119,47,44,235,8,Alive,None evident,,None evident,Flowered
+R235/T25,-26.9,1.1,50,Eucalyptus behriana,DN 3183,"Edillilie, SA",2001,CCA4679,3183,Eucalyptus behriana,D.Nicolle,3183,34,27,42,135,41,21,235,25,Alive,Moderate,,None evident,Flowered
+R235/T27,-27.72,0.9,48.6,Eucalyptus behriana,DN 3183,"Edillilie, SA",2001,CCA4681,3183,Eucalyptus behriana,D.Nicolle,3183,34,27,42,135,41,21,235,27,Alive,Moderate,,None evident,Flowered
+R235/T28,-27.84,1.2,50.9,Eucalyptus behriana,DN 3183,"Edillilie, SA",2001,CCA4682,3183,Eucalyptus behriana,D.Nicolle,3183,34,27,42,135,41,21,235,28,Alive,Slight,,None evident,Flowered
+R238/T10,-27.93,1,53.5,Eucalyptus preissiana subsp. lobata,DN 3710,"Stokes Inlet, WA",2001,CCA4733,3710,Eucalyptus preissiana subsp. lobata,D.Nicolle,3710,33,51,0,121,8,39,238,10,Alive,Slight,,Moderate,Flowered
+R238/T11,-26.92,0.8,52.4,Eucalyptus preissiana subsp. lobata,DN 3710,"Stokes Inlet, WA",2001,CCA4734,3710,Eucalyptus preissiana subsp. lobata,D.Nicolle,3710,33,51,0,121,8,39,238,11,Alive,Slight,,None evident,Flowered
+R238/T12,-27.01,0.6,53.8,Eucalyptus preissiana subsp. lobata,DN 3710,"Stokes Inlet, WA",2001,CCA4735,3710,Eucalyptus preissiana subsp. lobata,D.Nicolle,3710,33,51,0,121,8,39,238,12,Alive,Slight,,None evident,Flowered
+R239/T05,-29.44,1.1,49.3,Eucalyptus drummondii,DN 3549,"Waroona, WA",2001,CCA4744,3549,Eucalyptus drummondii (microflora variant),D.Nicolle,3549,32,52,47,115,59,34,239,5,Alive,Slight,,None evident,
+R239/T07,-29.44,1,52,Eucalyptus drummondii,DN 3549,"Waroona, WA",2001,CCA4745,3549,Eucalyptus drummondii (microflora variant),D.Nicolle,3549,32,52,47,115,59,34,239,7,Alive,Slight,,None evident,
+R199/T28,-26.35,0.9,52.2,Eucalyptus eremicola subsp. eremicola,DN 2614,"Ooldea Range, SA",2002,CCA3981,2614,Eucalyptus eremicola subsp. eremicola,D.Nicolle,2614,29,50,13,130,6,16,199,28,Alive,None evident,,Not applicable,Flowered
+R199/T30,-27.27,0.9,50.8,Eucalyptus eremicola subsp. eremicola,DN 2614,"Ooldea Range, SA",2002,CCA3982,2614,Eucalyptus eremicola subsp. eremicola,D.Nicolle,2614,29,50,13,130,6,16,199,30,Alive,None evident,,Not applicable,Flowered
+R200/T21,-26.2,1,51.3,Eucalyptus largiflorens,DN 4172,"Cooper Creek, SA",2002,CCA3989,4172,Eucalyptus largiflorens,D.Nicolle,4172,28,42,12,138,27,26,200,21,Alive,None evident,,Not applicable,
+R200/T24,-28.89,0.9,52,Eucalyptus largiflorens,DN 4172,"Cooper Creek, SA",2002,CCA3992,4172,Eucalyptus largiflorens,D.Nicolle,4172,28,42,12,138,27,26,200,24,Alive,None evident,,Not applicable,Flowered
+R200/T27,-27,1.9,52.2,Eucalyptus lucasii,DN 4283,"Kumarina roadhouse, WA",2002,CCA3995,4283,Eucalyptus lucasii,D.Nicolle,4283,24,38,17,119,36,33,200,27,Alive,None evident,,Not applicable,Flowered
+R200/T25,-26.44,1.4,52.1,Eucalyptus lucasii,DN 4283,"Kumarina roadhouse, WA",2002,CCA3993,4283,Eucalyptus lucasii,D.Nicolle,4283,24,38,17,119,36,33,200,25,Alive,None evident,,Not applicable,Flowered
+R200/T28,-27.59,1.2,51.9,Eucalyptus lucasii,DN 4283,"Kumarina roadhouse, WA",2002,CCA3996,4283,Eucalyptus lucasii,D.Nicolle,4283,24,38,17,119,36,33,200,28,Alive,None evident,,Not applicable,Flowered
+R200/T29,-27.38,0.9,48.5,Eucalyptus gongylocarpa,DN 4303,"Wiluna, WA",2002,CCA3997,4303,Eucalyptus gongylocarpa,D.Nicolle,4303,26,9,11,121,16,29,200,29,Alive,None evident,,Not applicable,Flowered
+R200/T30,-25.8,0.8,50.1,Eucalyptus gongylocarpa,DN 4303,"Wiluna, WA",2002,CCA3998,4303,Eucalyptus gongylocarpa,D.Nicolle,4303,26,9,11,121,16,29,200,30,Alive,None evident,,Not applicable,Flowered
+R200/T31,-28.24,0.9,49.3,Eucalyptus gongylocarpa,DN 4303,"Wiluna, WA",2002,CCA3999,4303,Eucalyptus gongylocarpa,D.Nicolle,4303,26,9,11,121,16,29,200,31,Alive,None evident,,Not applicable,Flowered
+R201/T13,-27.97,0.9,52.8,Eucalyptus rowleyi,DN 4279,"Rudall 2, WA",2002,CCA4006,4279,"Eucalyptus rowleyi
+",D.Nicolle,4279,22,32,13,121,29,25,201,13,Alive,None evident,,Not applicable,Flowered
+R201/T15,-27.59,1,52.8,Eucalyptus rowleyi,DN 4279,"Rudall 2, WA",2002,CCA4007,4279,"Eucalyptus rowleyi
+",D.Nicolle,4279,22,32,13,121,29,25,201,15,Alive,None evident,,Not applicable,
+R201/T21,-28.25,1,53.8,Eucalyptus aridomontana,DN 1191,"Mt Nameless, WA",2002,CCA4009,1191,Eucalyptus aridomontana,D.Nicolle,1191,22,43,17,117,45,37,201,21,Alive,None evident,,Not applicable,Flowered
+R202/T08,-27.57,0.9,53.7,Eucalyptus nudicaulis,DN 4184,"Mt Isa, Qld",2002,CCA4019,4184,Eucalyptus nudicaulis,D.Nicolle,4184,20,33,59,139,28,40,202,8,Alive,None evident,,Not applicable,Flowered
+R202/T09,-28.65,1.1,54.4,Eucalyptus nudicaulis,DN 4184,"Mt Isa, Qld",2002,CCA4020,4184,Eucalyptus nudicaulis,D.Nicolle,4184,20,33,59,139,28,40,202,9,Alive,None evident,,Not applicable,Flowered
+R202/T11,-28.63,0.9,54.8,Eucalyptus nudicaulis,DN 4184,"Mt Isa, Qld",2002,CCA4022,4184,Eucalyptus nudicaulis,D.Nicolle,4184,20,33,59,139,28,40,202,11,Alive,None evident,,Not applicable,Flowered
+R202/T21,-28.38,0.8,48,Eucalyptus melanophloia subsp. nana,DN 4183,"Mt Isa, Qld",2002,CCA4026,4183,Eucalyptus melanophloia subsp. nana,D.Nicolle,4183,20,53,16,139,26,48,202,21,Alive,None evident,,Not applicable,Flowered
+R202/T22,-27.82,1,48.4,Eucalyptus melanophloia subsp. nana,DN 4183,"Mt Isa, Qld",2002,CCA4027,4183,Eucalyptus melanophloia subsp. nana,D.Nicolle,4183,20,53,16,139,26,48,202,22,Alive,None evident,,Not applicable,Flowered
+R202/T23,-29,0.8,49.2,Eucalyptus melanophloia subsp. nana,DN 4183,"Mt Isa, Qld",2002,CCA4028,4183,Eucalyptus melanophloia subsp. nana,D.Nicolle,4183,20,53,16,139,26,48,202,23,Alive,None evident,,Not applicable,Flowered
+R203/T10,-26.36,0.8,50.1,Eucalyptus normantonensis,DN 4179,"Dajarra, Qld",2002,CCA4039,4179,Eucalyptus normantonensis ,D.Nicolle,4179,22,10,0,139,38,37,203,10,Alive,None evident,,Not applicable,
+R203/T11,-27.18,1,50.9,Eucalyptus normantonensis,DN 4179,"Dajarra, Qld",2002,CCA4040,4179,Eucalyptus normantonensis ,D.Nicolle,4179,22,10,0,139,38,37,203,11,Alive,None evident,,Not applicable,
+R206/T05,-25.27,0.8,52.3,Eucalyptus singularis,DN 3816,"Pingaring, WA",2002,CCA4114,3816,Eucalyptus singularis,D.Nicolle,3816,32,45,6,118,58,43,206,5,Alive,None evident,,Not applicable,Flowered
+R206/T06,-26.62,0.7,52.6,Eucalyptus singularis,DN 3816,"Pingaring, WA",2002,CCA4115,3816,Eucalyptus singularis,D.Nicolle,3816,32,45,6,118,58,43,206,6,Alive,Moderate,,Not applicable,Flowered
+R206/T07,-27.38,0.7,51.3,Eucalyptus singularis,DN 3816,"Pingaring, WA",2002,CCA4116,3816,Eucalyptus singularis,D.Nicolle,3816,32,45,6,118,58,43,206,7,Alive,Slight,,Not applicable,Flowered
+R207/T20,-28.74,1.1,53.2,Eucalyptus blakelyi,DN 3796,Warby Range Vic,2002,CCA4140,3796,Eucalyptus blakelyi ,D.Nicolle,3796,36,17,55,146,9,52,207,20,Alive,None evident,,Not applicable,Flowered
+R207/T22,-29.11,0.9,49.1,Eucalyptus blakelyi,DN 3796,Warby Range Vic,2002,CCA4142,3796,Eucalyptus blakelyi ,D.Nicolle,3796,36,17,55,146,9,52,207,22,Alive,None evident,,Not applicable,Flowered
+R207/T23,-28.73,1,53.2,Eucalyptus blakelyi,DN 3796,Warby Range Vic,2002,CCA4143,3796,Eucalyptus blakelyi ,D.Nicolle,3796,36,17,55,146,9,52,207,23,Alive,None evident,,Not applicable,Flowered
+R208/T16,-27.32,1,51,Eucalyptus gillenii,DN 2689,"Dean Range, WA",2002,CCA4159,2689,Eucalyptus gillenii ,D.Nicolle,2689,25,6,58,128,54,37,208,16,Alive,None evident,,Not applicable,Flowered
+R208/T18,-27.77,0.7,51,Eucalyptus gillenii,DN 2689,"Dean Range, WA",2002,CCA4161,2689,Eucalyptus gillenii ,D.Nicolle,2689,25,6,58,128,54,37,208,18,Alive,None evident,,Not applicable,Flowered
+R208/T19,-27.09,0.9,52.6,Eucalyptus gillenii,DN 2689,"Dean Range, WA",2002,CCA4162,2689,Eucalyptus gillenii ,D.Nicolle,2689,25,6,58,128,54,37,208,19,Alive,None evident,,Not applicable,Flowered
+R241/T16,-26.62,1.2,49.6,Eucalyptus neglecta,DN 3797,"Buckland Valley, Vic",2002,CCA4785,3797,Eucalyptus neglecta,D.Nicolle,3797,36,58,9,146,56,2,241,16,Alive,Moderate,,Not applicable,
+R241/T17,-26.5,1,49.7,Eucalyptus neglecta,DN 3797,"Buckland Valley, Vic",2002,CCA4786,3797,Eucalyptus neglecta,D.Nicolle,3797,36,58,9,146,56,2,241,17,Alive,Severe,,Not applicable,
+R245/T10,-27.53,1.4,47.8,Eucalyptus camaldulensis subsp. refulgens,DN 4258,"Coongan River, WA",2002,CCA4870,4258,Corymbia stockeri subsp. peninsularis,D.Nicolle,2513,14,35,57,143,26,23,245,10,Dead,,,,
+R245/T10,-27.53,1.4,47.8,Eucalyptus camaldulensis subsp. refulgens,DN 4258,"Coongan River, WA",2002,CCA4870,4258,Eucalyptus camaldulensis subsp. refulgens,D.Nicolle,4258,20,55,33,119,47,7,245,10,Alive,None evident,,Not applicable,
+R245/T12,-29.32,1.6,49.8,Eucalyptus camaldulensis subsp. refulgens,DN 4258,"Coongan River, WA",2002,CCA4871,4258,Eucalyptus camaldulensis subsp. refulgens,D.Nicolle,4258,20,55,33,119,47,7,245,12,Alive,None evident,,Not applicable,
+R300/T25,-27.3,1,53.6,Eucalyptus camaldulensis subsp. minima,DN 5233,"Yunta, SA",2010,CCA5430,5233,Eucalyptus camaldulensis subsp. minima,D.Nicolle,5233,32,35,32,139,34,6,300,25,Alive,None evident,,Not applicable,
+R300/T27,-27.32,1.1,53.4,Eucalyptus camaldulensis subsp. minima,DN 5233,"Yunta, SA",2010,CCA5432,5233,Eucalyptus camaldulensis subsp. minima,D.Nicolle,5233,32,35,32,139,34,6,300,27,Alive,None evident,,Not applicable,Flowered
+R300/T28,-28.26,1.6,50.8,Eucalyptus camaldulensis subsp. minima,DN 5233,"Yunta, SA",2010,CCA5433,5233,Eucalyptus camaldulensis subsp. minima,D.Nicolle,5233,32,35,32,139,34,6,300,28,Alive,None evident,,Not applicable,
+R244/T20,-30.36,1.4,49.8,Eucalyptus camaldulensis subsp. obtusa,DN 4231,"Durack River, WA",2002,CCA4854,4231,Eucalyptus camaldulensis subsp. obtusa,D.Nicolle,4231,15,52,15,127,21,5,244,20,Alive,None evident,,Not applicable,
+R244/T21,-28.54,1.4,51,Eucalyptus camaldulensis subsp. obtusa,DN 4231,"Durack River, WA",2002,CCA4855,4231,Eucalyptus camaldulensis subsp. obtusa,D.Nicolle,4231,15,52,15,127,21,5,244,21,Alive,None evident,,Not applicable,Flowered
+R244/T22,-29.56,1.5,49.1,Eucalyptus camaldulensis subsp. obtusa,DN 4231,"Durack River, WA",2002,CCA4856,4231,Eucalyptus camaldulensis subsp. obtusa,D.Nicolle,4231,15,52,15,127,21,5,244,22,Alive,None evident,,Not applicable,Flowered
+R011/T14,-26.2,0.8,51.5,Eucalyptus dundasii,DN 129,"Fraser Range, WA",1993,CCA0061,129,Eucalyptus dundasii,D.Nicolle,129,32,1,30,122,46,26,11,14,Alive,None evident,,None evident,Flowered
+R011/T15,-26.56,0.8,51.7,Eucalyptus dundasii,DN 129,"Fraser Range, WA",1993,CCA0062,129,Eucalyptus dundasii,D.Nicolle,129,32,1,30,122,46,26,11,15,Alive,None evident,,None evident,Flowered
+R011/T17,-26.88,0.7,52.1,Eucalyptus dundasii,DN 129,"Fraser Range, WA",1993,CCA0064,129,Eucalyptus dundasii,D.Nicolle,129,32,1,30,122,46,26,11,17,Alive,None evident,,None evident,Flowered
+R011/T24,-25.97,0.8,54.1,Eucalyptus petraea,DN 339,"Cardinnia Rocks, WA",1993,CCA0070,339,Eucalyptus petraea,D.Nicolle,339,30,56,4,122,33,1,11,24,Alive,None evident,,None evident,Flowered
+R011/T25,-26.88,0.8,51.9,Eucalyptus petraea,DN 339,"Cardinnia Rocks, WA",1993,CCA0071,339,Eucalyptus petraea,D.Nicolle,339,30,56,4,122,33,1,11,25,Alive,None evident,,None evident,Flowered
+R011/T26,-25.96,0.8,52,Eucalyptus petraea,DN 339,"Cardinnia Rocks, WA",1993,CCA0072,339,Eucalyptus petraea,D.Nicolle,339,30,56,4,122,33,1,11,26,Alive,None evident,,None evident,Flowered
+R012/T29,-27.02,0.9,52.7,Eucalyptus wyolensis,DN 112,"Oak Valley, SA",1993,CCA0108,112,Eucalyptus wyolensis,D.Nicolle,112,29,20,13,130,13,13,12,29,Alive,None evident,,None evident,Flowered
+R012/T30,-27.78,1,54.3,Eucalyptus wyolensis,DN 112,"Oak Valley, SA",1993,CCA0109,112,Eucalyptus wyolensis,D.Nicolle,112,29,20,13,130,13,13,12,30,Alive,None evident,,None evident,Flowered
+R012/T31,-28.48,0.9,51.7,Eucalyptus wyolensis,DN 112,"Oak Valley, SA",1993,CCA0110,112,Eucalyptus wyolensis,D.Nicolle,112,29,20,13,130,13,13,12,31,Alive,None evident,,None evident,Flowered
+R015/T13,-26.61,0.9,55,Eucalyptus brockwayi,DN 136,"Norseman, WA",1993,CCA0175,136,Eucalyptus brockwayi,D.Nicolle,136,32,8,12,121,41,39,15,13,Alive,None evident,,None evident,Flowered
+R015/T15,-27.01,1,52.1,Eucalyptus brockwayi,DN 136,"Norseman, WA",1993,CCA0177,136,Eucalyptus brockwayi,D.Nicolle,136,32,8,12,121,41,39,15,15,Alive,Fallen since 2016,,,
+R015/T16,-25.36,0.9,53.3,Eucalyptus brockwayi,DN 136,"Norseman, WA",1993,CCA0178,136,Eucalyptus brockwayi,D.Nicolle,136,32,8,12,121,41,39,15,16,Alive,None evident,,None evident,Flowered
+R025/T06,-27.16,0.8,50.4,Eucalyptus georgei subsp. fulgida,DN 323,"Lake Cronin, WA",1993,CCA0383,323,Eucalyptus georgei subsp. fulgida,D.Nicolle,323,32,22,38,119,50,0,25,6,Alive,None evident,,None evident,Flowered
+R025/T07,-28.02,0.9,52.6,Eucalyptus georgei subsp. fulgida,DN 323,"Lake Cronin, WA",1993,CCA0384,323,Eucalyptus georgei subsp. fulgida,D.Nicolle,323,32,22,38,119,50,0,25,7,Alive,None evident,,None evident,Flowered
+R025/T09,-27.73,0.7,51.1,Eucalyptus georgei subsp. fulgida,DN 323,"Lake Cronin, WA",1993,CCA0385,323,Eucalyptus georgei subsp. fulgida,D.Nicolle,323,32,22,38,119,50,0,25,9,Alive,None evident,,None evident,Flowered
+R042/T33,-27.31,0.7,50.8,Eucalyptus utilis,DN 215,"Beaufort Inlet, WA",1994,CCA0589,215,Eucalyptus utilis,D.Nicolle,215,34,27,12,118,52,33,42,33,Alive,None evident,,None evident,Flowered

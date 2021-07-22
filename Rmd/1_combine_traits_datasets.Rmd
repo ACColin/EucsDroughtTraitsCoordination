@@ -30,8 +30,7 @@ the two datasets are combined according to the unique RowTree ID
 then the dataset is filtered by unique RowTree# just in case.
 
 ```{r combine datasets part1}
-d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE) #+
-  colnames(d13C_data)[1]<-"RowTree"
+d13C_data <- read.csv("../data/d13C_DataCleaned_22072021.csv", header = TRUE)
 nrow(d13C_data)
 view(d13C_data)
 
