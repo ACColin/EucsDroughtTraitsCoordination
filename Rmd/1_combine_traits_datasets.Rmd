@@ -45,6 +45,9 @@ full.df <- left_join(d13C_data, species_dataset, by = c("RowTree")) %>%
 nrow(full.df)
 view(full.df)
 
+write.csv(full.df, "../outputs/ACspecies_func_traits_and_d13C.csv")
+
+
 u_full.df<-
   full.df %>% distinct(RowTree, .keep_all = T)
 nrow(u_full.df)
