@@ -30,38 +30,36 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ``` {r combine data for CCA# and provenance}
 d13C_data <- read.csv("../data/d13C_data.csv", header = TRUE)
+colnames(d13C_data)[1]<-"RowTree"
 nrow(d13C_data)
 view(d13C_data)
 
 CCAdata <- read.csv("../data/CCATreesCleaned.csv", header = TRUE)
+colnames(CCAdata)[7]<-"RowTree"
+view(CCAdata)
+nrow(CCAdata)
 
-full.df <- left_join(species_dataset, d13C_data, by = c("RowTree"))
+full.df <- left_join(d13C_data, CCAdata, by = c("RowTree"))
 nrow(full.df)
 view(full.df)
-
-u_full.df<-
-  full.df %>% distinct(RowTree, .keep_all = T)
-nrow(u_full.df)
-view(u_full.df)
 ```
 
 # Combine the previous dataset with CCA_species_description to add provenance details and taxonomy
 
 ``` {r combine data for species description}
-species_dataset <- read.csv("../data/CCA_species_description.csv", header = TRUE)
+species_dataset <- read.csv("../data/CCA_DN_metadata.csv", header = TRUE)
 view(species_dataset)
 nrow(species_dataset)
-full.df <- left_join(species_dataset, d13C_data, by = c("RowTree"))
-nrow(full.df)
-view(full.df)
+
+full.full.df <- left_join(full.df, species_dataset, by = c("RowTree"))
+nrow(full.full.df)
+view(full.full.df)
 
 u_full.df<-
-  full.df %>% distinct(RowTree, .keep_all = T)
+  full.full.df %>% distinct(RowTree, .keep_all = T)
 nrow(u_full.df)
 view(u_full.df)
 
-write.csv(u_full.df, "../outputs/species_functional_traits.csv")
+write.csv(full.full.df, "../outputs/VPM_AC_d13C_data.csv")
 
 ```
-
-``` {r adding life-history trait to previous dataset}
