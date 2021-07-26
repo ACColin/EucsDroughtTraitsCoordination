@@ -87,6 +87,25 @@ write.csv(full.df, "../outputs/species_concatenated_data.csv")
 
 ```
 
+## Separate section: merging life-history trait data to CCA# by = species
+
+``` {r adding life-history data}
+CCAnumber <- read.csv("../data/merge_to_lifehistory.csv", header = T)
+view(CCAnumber)
+colnames(CCAnumber)[1] <- "name"
+
+lifehistory <- read.csv("../data/euc_traits_from_EUCLID.csv", header = T)
+view(lifehistory)
+
+lifehis_data <- left_join(CCAnumber, lifehistory, by = "name") %>%
+  distinct(name, .keep_all = T) %>%
+  drop_na(genus)
+
+view(lifehis_data)  
+nrow(lifehis_data)
+
+write.csv(lifehis_data, "../outputs/life_history_CCA.csv")
+```
 
 ## Selecting/filtering the dataset for specific species/year
 
