@@ -22,7 +22,7 @@ library(readxl)
 library(ggplot2)
 ```
 
-## Separate section: merging life-history trait data to CCA# by = species
+## Merging life-history trait data to CCA# by = species
 
 ``` {r adding life-history data}
 CCAnumber <- read.csv("../data/merge_to_lifehistory.csv", header = T)
