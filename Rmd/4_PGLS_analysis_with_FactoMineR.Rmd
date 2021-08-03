@@ -1,0 +1,19 @@
+---
+title: "PGLS - CCA species with functional and life-history trait data"
+author: "Anne-Cecile Colin"
+date: "03/08/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(FactoMineR)
+library(factoextra)
+library(corrplot)
+```
+
+``` {r read data}
+
+```
