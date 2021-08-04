@@ -104,4 +104,27 @@ view(cca_filtered)
 str(cca_filtered)
 ```
 
+
+
+``` {r constructing the final PCA dataset}
+d13C <- read.csv("../data/d13C_data.csv", header = T) # all CCA data
+colnames(d13C)[1]<-"RowTree"
+nrow(d13C)
+view(d13C)
+
+functional.traits <- read.csv("../outputs/species_functional_traits.csv", header = T) ## my species only
+nrow(functional.traits)
+view(functional.traits)
+
+<- read.csv("../data/CCA_functional_traits.csv", header = T)
+life.hist <- read.csv("../data/species_dataset.csv", header = T) # my species only
+nrow(life.hist)
+view(life.hist)
+
+PCA.df1 <- left_join(functional.traits, d13C, by = "RowTree")
+nrow(PCA.df1)
+
+PCA.df2 <- left_join(PCA.df1, life.hist, by = "RowTree")
+nrow(PCA.df2)
+write.csv(PCA.df2, "../outputs/PCA_dataset.csv")
 ```
